@@ -1,0 +1,6649 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sky130",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T22:02:44Z",
+            "owner": "google",
+            "repo": "skywater-pdk",
+            "stars": 3649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sg13g2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T18:26:57Z",
+            "owner": "IHP-GmbH",
+            "repo": "IHP-Open-PDK",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gf180",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2023-05-31T20:09:58Z",
+            "owner": "google",
+            "repo": "gf180mcu-pdk",
+            "stars": 516
+          }
+        }
+      ],
+      "title": "Manufacturable PDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "freepdk45",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:18:46Z",
+            "owner": "siliconcompiler",
+            "repo": "siliconcompiler",
+            "stars": 1198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asap7",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-12T17:31:35Z",
+            "owner": "The-OpenROAD-Project",
+            "repo": "asap7",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "probe3.0",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-04-08T22:50:07Z",
+            "owner": "ABKGroup",
+            "repo": "PROBE3.0",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "Virtual PDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chipyard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-07-29T05:39:54Z",
+            "owner": "ucb-bar",
+            "repo": "chipyard",
+            "stars": 2353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fusesoc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T09:11:20Z",
+            "owner": "olofk",
+            "repo": "fusesoc",
+            "stars": 1447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "siliconcompiler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:18:46Z",
+            "owner": "siliconcompiler",
+            "repo": "siliconcompiler",
+            "stars": 1198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edalize",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:05:25Z",
+            "owner": "olofk",
+            "repo": "edalize",
+            "stars": 786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bender",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:43:16Z",
+            "owner": "pulp-platform",
+            "repo": "bender",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hammer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T22:32:22Z",
+            "owner": "ucb-bar",
+            "repo": "hammer",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mflowgen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T01:14:37Z",
+            "owner": "mflowgen",
+            "repo": "mflowgen",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazelhdl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-07-29T18:39:46Z",
+            "owner": "hdl",
+            "repo": "bazel_rules_hdl",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orbit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-29T06:28:07Z",
+            "owner": "chaseruskin",
+            "repo": "orbit",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cocoon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-20T00:21:16Z",
+            "owner": "pku-dasys",
+            "repo": "cocoon",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoCMake",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2026-08-11T11:36:10Z",
+            "owner": "HEP-SoC",
+            "repo": "SoCMake",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flgen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T00:56:46Z",
+            "owner": "pezy-computing",
+            "repo": "flgen",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hbs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2026-07-26T09:46:54Z",
+            "owner": "m-kru",
+            "repo": "hbs",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hwtbuildsystem",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T12:11:11Z",
+            "owner": "Nic30",
+            "repo": "hwtBuildsystem",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Build Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "halide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:57:01Z",
+            "owner": "halide",
+            "repo": "Halide",
+            "stars": 6581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chisel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T04:15:43Z",
+            "owner": "chipsalliance",
+            "repo": "chisel",
+            "stars": 4755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yosys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:40:00Z",
+            "owner": "YosysHQ",
+            "repo": "yosys",
+            "stars": 4663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "circt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:35:14Z",
+            "owner": "llvm",
+            "repo": "circt",
+            "stars": 2214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amaranth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T03:08:02Z",
+            "owner": "amaranth-lang",
+            "repo": "amaranth",
+            "stars": 2066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spinalhdl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-12T07:15:05Z",
+            "owner": "SpinalHDL",
+            "repo": "SpinalHDL",
+            "stars": 2026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verible",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T12:17:10Z",
+            "owner": "chipsalliance",
+            "repo": "verible",
+            "stars": 1907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xls",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:09:47Z",
+            "owner": "google",
+            "repo": "xls",
+            "stars": 1819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skidl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T02:55:22Z",
+            "owner": "devbisme",
+            "repo": "skidl",
+            "stars": 1620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T11:53:31Z",
+            "owner": "clash-lang",
+            "repo": "clash-compiler",
+            "stars": 1606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "silice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-18T20:05:27Z",
+            "owner": "sylefeb",
+            "repo": "Silice",
+            "stars": 1430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T03:30:43Z",
+            "owner": "berkeley-abc",
+            "repo": "abc",
+            "stars": 1211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bsc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-03T03:53:51Z",
+            "owner": "B-Lang-org",
+            "repo": "bsc",
+            "stars": 1136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "myhdl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-10T18:55:22Z",
+            "owner": "myhdl",
+            "repo": "myhdl",
+            "stars": 1125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T13:44:14Z",
+            "owner": "MikePopoloski",
+            "repo": "slang",
+            "stars": 1110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "finn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:08:18Z",
+            "owner": "Xilinx",
+            "repo": "finn",
+            "stars": 1037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veryl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:58:36Z",
+            "owner": "veryl-lang",
+            "repo": "veryl",
+            "stars": 1011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyverilog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-15T15:44:30Z",
+            "owner": "PyHDI",
+            "repo": "Pyverilog",
+            "stars": 798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "firrtl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2024-08-20T18:13:34Z",
+            "owner": "chipsalliance",
+            "repo": "firrtl",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sv2v",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-03-28T02:54:17Z",
+            "owner": "zachjs",
+            "repo": "sv2v",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pipelinec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:14:08Z",
+            "owner": "JulianKemmerer",
+            "repo": "PipelineC",
+            "stars": 741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "systemc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-15T15:10:54Z",
+            "owner": "accellera-official",
+            "repo": "systemc",
+            "stars": 685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scip",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T18:36:46Z",
+            "owner": "scipopt",
+            "repo": "scip",
+            "stars": 628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "calyx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T14:45:52Z",
+            "owner": "calyxir",
+            "repo": "calyx",
+            "stars": 608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aihwkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-10T09:10:08Z",
+            "owner": "IBM",
+            "repo": "aihwkit",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rohd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T23:28:07Z",
+            "owner": "intel",
+            "repo": "rohd",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sv-parser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-10T01:05:59Z",
+            "owner": "dalance",
+            "repo": "sv-parser",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surelog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-28T20:05:42Z",
+            "owner": "chipsalliance",
+            "repo": "Surelog",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pymtl3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T20:59:01Z",
+            "owner": "pymtl",
+            "repo": "pymtl3",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llhd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-04-20T09:57:15Z",
+            "owner": "fabianschuiki",
+            "repo": "llhd",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghdl-yosys-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2026-06-22T20:01:16Z",
+            "owner": "ghdl",
+            "repo": "ghdl-yosys-plugin",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panda-bambu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T08:14:36Z",
+            "owner": "ferrandi",
+            "repo": "PandA-bambu",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdlconvertor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-30T16:05:06Z",
+            "owner": "Nic30",
+            "repo": "hdlConvertor",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veriloggen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-08T16:18:39Z",
+            "owner": "PyHDI",
+            "repo": "veriloggen",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hastlayer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2026-08-08T15:28:12Z",
+            "owner": "Lombiq",
+            "repo": "Hastlayer-SDK",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "systemc-compiler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:18:10Z",
+            "owner": "intel",
+            "repo": "systemc-compiler",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mockturtle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T10:38:07Z",
+            "owner": "lsils",
+            "repo": "mockturtle",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyrtl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:53:45Z",
+            "owner": "UCSBarchlab",
+            "repo": "PyRTL",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matchlib",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-23T23:13:57Z",
+            "owner": "NVlabs",
+            "repo": "matchlib",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uhdm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-22T03:53:29Z",
+            "owner": "chipsalliance",
+            "repo": "UHDM",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magma",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-19T20:11:36Z",
+            "owner": "phanrahan",
+            "repo": "magma",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "livehd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T18:22:24Z",
+            "owner": "masc-ucsc",
+            "repo": "livehd",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "synlig",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-03-10T07:05:34Z",
+            "owner": "chipsalliance",
+            "repo": "synlig",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lstools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-04-05T14:35:46Z",
+            "owner": "lsils",
+            "repo": "lstools-showcase",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fault",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-08-30T04:16:19Z",
+            "owner": "AUCOHL",
+            "repo": "Fault",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tce",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-27T08:37:42Z",
+            "owner": "cpc",
+            "repo": "openasip",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kami",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-05-26T11:22:44Z",
+            "owner": "mit-plv",
+            "repo": "kami",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "naja",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-08-12T09:50:13Z",
+            "owner": "najaeda",
+            "repo": "naja",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pygears",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-26T09:11:47Z",
+            "owner": "bogdanvuk",
+            "repo": "pygears",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipyxact",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-13T10:48:20Z",
+            "owner": "olofk",
+            "repo": "ipyxact",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "act",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T08:58:09Z",
+            "owner": "asyncvlsi",
+            "repo": "act",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "circuitgraph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2023-11-17T07:27:49Z",
+            "owner": "circuitgraph",
+            "repo": "circuitgraph",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tapasco",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-06-23T07:27:15Z",
+            "owner": "esa-tu-darmstadt",
+            "repo": "tapasco",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lsoracle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-04-15T22:21:37Z",
+            "owner": "lnis-uofu",
+            "repo": "LSOracle",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spydrnet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T20:38:40Z",
+            "owner": "byuccl",
+            "repo": "spydrnet",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coreir",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-06-27T21:42:15Z",
+            "owner": "rdaly525",
+            "repo": "coreir",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "circuitops",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-24T20:21:04Z",
+            "owner": "NVlabs",
+            "repo": "CircuitOps",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dfiant",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T00:13:21Z",
+            "owner": "DFiantHDL",
+            "repo": "DFHDL",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdl21",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-17T07:26:44Z",
+            "owner": "dan-fritchman",
+            "repo": "Hdl21",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hs-to-coq",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rocq Prover",
+            "last_commit": "2026-07-09T06:07:16Z",
+            "owner": "plclub",
+            "repo": "hs-to-rocq",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sodaopt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-01T22:01:42Z",
+            "owner": "pnnl",
+            "repo": "soda-opt",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gamora",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-01-08T03:04:31Z",
+            "owner": "Yu-Maryland",
+            "repo": "Gamora",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pysysc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-26T11:55:40Z",
+            "owner": "accellera-official",
+            "repo": "PySysC",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verik",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-12-24T17:46:14Z",
+            "owner": "frwang96",
+            "repo": "verik",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gamma",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-30T15:52:49Z",
+            "owner": "maestro-project",
+            "repo": "gamma",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matchclib_connections",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-06T16:52:43Z",
+            "owner": "hlslibs",
+            "repo": "matchlib_connections",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bigspicy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-10T00:15:59Z",
+            "owner": "google",
+            "repo": "bigspicy",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vlsir",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-15T15:04:36Z",
+            "owner": "Vlsir",
+            "repo": "Vlsir",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netlist-paths",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-06-13T20:38:37Z",
+            "owner": "jameshanlon",
+            "repo": "netlist-paths",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halide-to-hardware",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-14T15:15:41Z",
+            "owner": "StanfordAHA",
+            "repo": "Halide-to-Hardware",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Circuit Compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nextpnr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T09:31:43Z",
+            "owner": "YosysHQ",
+            "repo": "nextpnr",
+            "stars": 1724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vtr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:07:25Z",
+            "owner": "verilog-to-routing",
+            "repo": "vtr-verilog-to-routing",
+            "stars": 1257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flowtune",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-11-12T18:59:04Z",
+            "owner": "Yu-Maryland",
+            "repo": "FlowTune",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amf-placer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-09T09:53:20Z",
+            "owner": "zslwyuan",
+            "repo": "AMF-Placer",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dreamplacefpga",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-30T18:13:59Z",
+            "owner": "rachelselinar",
+            "repo": "DREAMPlaceFPGA",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "FPGA Compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openroad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-08-12T23:28:31Z",
+            "owner": "The-OpenROAD-Project",
+            "repo": "OpenROAD",
+            "stars": 2964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "klayout",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T21:57:50Z",
+            "owner": "KLayout",
+            "repo": "klayout",
+            "stars": 1165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dreamplace",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-18T08:53:32Z",
+            "owner": "limbo018",
+            "repo": "DREAMPlace",
+            "stars": 1034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdsfactory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:48:39Z",
+            "owner": "gdsfactory",
+            "repo": "gdsfactory",
+            "stars": 1009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T07:00:03Z",
+            "owner": "RTimothyEdwards",
+            "repo": "magic",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ieda",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-09T07:43:19Z",
+            "owner": "OSCC-Project",
+            "repo": "iEDA",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdstk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T23:06:04Z",
+            "owner": "heitzmann",
+            "repo": "gdstk",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdspy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-11T15:17:23Z",
+            "owner": "heitzmann",
+            "repo": "gdspy",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "align",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T15:44:24Z",
+            "owner": "ALIGN-analoglayout",
+            "repo": "ALIGN-public",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magical",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-24T20:14:21Z",
+            "owner": "magical-eda",
+            "repo": "MAGICAL",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gds3d",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-20T08:13:41Z",
+            "owner": "trilomix",
+            "repo": "GDS3D",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phidl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-08T14:03:06Z",
+            "owner": "amccaugh",
+            "repo": "phidl",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bag",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-04T01:18:38Z",
+            "owner": "ucb-art",
+            "repo": "BAG_framework",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autodmp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-07-12T20:19:29Z",
+            "owner": "NVlabs",
+            "repo": "AutoDMP",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "layout21",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-25T06:42:10Z",
+            "owner": "dan-fritchman",
+            "repo": "Layout21",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdsiistl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-22T10:18:42Z",
+            "owner": "dteal",
+            "repo": "gdsiistl",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kweb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2026-06-05T10:42:44Z",
+            "owner": "gdsfactory",
+            "repo": "kweb",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Layout Compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "verilog-eval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2025-07-14T21:47:51Z",
+            "owner": "NVlabs",
+            "repo": "verilog-eval",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sv-tests",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-12T22:08:45Z",
+            "owner": "chipsalliance",
+            "repo": "sv-tests",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "epfl-benchmarks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-05-06T17:18:11Z",
+            "owner": "lsils",
+            "repo": "benchmarks",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bringup-bench",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-05T02:27:12Z",
+            "owner": "toddmaustin",
+            "repo": "bringup-bench",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "corescore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-06-09T20:12:23Z",
+            "owner": "olofk",
+            "repo": "corescore",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fpga-tool-perf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-24T10:45:53Z",
+            "owner": "chipsalliance",
+            "repo": "fpga-tool-perf",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opdb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2023-03-06T16:16:21Z",
+            "owner": "PrincetonUniversity",
+            "repo": "OPDB",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rdf-2020",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2022-01-08T04:52:01Z",
+            "owner": "ieee-ceda-datc",
+            "repo": "RDF-2020",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bsg_pipeclean_suite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2020-01-09T16:37:48Z",
+            "owner": "bespoke-silicon-group",
+            "repo": "bsg_pipeclean_suite",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "big-doe-openroad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-10T01:58:48Z",
+            "owner": "msaligane",
+            "repo": "Big-DoE-OpenROAD",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "freecad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:36:17Z",
+            "owner": "FreeCAD",
+            "repo": "FreeCAD",
+            "stars": 32809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "librepcb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T08:49:29Z",
+            "owner": "LibrePCB",
+            "repo": "LibrePCB",
+            "stars": 2965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kicad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:10:41Z",
+            "owner": "KiCad",
+            "repo": "kicad-source-mirror",
+            "stars": 2881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kikit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T19:09:04Z",
+            "owner": "yaqwsx",
+            "repo": "KiKit",
+            "stars": 2006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freerouting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T21:58:28Z",
+            "owner": "freerouting",
+            "repo": "freerouting",
+            "stars": 1865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kicanvas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-28T17:37:55Z",
+            "owner": "theacodes",
+            "repo": "kicanvas",
+            "stars": 1118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cuflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T03:13:31Z",
+            "owner": "jamesbowman",
+            "repo": "cuflow",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kicad-skip",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-26T05:14:23Z",
+            "owner": "psychogenic",
+            "repo": "kicad-skip",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pcbflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-12T01:04:55Z",
+            "owner": "michaelgale",
+            "repo": "pcbflow",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boardview",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-11T01:39:15Z",
+            "owner": "whitequark",
+            "repo": "kicad-boardview",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "datasheet-scrubber",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-16T08:23:43Z",
+            "owner": "idea-fasoc",
+            "repo": "datasheet-scrubber",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Board Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "digital",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-12T17:09:11Z",
+            "owner": "hneemann",
+            "repo": "Digital",
+            "stars": 5908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vscode-teroshdl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2026-08-07T15:01:49Z",
+            "owner": "TerosTechnology",
+            "repo": "vscode-terosHDL",
+            "stars": 736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vscode-systemverilog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T09:28:18Z",
+            "owner": "eirikpre",
+            "repo": "VSCode-SystemVerilog",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vsrtl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-14T09:36:46Z",
+            "owner": "mortbopet",
+            "repo": "VSRTL",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DigSim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-02T14:23:48Z",
+            "owner": "freand76",
+            "repo": "digsim",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Digital Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sphinx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T23:02:22Z",
+            "owner": "sphinx-doc",
+            "repo": "sphinx",
+            "stars": 7974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nn-svg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-02T12:07:58Z",
+            "owner": "alexlenail",
+            "repo": "NN-SVG",
+            "stars": 5688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wireviz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-06T09:54:06Z",
+            "owner": "wireviz",
+            "repo": "WireViz",
+            "stars": 5222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wavedrom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-08T23:45:28Z",
+            "owner": "wavedrom",
+            "repo": "wavedrom",
+            "stars": 3459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kythe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T12:17:10Z",
+            "owner": "chipsalliance",
+            "repo": "verible",
+            "stars": 1907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphviz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T07:09:57Z",
+            "owner": "xflr6",
+            "repo": "graphviz",
+            "stars": 1805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pcbdraw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T12:01:22Z",
+            "owner": "yaqwsx",
+            "repo": "PcbDraw",
+            "stars": 1407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netlistsvg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-25T15:56:06Z",
+            "owner": "nturley",
+            "repo": "netlistsvg",
+            "stars": 813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pinion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T04:31:13Z",
+            "owner": "yaqwsx",
+            "repo": "Pinion",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pinout",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T01:09:04Z",
+            "owner": "j0ono0",
+            "repo": "pinout",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-05T12:49:28Z",
+            "owner": "eclipse-elk",
+            "repo": "elk",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gds3d",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-20T08:13:41Z",
+            "owner": "trilomix",
+            "repo": "GDS3D",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "symbolator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-02T17:59:12Z",
+            "owner": "kevinpt",
+            "repo": "symbolator",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wavedrompy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-02T13:50:35Z",
+            "owner": "wallento",
+            "repo": "wavedrompy",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netlist-viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T10:13:34Z",
+            "owner": "f18m",
+            "repo": "netlist-viewer",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdelk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-01T07:28:11Z",
+            "owner": "davidthings",
+            "repo": "hdelk",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sphinxcontrib-hdl-diagrams",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-25T20:57:32Z",
+            "owner": "SymbiFlow",
+            "repo": "sphinxcontrib-hdl-diagrams",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memory-layout-diagram",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-11T23:44:38Z",
+            "owner": "gerph",
+            "repo": "memory-layout-diagram",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "undulate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-19T07:32:33Z",
+            "owner": "LudwigCRON",
+            "repo": "undulate",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sphinx-verilog-domain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-01T19:21:24Z",
+            "owner": "SymbiFlow",
+            "repo": "sphinx-verilog-domain",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "icestudio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:36:49Z",
+            "owner": "FPGAwars",
+            "repo": "icestudio",
+            "stars": 1922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openfpgaloader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T15:01:20Z",
+            "owner": "trabucayre",
+            "repo": "openFPGALoader",
+            "stars": 1705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "f4fpga",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-06T00:22:00Z",
+            "owner": "chipsalliance",
+            "repo": "f4pga",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "f4pga/f4pga-arch-defs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T04:54:24Z",
+            "owner": "f4pga",
+            "repo": "f4pga-arch-defs",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyfpga",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-22T21:18:18Z",
+            "owner": "PyFPGA",
+            "repo": "pyfpga",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foedag",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-11T04:32:05Z",
+            "owner": "os-fpga",
+            "repo": "FOEDAG",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "logik",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T15:55:42Z",
+            "owner": "siliconcompiler",
+            "repo": "logik",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "byteman",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-20T17:45:45Z",
+            "owner": "FPGA-Research",
+            "repo": "byteman",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rphax",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2023-02-25T23:45:31Z",
+            "owner": "shariethernet",
+            "repo": "RPHAX",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "FPGA Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "z3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:06:16Z",
+            "owner": "Z3Prover",
+            "repo": "z3",
+            "stars": 12550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cvc5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SMT",
+            "last_commit": "2026-08-12T22:16:17Z",
+            "owner": "cvc5",
+            "repo": "cvc5",
+            "stars": 1351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T07:27:17Z",
+            "owner": "YosysHQ",
+            "repo": "sby",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boolector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SMT",
+            "last_commit": "2024-08-23T23:16:34Z",
+            "owner": "Boolector",
+            "repo": "boolector",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pono",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T12:25:32Z",
+            "owner": "stanford-centaur",
+            "repo": "pono",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autosva",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-29T13:00:14Z",
+            "owner": "PrincetonUniversity",
+            "repo": "AutoSVA",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ilang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-03T17:12:02Z",
+            "owner": "PrincetonUniversity",
+            "repo": "ILAng",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autocc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Standard ML",
+            "last_commit": "2024-10-25T03:55:13Z",
+            "owner": "morenes",
+            "repo": "AutoCC",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Formal Verification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "verilator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-12T23:13:41Z",
+            "owner": "verilator",
+            "repo": "verilator",
+            "stars": 3840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verible",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T12:17:10Z",
+            "owner": "chipsalliance",
+            "repo": "verible",
+            "stars": 1907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svlint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-06T20:01:47Z",
+            "owner": "dalance",
+            "repo": "svlint",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svlint-action",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2023-08-25T07:40:29Z",
+            "owner": "dalance",
+            "repo": "svlint-action",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Linters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rggen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-16T23:55:25Z",
+            "owner": "rggen",
+            "repo": "rggen",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "systemrdl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-10T05:02:52Z",
+            "owner": "SystemRDL",
+            "repo": "systemrdl-compiler",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-register-design-tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-06-03T17:24:10Z",
+            "owner": "Juniper",
+            "repo": "open-register-design-tool",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peakrdl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T18:58:20Z",
+            "owner": "SystemRDL",
+            "repo": "PeakRDL",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdl-registers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:06:50Z",
+            "owner": "hdl-registers",
+            "repo": "hdl-registers",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gen_registers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-10T15:02:23Z",
+            "owner": "lsteveol",
+            "repo": "gen_registers",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Register Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "qucs_s",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T15:22:13Z",
+            "owner": "ra3xdh",
+            "repo": "qucs_s",
+            "stars": 1348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openplc_editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2025-11-06T16:17:26Z",
+            "owner": "thiagoralves",
+            "repo": "OpenPLC_Editor",
+            "stars": 576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xschem",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T13:35:25Z",
+            "owner": "StefanSchippers",
+            "repo": "xschem",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kaktus2dev",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T11:09:04Z",
+            "owner": "kactus2",
+            "repo": "kactus2dev",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oregano",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-28T10:16:16Z",
+            "owner": "drahnr",
+            "repo": "oregano",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-hwschematics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-13T16:02:48Z",
+            "owner": "Nic30",
+            "repo": "d3-hwschematic",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdl21schematics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-24T17:28:08Z",
+            "owner": "Vlsir",
+            "repo": "Hdl21Schematics",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Schematics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "qemu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:48:30Z",
+            "owner": "qemu",
+            "repo": "qemu",
+            "stars": 13560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "logisim-evolution",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T12:34:57Z",
+            "owner": "logisim-evolution",
+            "repo": "logisim-evolution",
+            "stars": 7422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verilator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-12T23:13:41Z",
+            "owner": "verilator",
+            "repo": "verilator",
+            "stars": 3840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "icarus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T03:31:19Z",
+            "owner": "steveicarus",
+            "repo": "iverilog",
+            "stars": 3591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghdl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2026-08-11T19:46:33Z",
+            "owner": "ghdl",
+            "repo": "ghdl",
+            "stars": 2860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gem5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T18:09:21Z",
+            "owner": "gem5",
+            "repo": "gem5",
+            "stars": 2751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "renode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "RobotFramework",
+            "last_commit": "2026-08-12T18:43:43Z",
+            "owner": "renode",
+            "repo": "renode",
+            "stars": 2719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "firesim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-06-26T01:50:55Z",
+            "owner": "firesim",
+            "repo": "firesim",
+            "stars": 1032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T09:07:07Z",
+            "owner": "nickg",
+            "repo": "nvc",
+            "stars": 872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "champsim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-28T20:26:26Z",
+            "owner": "ChampSim",
+            "repo": "ChampSim",
+            "stars": 741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ramulator2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T01:19:54Z",
+            "owner": "CMU-SAFARI",
+            "repo": "ramulator2",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noxim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-09T07:49:58Z",
+            "owner": "davidepatti",
+            "repo": "noxim",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libsystemctlm-soc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-06-26T07:51:33Z",
+            "owner": "Xilinx",
+            "repo": "libsystemctlm-soc",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simulide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-11-04T11:51:01Z",
+            "owner": "SimulIDE",
+            "repo": "SimulIDE",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dromajo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-11-20T17:05:17Z",
+            "owner": "chipsalliance",
+            "repo": "dromajo",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SST",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T14:14:40Z",
+            "owner": "sstsimulator",
+            "repo": "sst-core",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "essent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-04T18:38:22Z",
+            "owner": "ucsc-vama",
+            "repo": "essent",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xictools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-02T03:29:15Z",
+            "owner": "wrcad",
+            "repo": "xictools",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eesim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-07T21:45:17Z",
+            "owner": "eelab-dev",
+            "repo": "EEcircuit",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xyce",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T16:30:31Z",
+            "owner": "Xyce",
+            "repo": "Xyce",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "systemc-components",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T14:48:28Z",
+            "owner": "Minres",
+            "repo": "SystemC-Components",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sax",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T15:12:04Z",
+            "owner": "gdsfactory",
+            "repo": "sax",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimEng",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-17T15:45:36Z",
+            "owner": "UoB-HPC",
+            "repo": "SimEng",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muchisim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-30T02:08:35Z",
+            "owner": "PrincetonUniversity",
+            "repo": "muchiSim",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiny-five",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-01T23:04:08Z",
+            "owner": "OpenMachine-ai",
+            "repo": "tinyfive",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pysysc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-26T11:55:40Z",
+            "owner": "accellera-official",
+            "repo": "PySysC",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "irsim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-13T08:00:11Z",
+            "owner": "RTimothyEdwards",
+            "repo": "irsim",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lwtr4sc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-06T19:08:38Z",
+            "owner": "Minres",
+            "repo": "LWTR4SC",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Electronics Simulators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cocotb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:28:03Z",
+            "owner": "cocotb",
+            "repo": "cocotb",
+            "stars": 2471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openplc_v3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2026-04-04T04:13:25Z",
+            "owner": "thiagoralves",
+            "repo": "OpenPLC_v3",
+            "stars": 1569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "riscv-dv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-03T15:17:27Z",
+            "owner": "chipsalliance",
+            "repo": "riscv-dv",
+            "stars": 1341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyspice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-13T15:11:18Z",
+            "owner": "PySpice-org",
+            "repo": "PySpice",
+            "stars": 857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vunit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2026-08-12T15:12:19Z",
+            "owner": "VUnit",
+            "repo": "vunit",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentimer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-12-26T05:39:10Z",
+            "owner": "OpenTimer",
+            "repo": "OpenTimer",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "core-v-verif",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-07-17T17:24:22Z",
+            "owner": "openhwgroup",
+            "repo": "core-v-verif",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opensta",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-08-12T03:19:59Z",
+            "owner": "The-OpenROAD-Project",
+            "repo": "OpenSTA",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyuvm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:29:12Z",
+            "owner": "pyuvm",
+            "repo": "pyuvm",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uvvm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2026-04-22T12:02:19Z",
+            "owner": "UVVM",
+            "repo": "UVVM",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cocotbext-axi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-13T04:44:25Z",
+            "owner": "alexforencich",
+            "repo": "cocotbext-axi",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "switchboard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T23:53:30Z",
+            "owner": "zeroasiccorp",
+            "repo": "switchboard",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "force-riscv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-17T10:28:18Z",
+            "owner": "openhwgroup",
+            "repo": "force-riscv",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maestro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-04-15T11:49:39Z",
+            "owner": "maestro-project",
+            "repo": "maestro",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cocotbext-pcie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-08T00:50:09Z",
+            "owner": "alexforencich",
+            "repo": "cocotbext-pcie",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openvaf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-20T20:24:30Z",
+            "owner": "pascalkuthe",
+            "repo": "OpenVAF",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "systemctlm-cosim-demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-25T09:17:50Z",
+            "owner": "Xilinx",
+            "repo": "systemctlm-cosim-demo",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pcievhost",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-16T11:42:27Z",
+            "owner": "wyvernSemi",
+            "repo": "pcievhost",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyvsc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-05T21:24:16Z",
+            "owner": "fvutils",
+            "repo": "pyvsc",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netgen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-07T07:00:06Z",
+            "owner": "RTimothyEdwards",
+            "repo": "netgen",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ddr5_phy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2024-03-21T06:13:07Z",
+            "owner": "Shehab-Naga",
+            "repo": "ddr5_phy",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osvvm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-30T18:16:51Z",
+            "owner": "OSVVM",
+            "repo": "OsvvmLibraries",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vidbo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-11-26T14:12:50Z",
+            "owner": "olofk",
+            "repo": "vidbo",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svreal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2021-01-13T23:22:18Z",
+            "owner": "sgherbst",
+            "repo": "svreal",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msdsl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-02T17:26:11Z",
+            "owner": "sgherbst",
+            "repo": "msdsl",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fault",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-11T22:08:16Z",
+            "owner": "leonardt",
+            "repo": "fault",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rohd-vf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-13T17:56:17Z",
+            "owner": "intel",
+            "repo": "rohd-vf",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frame",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-13T17:51:47Z",
+            "owner": "maestro-project",
+            "repo": "frame",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anasysmod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-28T17:00:35Z",
+            "owner": "sgherbst",
+            "repo": "anasymod",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cvc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-09T06:31:56Z",
+            "owner": "d-m-bailey",
+            "repo": "cvc",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyucis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T00:05:21Z",
+            "owner": "fvutils",
+            "repo": "pyucis",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "raft",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T05:25:20Z",
+            "owner": "Xilinx",
+            "repo": "RAFT",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rohd-cosim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-05-20T19:33:31Z",
+            "owner": "intel",
+            "repo": "rohd-cosim",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fstdumper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-09-19T08:51:26Z",
+            "owner": "semify-eda",
+            "repo": "fstdumper",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adc-eval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-26T19:24:50Z",
+            "owner": "esynr3z",
+            "repo": "adc-eval",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awsteria_infra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2024-09-26T13:55:35Z",
+            "owner": "bluespec",
+            "repo": "AWSteria_Infra",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "constrainedrandom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-14T12:22:29Z",
+            "owner": "imaginationtech",
+            "repo": "constrainedrandom",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sv_waveterm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2023-11-02T20:53:26Z",
+            "owner": "PeterMonsson",
+            "repo": "sv_waveterm",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "v2k-top",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-02T01:18:51Z",
+            "owner": "kev-cam",
+            "repo": "v2k-top",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Verification Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "meep",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T17:15:32Z",
+            "owner": "NanoComp",
+            "repo": "meep",
+            "stars": 1737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paraview",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:03:23Z",
+            "owner": "Kitware",
+            "repo": "ParaView",
+            "stars": 1681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elmer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2026-08-12T12:25:53Z",
+            "owner": "ElmerCSC",
+            "repo": "elmerfem",
+            "stars": 1661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scikit-rf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T20:43:05Z",
+            "owner": "scikit-rf",
+            "repo": "scikit-rf",
+            "stars": 923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "femwell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T04:47:12Z",
+            "owner": "HelgeGehring",
+            "repo": "femwell",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hotspot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-06T09:43:08Z",
+            "owner": "uvahotspot",
+            "repo": "HotSpot",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pact",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-16T19:51:24Z",
+            "owner": "peaclab",
+            "repo": "PACT",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "Physics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gtkwave",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-23T19:11:10Z",
+            "owner": "gtkwave",
+            "repo": "gtkwave",
+            "stars": 1004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "konata",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:42:00Z",
+            "owner": "shioyadan",
+            "repo": "Konata",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scopy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T12:10:27Z",
+            "owner": "analogdevicesinc",
+            "repo": "scopy",
+            "stars": 499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iio-oscilloscope",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T07:30:02Z",
+            "owner": "analogdevicesinc",
+            "repo": "iio-oscilloscope",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npTDMS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T21:43:02Z",
+            "owner": "adamreeve",
+            "repo": "npTDMS",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verilog-vcd-parser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-03-06T16:11:12Z",
+            "owner": "ben-marshall",
+            "repo": "verilog-vcd-parser",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waveforms-live",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-07-07T00:59:56Z",
+            "owner": "Digilent",
+            "repo": "waveforms-live",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simview",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-22T00:19:59Z",
+            "owner": "pieter3d",
+            "repo": "simview",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wavebin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-05T11:40:48Z",
+            "owner": "sam210723",
+            "repo": "wavebin",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sootty",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-19T10:52:44Z",
+            "owner": "Ben1152000",
+            "repo": "sootty",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3wave",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-09T11:32:35Z",
+            "owner": "Nic30",
+            "repo": "d3-wave",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spyci",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-26T21:01:45Z",
+            "owner": "gmagno",
+            "repo": "spyci",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scviewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-10T07:44:40Z",
+            "owner": "Minres",
+            "repo": "SCViewer",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Waveform Viewers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nyuziprocessor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-11-08T06:00:11Z",
+            "owner": "jbush001",
+            "repo": "NyuziProcessor",
+            "stars": 2215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vortex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-08-05T21:28:52Z",
+            "owner": "vortexgpgpu",
+            "repo": "vortex",
+            "stars": 2203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvdla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2022-03-02T14:10:39Z",
+            "owner": "nvdla",
+            "repo": "hw",
+            "stars": 2137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemmini",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-06-30T07:43:14Z",
+            "owner": "ucb-bar",
+            "repo": "gemmini",
+            "stars": 1424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verigpu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2024-11-22T04:42:11Z",
+            "owner": "hughperkins",
+            "repo": "VeriGPU",
+            "stars": 1359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "finn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:08:18Z",
+            "owner": "Xilinx",
+            "repo": "finn",
+            "stars": 1037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fpu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2023-03-13T18:44:03Z",
+            "owner": "dawsonjon",
+            "repo": "fpu",
+            "stars": 752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyfda",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:38:27Z",
+            "owner": "chipmuenk",
+            "repo": "pyfda",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gplgpu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2014-08-31T21:11:22Z",
+            "owner": "asicguy",
+            "repo": "gplgpu",
+            "stars": 701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T12:54:40Z",
+            "owner": "pulp-platform",
+            "repo": "ara",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openofdm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2023-01-29T05:08:45Z",
+            "owner": "jhshi",
+            "repo": "openofdm",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-12-29T08:33:57Z",
+            "owner": "secworks",
+            "repo": "aes",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sha256",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-12-15T09:07:18Z",
+            "owner": "secworks",
+            "repo": "sha256",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nngen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-17T01:54:07Z",
+            "owner": "NNgen",
+            "repo": "nngen",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tvm-vta",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-04-10T11:56:00Z",
+            "owner": "apache",
+            "repo": "tvm-vta",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "project-zipline",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2023-04-11T15:22:03Z",
+            "owner": "opencomputeproject",
+            "repo": "Project-Zipline",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h265-encoder-rtl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2023-04-09T10:25:08Z",
+            "owner": "openasic-org",
+            "repo": "xk265",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "core_jpeg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2022-03-05T21:24:43Z",
+            "owner": "ultraembedded",
+            "repo": "core_jpeg",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spiral",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-09T18:52:11Z",
+            "owner": "spiral-software",
+            "repo": "spiral-software",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opencgra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-03-04T08:04:03Z",
+            "owner": "pnnl",
+            "repo": "OpenCGRA",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspike",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2023-02-13T18:45:51Z",
+            "owner": "sfmth",
+            "repo": "OpenSpike",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verilog-lfsr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-27T23:53:33Z",
+            "owner": "alexforencich",
+            "repo": "verilog-lfsr",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bismp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2019-12-25T16:07:40Z",
+            "owner": "EECS-NTNU",
+            "repo": "bismo",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "garnet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T04:48:45Z",
+            "owner": "StanfordAHA",
+            "repo": "garnet",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "logicnets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-12T11:12:39Z",
+            "owner": "Xilinx",
+            "repo": "logicnets",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sextans",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T14:19:05Z",
+            "owner": "linghaosong",
+            "repo": "Sextans",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sha3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2024-02-27T20:50:38Z",
+            "owner": "ucb-bar",
+            "repo": "sha3",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verigood-ml",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-04-30T05:11:19Z",
+            "owner": "VeriGOOD-ML",
+            "repo": "public",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Viterbi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2024-03-15T11:01:51Z",
+            "owner": "jfoshea",
+            "repo": "Viterbi-Decoder-in-Verilog",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ranc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2024-01-29T19:41:41Z",
+            "owner": "UA-RCL",
+            "repo": "RANC",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sha512",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-01-17T10:42:53Z",
+            "owner": "secworks",
+            "repo": "sha512",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serpens",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-29T20:37:07Z",
+            "owner": "linghaosong",
+            "repo": "Serpens",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bfg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SourcePawn",
+            "last_commit": "2026-07-31T22:06:53Z",
+            "owner": "growly",
+            "repo": "bfg",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Viterbi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2020-08-12T15:29:12Z",
+            "owner": "Archit-halder",
+            "repo": "Viterbi-Algorithm",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fftgenerator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-09-01T21:14:16Z",
+            "owner": "ucb-bar",
+            "repo": "FFTGenerator",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fftgenerator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-09-01T21:14:16Z",
+            "owner": "ucb-bar",
+            "repo": "FFTGenerator",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Accelerators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aib",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2024-09-23T03:09:01Z",
+            "owner": "chipsalliance",
+            "repo": "aib-phy-hardware",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aib-protocols",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2024-02-20T10:50:35Z",
+            "owner": "chipsalliance",
+            "repo": "aib-protocols",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axi4_aib_bridge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SystemVerilog",
+            "last_commit": "2024-12-13T00:15:59Z",
+            "owner": "lmco",
+            "repo": "axi4_aib_bridge",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "AIB"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "axi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-05T08:35:03Z",
+            "owner": "pulp-platform",
+            "repo": "axi",
+            "stars": 1653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verilog-axis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-27T23:50:16Z",
+            "owner": "alexforencich",
+            "repo": "verilog-axis",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wb2axip",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-06-02T20:47:11Z",
+            "owner": "ZipCPU",
+            "repo": "wb2axip",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tvip-axi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2024-06-28T07:50:07Z",
+            "owner": "taichi-ishitani",
+            "repo": "tvip-axi",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cocotbext-axi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-13T04:44:25Z",
+            "owner": "alexforencich",
+            "repo": "cocotbext-axi",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axi-crossbar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-05-25T18:07:20Z",
+            "owner": "dpretet",
+            "repo": "axi-crossbar",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tvip-apb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2023-11-07T12:58:53Z",
+            "owner": "taichi-ishitani",
+            "repo": "tvip-apb",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "AXI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openfasoc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T18:35:41Z",
+            "owner": "idea-fasoc",
+            "repo": "OpenFASOC",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ams_kgd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2021-06-10T04:40:35Z",
+            "owner": "USCPOSH",
+            "repo": "AMS_KGD",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-pmic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2021-06-17T06:56:07Z",
+            "owner": "westonb",
+            "repo": "open-pmic",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "analog_blocks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-30T06:08:29Z",
+            "owner": "mabrains",
+            "repo": "Analog_blocks",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Analog Circuits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "parallella-hw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2022-02-12T12:31:32Z",
+            "owner": "parallella",
+            "repo": "parallella-hw",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google-coral-baseboard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-07T13:32:04Z",
+            "owner": "antmicro",
+            "repo": "google-coral-baseboard",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hardware-components",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T06:30:45Z",
+            "owner": "antmicro",
+            "repo": "hardware-components",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gmm7550",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-17T14:48:35Z",
+            "owner": "GMM-7550",
+            "repo": "gmm7550-hardware",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bsg_motherboards",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2023-08-30T04:47:38Z",
+            "owner": "bespoke-silicon-group",
+            "repo": "bsg_motherboards",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Boards"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "verilog-ethernet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-02-27T23:50:33Z",
+            "owner": "alexforencich",
+            "repo": "verilog-ethernet",
+            "stars": 3064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verilog-pcie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2024-04-26T17:15:29Z",
+            "owner": "alexforencich",
+            "repo": "verilog-pcie",
+            "stars": 1642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdmi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-07-13T16:48:46Z",
+            "owner": "hdl-util",
+            "repo": "hdmi",
+            "stars": 1288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "usb3_camera",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-05-10T17:38:38Z",
+            "owner": "circuitvalley",
+            "repo": "USB_C_Industrial_Camera_FPGA_USB3",
+            "stars": 1137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "litepice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T08:01:50Z",
+            "owner": "enjoy-digital",
+            "repo": "litepcie",
+            "stars": 718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verilog-i2c",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-02-27T23:55:14Z",
+            "owner": "alexforencich",
+            "repo": "verilog-i2c",
+            "stars": 715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vivado-library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-31T00:54:27Z",
+            "owner": "Digilent",
+            "repo": "vivado-library",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "core_ddr3_controller",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2021-10-10T16:10:37Z",
+            "owner": "ultraembedded",
+            "repo": "core_ddr3_controller",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verilog-uart",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-02-27T23:56:21Z",
+            "owner": "alexforencich",
+            "repo": "verilog-uart",
+            "stars": 575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "litedram",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T10:47:50Z",
+            "owner": "enjoy-digital",
+            "repo": "litedram",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openserdes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2022-03-26T21:39:04Z",
+            "owner": "SparcLab",
+            "repo": "OpenSERDES",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liteeth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T08:50:37Z",
+            "owner": "enjoy-digital",
+            "repo": "liteeth",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "idma",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-12T17:18:32Z",
+            "owner": "pulp-platform",
+            "repo": "iDMA",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tnoc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2022-08-27T14:30:51Z",
+            "owner": "taichi-ishitani",
+            "repo": "tnoc",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "litescope",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T07:54:49Z",
+            "owner": "enjoy-digital",
+            "repo": "litescope",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ravenoc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2024-11-18T21:53:13Z",
+            "owner": "aignacio",
+            "repo": "ravenoc",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "usb_cdc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2024-03-10T19:11:48Z",
+            "owner": "ulixxe",
+            "repo": "usb_cdc",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "umi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-08-03T09:47:24Z",
+            "owner": "zeroasiccorp",
+            "repo": "umi",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nocrouter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2018-03-19T16:44:35Z",
+            "owner": "agalimberti",
+            "repo": "NoCRouter",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wav-lpddr-hw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2021-07-22T15:47:20Z",
+            "owner": "waviousllc",
+            "repo": "wav-lpddr-hw",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verilog-wishbone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-05T13:55:22Z",
+            "owner": "alexforencich",
+            "repo": "verilog-wishbone",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opencapi_accel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2024-08-29T18:26:54Z",
+            "owner": "OpenCAPI",
+            "repo": "oc-accel",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pymtl3-net",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-18T03:51:34Z",
+            "owner": "cornell-brg",
+            "repo": "pymtl3-net",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i2c",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2020-05-17T22:14:01Z",
+            "owner": "hdl-util",
+            "repo": "i2c",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wav-slink-hw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2021-07-26T16:43:09Z",
+            "owner": "waviousllc",
+            "repo": "wav-slink-hw",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "usb_dfu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2024-03-10T19:14:20Z",
+            "owner": "ulixxe",
+            "repo": "usb_dfu",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vis4mesh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-21T08:40:48Z",
+            "owner": "ueqri",
+            "repo": "vis4mesh",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opencapi_client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2022-11-07T15:18:37Z",
+            "owner": "OpenCAPI",
+            "repo": "OpenCAPI3.0_Client_RefDesign",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wav-wlink-hw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2021-10-28T18:22:40Z",
+            "owner": "waviousllc",
+            "repo": "wav-wlink-hw",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wav-d2d-hw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2021-10-13T17:46:30Z",
+            "owner": "waviousllc",
+            "repo": "wav-d2d-hw",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bsg_ddr3_io",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-06T17:04:27Z",
+            "owner": "bespoke-silicon-group",
+            "repo": "bsg_ddr3_io",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "io-gen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2018-11-11T22:50:38Z",
+            "owner": "GT-CHIPS",
+            "repo": "IO-Gen",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Connectivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openxiangshan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T03:50:30Z",
+            "owner": "OpenXiangShan",
+            "repo": "XiangShan",
+            "stars": 7187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picorv32",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-07-31T05:59:04Z",
+            "owner": "YosysHQ",
+            "repo": "picorv32",
+            "stars": 4324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rocket-chip",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-06-02T17:57:09Z",
+            "owner": "chipsalliance",
+            "repo": "rocket-chip",
+            "stars": 3840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cva6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-12T23:20:45Z",
+            "owner": "openhwgroup",
+            "repo": "cva6",
+            "stars": 3064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neorv32",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2026-08-12T19:40:25Z",
+            "owner": "stnolting",
+            "repo": "neorv32",
+            "stars": 2232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ibex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-11T16:08:10Z",
+            "owner": "lowRISC",
+            "repo": "ibex",
+            "stars": 2007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-07-10T12:43:14Z",
+            "owner": "olofk",
+            "repo": "serv",
+            "stars": 1859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cores-swerv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-07-16T09:42:00Z",
+            "owner": "chipsalliance",
+            "repo": "Cores-VeeR-EH1",
+            "stars": 960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "black-parrot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-07-13T03:47:48Z",
+            "owner": "black-parrot",
+            "repo": "black-parrot",
+            "stars": 825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microwatt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-08-12T01:44:42Z",
+            "owner": "antonblanchard",
+            "repo": "microwatt",
+            "stars": 723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "core-v-verif",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-07-17T17:24:22Z",
+            "owner": "openhwgroup",
+            "repo": "core-v-verif",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cvw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-07-19T12:38:43Z",
+            "owner": "openhwgroup",
+            "repo": "cvw",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cfu-playground",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-02-26T18:00:41Z",
+            "owner": "google",
+            "repo": "CFU-Playground",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ara",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T12:54:40Z",
+            "owner": "pulp-platform",
+            "repo": "ara",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vroom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2024-09-02T11:15:21Z",
+            "owner": "MoonbaseOtago",
+            "repo": "vroom",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cores-swerv-el2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-12T21:10:47Z",
+            "owner": "chipsalliance",
+            "repo": "Cores-VeeR-EL2",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-12T21:10:47Z",
+            "owner": "chipsalliance",
+            "repo": "Cores-VeeR-EL2",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cv32e40x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2024-11-06T11:19:59Z",
+            "owner": "openhwgroup",
+            "repo": "cv32e40x",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "a2i",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "VHDL",
+            "last_commit": "2022-08-12T13:44:01Z",
+            "owner": "openpower-cores",
+            "repo": "a2i",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snitch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SystemVerilog",
+            "last_commit": "2023-11-22T18:34:30Z",
+            "owner": "pulp-platform",
+            "repo": "snitch",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minimax",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-02-19T17:16:13Z",
+            "owner": "gsmecher",
+            "repo": "minimax",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cv32e40s",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2024-10-31T07:14:27Z",
+            "owner": "openhwgroup",
+            "repo": "cv32e40s",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muntjac",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2025-04-28T16:21:34Z",
+            "owner": "lowRISC",
+            "repo": "muntjac",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lizard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-29T02:05:13Z",
+            "owner": "cornell-brg",
+            "repo": "lizard",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cve2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-07-17T18:41:16Z",
+            "owner": "openhwgroup",
+            "repo": "cve2",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rioschip",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2022-11-25T03:16:17Z",
+            "owner": "b224hisl",
+            "repo": "rioschip",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "CPUs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openfpga",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-08-13T04:03:55Z",
+            "owner": "lnis-uofu",
+            "repo": "OpenFPGA",
+            "stars": 1133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fabulous",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:13:19Z",
+            "owner": "FPGA-Research",
+            "repo": "FABulous",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prga",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-08-08T18:28:06Z",
+            "owner": "PrincetonUniversity",
+            "repo": "prga",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fabric_team",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2021-06-15T21:11:27Z",
+            "owner": "ucb-cs250",
+            "repo": "fabric_team",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "FPGA Architectures"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "basic_verilog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-03-12T08:19:20Z",
+            "owner": "pConst",
+            "repo": "basic_verilog",
+            "stars": 2007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-08-12T14:09:33Z",
+            "owner": "analogdevicesinc",
+            "repo": "hdl",
+            "stars": 1994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Verilog",
+            "last_commit": "2024-05-08T03:14:16Z",
+            "owner": "aolofsson",
+            "repo": "oh",
+            "stars": 1436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Logic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2026-07-31T15:24:29Z",
+            "owner": "open-logic",
+            "repo": "open-logic",
+            "stars": 997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "common_cells",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-12T15:25:18Z",
+            "owner": "pulp-platform",
+            "repo": "common_cells",
+            "stars": 781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "basejump_stl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-07-07T20:07:17Z",
+            "owner": "bespoke-silicon-group",
+            "repo": "basejump_stl",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cvfpu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-07-24T10:01:59Z",
+            "owner": "openhwgroup",
+            "repo": "cvfpu",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VHDL",
+            "last_commit": "2026-08-13T01:00:55Z",
+            "owner": "slaclab",
+            "repo": "surf",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "async_fifo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-02-13T18:18:29Z",
+            "owner": "dpretet",
+            "repo": "async_fifo",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "berkeley-hardfloat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-06-14T04:18:06Z",
+            "owner": "ucb-bar",
+            "repo": "berkeley-hardfloat",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambdapdk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SourcePawn",
+            "last_commit": "2026-08-10T22:35:27Z",
+            "owner": "siliconcompiler",
+            "repo": "lambdapdk",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vlsiffra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-20T20:59:45Z",
+            "owner": "antonblanchard",
+            "repo": "vlsiffra",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rohd-hcl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-01T22:17:51Z",
+            "owner": "intel",
+            "repo": "rohd-hcl",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambdalib",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T23:40:39Z",
+            "owner": "siliconcompiler",
+            "repo": "lambdalib",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pzbcm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-07-16T08:40:43Z",
+            "owner": "pezy-computing",
+            "repo": "pzbcm",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libsv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2024-05-26T04:49:56Z",
+            "owner": "bensampson5",
+            "repo": "libsv",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mathlib",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2023-09-11T06:05:17Z",
+            "owner": "AsFigo",
+            "repo": "MathLib",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pztb-core",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-06-24T03:55:47Z",
+            "owner": "pezy-computing",
+            "repo": "pztb-core",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openram",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:32:26Z",
+            "owner": "VLSIDA",
+            "repo": "OpenRAM",
+            "stars": 1115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cv-hpdcache",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-07-28T15:54:40Z",
+            "owner": "openhwgroup",
+            "repo": "cv-hpdcache",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "huancun",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-06-17T08:59:05Z",
+            "owner": "OpenXiangShan",
+            "repo": "HuanCun",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "core_axi_cache",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2021-05-10T19:43:37Z",
+            "owner": "ultraembedded",
+            "repo": "core_axi_cache",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bsg_fakeram",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-13T19:40:40Z",
+            "owner": "bespoke-silicon-group",
+            "repo": "bsg_fakeram",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lake",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T04:48:34Z",
+            "owner": "StanfordAHA",
+            "repo": "lake",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Memory"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "litex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T10:18:42Z",
+            "owner": "enjoy-digital",
+            "repo": "litex",
+            "stars": 4041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opentitan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-12T23:03:06Z",
+            "owner": "lowRISC",
+            "repo": "opentitan",
+            "stars": 3588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metroboy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-23T03:36:26Z",
+            "owner": "aappleby",
+            "repo": "metroboy",
+            "stars": 1169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openwifi-hw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-09-23T06:57:55Z",
+            "owner": "open-sdr",
+            "repo": "openwifi-hw",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openpiton",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-02-25T17:35:46Z",
+            "owner": "PrincetonUniversity",
+            "repo": "openpiton",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pulp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2024-11-26T08:28:19Z",
+            "owner": "pulp-platform",
+            "repo": "pulp",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verilogboy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2022-12-10T01:05:49Z",
+            "owner": "zephray",
+            "repo": "VerilogBoy",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beagle_sdr_gps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-12-03T02:40:57Z",
+            "owner": "jks-prv",
+            "repo": "Beagle_SDR_GPS",
+            "stars": 521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pulpissimo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-05-08T12:42:11Z",
+            "owner": "pulp-platform",
+            "repo": "pulpissimo",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caliptra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T19:46:26Z",
+            "owner": "chipsalliance",
+            "repo": "Caliptra",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T16:45:37Z",
+            "owner": "sld-columbia",
+            "repo": "esp",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "falcon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-13T12:50:06Z",
+            "owner": "falkenber9",
+            "repo": "falcon",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openfasoc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T18:35:41Z",
+            "owner": "idea-fasoc",
+            "repo": "OpenFASOC",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bsg_manycore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-07-27T21:34:55Z",
+            "owner": "bespoke-silicon-group",
+            "repo": "bsg_manycore",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x-heep",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T16:31:53Z",
+            "owner": "x-heep",
+            "repo": "x-heep",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caliptra-rtl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2026-08-12T22:39:24Z",
+            "owner": "chipsalliance",
+            "repo": "caliptra-rtl",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wulpus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T15:40:33Z",
+            "owner": "pulp-bio",
+            "repo": "wulpus",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hero",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SystemVerilog",
+            "last_commit": "2023-09-18T08:22:31Z",
+            "owner": "pulp-platform",
+            "repo": "hero",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rose",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T21:37:10Z",
+            "owner": "ucb-bar",
+            "repo": "RoSE",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "senseq",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-30T14:50:28Z",
+            "owner": "EMIL-YORKU",
+            "repo": "SensSeq",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cep",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-26T13:13:42Z",
+            "owner": "CommonEvaluationPlatform",
+            "repo": "CEP",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "icebreaker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-05-24T23:25:33Z",
+            "owner": "icebreaker-fpga",
+            "repo": "icebreaker",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PicoEVB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-03T20:11:48Z",
+            "owner": "RHSResearchLLC",
+            "repo": "PicoEVB",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fomu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-10T05:15:54Z",
+            "owner": "im-tomu",
+            "repo": "fomu-hardware",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scalenode-cm4-baseboard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-03T13:17:43Z",
+            "owner": "antmicro",
+            "repo": "scalenode-cm4-baseboard",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "artix-dc-scm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-11T15:01:10Z",
+            "owner": "antmicro",
+            "repo": "artix-dc-scm",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qomu-dev-board",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-24T14:39:43Z",
+            "owner": "QuickLogic-Corp",
+            "repo": "qomu-dev-board",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sodimm-ddr5-tester",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-11T15:10:07Z",
+            "owner": "antmicro",
+            "repo": "sodimm-ddr5-tester",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lpddr5-testbed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-11T15:07:00Z",
+            "owner": "antmicro",
+            "repo": "lpddr5-testbed",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arty-mpw-tester",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-11T14:42:56Z",
+            "owner": "antmicro",
+            "repo": "arty-mpw-tester",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Boards"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Board Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "drom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-09T02:37:45Z",
+            "owner": "drom",
+            "repo": "awesome-hdl",
+            "stars": 1166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "delftopenhardware",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-06T07:20:15Z",
+            "owner": "delftopenhardware",
+            "repo": "awesome-open-hardware",
+            "stars": 1024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kicad-3rd-party-tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-15T12:31:57Z",
+            "owner": "devbisme",
+            "repo": "kicad-3rd-party-tools",
+            "stars": 836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "semiconduoctor-startups",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-30T17:58:33Z",
+            "owner": "aolofsson",
+            "repo": "awesome-semiconductor-startups",
+            "stars": 773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "computer-engineering-resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-30T23:29:07Z",
+            "owner": "rajesh-s",
+            "repo": "comp-arch-sys-resources",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ben-marshall",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-03T17:29:06Z",
+            "owner": "ben-marshall",
+            "repo": "awesome-open-hardware-verification",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joamateb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-01-05T03:45:06Z",
+            "owner": "joamatab",
+            "repo": "awesome_photonics",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mattvenn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-13T18:01:06Z",
+            "owner": "mattvenn",
+            "repo": "awesome-opensource-asic-resources",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-07T02:13:20Z",
+            "owner": "hdl",
+            "repo": "awesome",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pkuzjx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-05T13:54:25Z",
+            "owner": "pkuzjx",
+            "repo": "eda-collection",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "FPGA Design"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:57.249Z",
+    "original_repository": "aolofsson/awesome-opensource-hardware",
+    "original_repository_sha": "ad1e7ff5929e1a320d4d72a33c98bd49bf23a9c2",
+    "enhanced_repository": "enhansome/enhansome-opensource-hardware",
+    "enhanced_repository_description": null,
+    "title": "awesome-opensource-hardware with stars"
+  }
+}
