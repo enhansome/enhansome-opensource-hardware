@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-21T22:02:44Z",
                 "owner": "google",
                 "repo": "skywater-pdk",
-                "stars": 3659
+                "stars": 3661
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-17T11:57:34Z",
                 "owner": "IHP-GmbH",
                 "repo": "IHP-Open-PDK",
-                "stars": 799
+                "stars": 800
               }
             },
             {
@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 320398696,
                 "language": "Python",
-                "last_commit": "2026-08-20T12:37:53Z",
+                "last_commit": "2026-08-21T09:49:15Z",
                 "owner": "siliconcompiler",
                 "repo": "siliconcompiler",
                 "stars": 1200
@@ -178,7 +178,7 @@
                 "last_commit": "2026-08-19T06:11:29Z",
                 "owner": "ucb-bar",
                 "repo": "chipyard",
-                "stars": 2360
+                "stars": 2362
               }
             },
             {
@@ -205,7 +205,7 @@
                 "archived": false,
                 "id": 320398696,
                 "language": "Python",
-                "last_commit": "2026-08-20T12:37:53Z",
+                "last_commit": "2026-08-21T09:49:15Z",
                 "owner": "siliconcompiler",
                 "repo": "siliconcompiler",
                 "stars": 1200
@@ -253,7 +253,7 @@
                 "last_commit": "2026-08-07T22:32:22Z",
                 "owner": "ucb-bar",
                 "repo": "hammer",
-                "stars": 325
+                "stars": 324
               }
             },
             {
@@ -283,7 +283,7 @@
                 "last_commit": "2026-07-29T18:39:46Z",
                 "owner": "hdl",
                 "repo": "bazel_rules_hdl",
-                "stars": 168
+                "stars": 167
               }
             },
             {
@@ -392,7 +392,7 @@
                 "archived": false,
                 "id": 5241312,
                 "language": "C++",
-                "last_commit": "2026-08-20T14:12:48Z",
+                "last_commit": "2026-08-21T13:47:00Z",
                 "owner": "halide",
                 "repo": "Halide",
                 "stars": 6584
@@ -422,10 +422,10 @@
                 "archived": false,
                 "id": 7454197,
                 "language": "C++",
-                "last_commit": "2026-08-20T12:51:30Z",
+                "last_commit": "2026-08-21T13:20:06Z",
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4688
+                "stars": 4693
               }
             },
             {
@@ -437,10 +437,10 @@
                 "archived": false,
                 "id": 245072514,
                 "language": "C++",
-                "last_commit": "2026-08-20T14:20:28Z",
+                "last_commit": "2026-08-21T02:33:14Z",
                 "owner": "llvm",
                 "repo": "circt",
-                "stars": 2221
+                "stars": 2226
               }
             },
             {
@@ -452,10 +452,10 @@
                 "archived": false,
                 "id": 236501540,
                 "language": "Python",
-                "last_commit": "2026-08-12T03:08:02Z",
+                "last_commit": "2026-08-21T12:58:26Z",
                 "owner": "amaranth-lang",
                 "repo": "amaranth",
-                "stars": 2071
+                "stars": 2072
               }
             },
             {
@@ -470,7 +470,7 @@
                 "last_commit": "2026-08-12T07:15:05Z",
                 "owner": "SpinalHDL",
                 "repo": "SpinalHDL",
-                "stars": 2029
+                "stars": 2031
               }
             },
             {
@@ -485,7 +485,7 @@
                 "last_commit": "2026-08-16T07:23:14Z",
                 "owner": "chipsalliance",
                 "repo": "verible",
-                "stars": 1910
+                "stars": 1912
               }
             },
             {
@@ -497,10 +497,10 @@
                 "archived": false,
                 "id": 262163993,
                 "language": "C++",
-                "last_commit": "2026-08-20T13:19:59Z",
+                "last_commit": "2026-08-21T14:16:04Z",
                 "owner": "google",
                 "repo": "xls",
-                "stars": 1819
+                "stars": 1820
               }
             },
             {
@@ -527,10 +527,10 @@
                 "archived": false,
                 "id": 11172497,
                 "language": "Haskell",
-                "last_commit": "2026-08-20T14:03:04Z",
+                "last_commit": "2026-08-21T13:35:10Z",
                 "owner": "clash-lang",
                 "repo": "clash-compiler",
-                "stars": 1608
+                "stars": 1606
               }
             },
             {
@@ -545,7 +545,7 @@
                 "last_commit": "2026-06-18T20:05:27Z",
                 "owner": "sylefeb",
                 "repo": "Silice",
-                "stars": 1431
+                "stars": 1430
               }
             },
             {
@@ -617,10 +617,10 @@
                 "archived": false,
                 "id": 139168534,
                 "language": "Python",
-                "last_commit": "2026-08-20T12:10:38Z",
+                "last_commit": "2026-08-21T14:06:42Z",
                 "owner": "Xilinx",
                 "repo": "finn",
-                "stars": 1043
+                "stars": 1044
               }
             },
             {
@@ -632,10 +632,10 @@
                 "archived": false,
                 "id": 575770340,
                 "language": "Rust",
-                "last_commit": "2026-08-19T13:19:16Z",
+                "last_commit": "2026-08-21T10:15:34Z",
                 "owner": "veryl-lang",
                 "repo": "veryl",
-                "stars": 1023
+                "stars": 1024
               }
             },
             {
@@ -680,7 +680,7 @@
                 "last_commit": "2024-08-20T18:13:34Z",
                 "owner": "chipsalliance",
                 "repo": "firrtl",
-                "stars": 748
+                "stars": 747
               }
             },
             {
@@ -692,7 +692,7 @@
                 "archived": false,
                 "id": 131925641,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:37:24Z",
+                "last_commit": "2026-08-21T10:48:57Z",
                 "owner": "JulianKemmerer",
                 "repo": "PipelineC",
                 "stars": 744
@@ -740,7 +740,7 @@
                 "last_commit": "2026-08-19T14:19:52Z",
                 "owner": "calyxir",
                 "repo": "calyx",
-                "stars": 610
+                "stars": 611
               }
             },
             {
@@ -770,7 +770,7 @@
                 "last_commit": "2026-08-19T20:37:54Z",
                 "owner": "intel",
                 "repo": "rohd",
-                "stars": 489
+                "stars": 488
               }
             },
             {
@@ -830,7 +830,7 @@
                 "last_commit": "2022-04-20T09:57:15Z",
                 "owner": "fabianschuiki",
                 "repo": "llhd",
-                "stars": 436
+                "stars": 434
               }
             },
             {
@@ -845,7 +845,7 @@
                 "last_commit": "2026-06-22T20:01:16Z",
                 "owner": "ghdl",
                 "repo": "ghdl-yosys-plugin",
-                "stars": 369
+                "stars": 367
               }
             },
             {
@@ -875,7 +875,7 @@
                 "last_commit": "2025-06-30T16:05:06Z",
                 "owner": "Nic30",
                 "repo": "hdlConvertor",
-                "stars": 331
+                "stars": 332
               }
             },
             {
@@ -965,7 +965,7 @@
                 "last_commit": "2026-07-23T23:13:57Z",
                 "owner": "NVlabs",
                 "repo": "matchlib",
-                "stars": 299
+                "stars": 300
               }
             },
             {
@@ -1007,7 +1007,7 @@
                 "archived": false,
                 "id": 130754579,
                 "language": "C++",
-                "last_commit": "2026-08-20T00:26:16Z",
+                "last_commit": "2026-08-21T02:41:12Z",
                 "owner": "masc-ucsc",
                 "repo": "livehd",
                 "stars": 239
@@ -1085,7 +1085,7 @@
                 "last_commit": "2026-05-26T11:22:44Z",
                 "owner": "mit-plv",
                 "repo": "kami",
-                "stars": 170
+                "stars": 169
               }
             },
             {
@@ -1097,7 +1097,7 @@
                 "archived": false,
                 "id": 414906187,
                 "language": "Verilog",
-                "last_commit": "2026-08-12T09:50:13Z",
+                "last_commit": "2026-08-20T17:52:25Z",
                 "owner": "najaeda",
                 "repo": "naja",
                 "stars": 160
@@ -1375,21 +1375,6 @@
             },
             {
               "node_type": "item",
-              "title": "bigspicy",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 490461583,
-                "language": "Python",
-                "last_commit": "2023-04-10T00:15:59Z",
-                "owner": "google",
-                "repo": "bigspicy",
-                "stars": 39
-              }
-            },
-            {
-              "node_type": "item",
               "title": "vlsir",
               "description": null,
               "children": [],
@@ -1400,6 +1385,21 @@
                 "last_commit": "2026-02-15T15:04:36Z",
                 "owner": "Vlsir",
                 "repo": "Vlsir",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bigspicy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 490461583,
+                "language": "Python",
+                "last_commit": "2023-04-10T00:15:59Z",
+                "owner": "google",
+                "repo": "bigspicy",
                 "stars": 39
               }
             },
@@ -1449,10 +1449,10 @@
                 "archived": false,
                 "id": 143147942,
                 "language": "C++",
-                "last_commit": "2026-08-17T08:32:18Z",
+                "last_commit": "2026-08-20T14:33:59Z",
                 "owner": "YosysHQ",
                 "repo": "nextpnr",
-                "stars": 1729
+                "stars": 1732
               }
             },
             {
@@ -1464,7 +1464,7 @@
                 "archived": false,
                 "id": 38118370,
                 "language": "C++",
-                "last_commit": "2026-08-20T14:09:16Z",
+                "last_commit": "2026-08-20T22:35:18Z",
                 "owner": "verilog-to-routing",
                 "repo": "vtr-verilog-to-routing",
                 "stars": 1257
@@ -1531,10 +1531,10 @@
                 "archived": false,
                 "id": 218110222,
                 "language": "Verilog",
-                "last_commit": "2026-08-19T23:32:12Z",
+                "last_commit": "2026-08-21T03:57:59Z",
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 2995
+                "stars": 2998
               }
             },
             {
@@ -1546,10 +1546,10 @@
                 "archived": false,
                 "id": 81722454,
                 "language": "C++",
-                "last_commit": "2026-08-20T12:41:01Z",
+                "last_commit": "2026-08-20T18:49:21Z",
                 "owner": "KLayout",
                 "repo": "klayout",
-                "stars": 1176
+                "stars": 1179
               }
             },
             {
@@ -1564,7 +1564,7 @@
                 "last_commit": "2026-07-18T08:53:32Z",
                 "owner": "limbo018",
                 "repo": "DREAMPlace",
-                "stars": 1040
+                "stars": 1041
               }
             },
             {
@@ -1576,10 +1576,10 @@
                 "archived": false,
                 "id": 250169028,
                 "language": "Python",
-                "last_commit": "2026-08-20T13:53:22Z",
+                "last_commit": "2026-08-21T00:13:38Z",
                 "owner": "gdsfactory",
                 "repo": "gdsfactory",
-                "stars": 1014
+                "stars": 1015
               }
             },
             {
@@ -1594,7 +1594,7 @@
                 "last_commit": "2026-08-08T07:00:03Z",
                 "owner": "RTimothyEdwards",
                 "repo": "magic",
-                "stars": 689
+                "stars": 692
               }
             },
             {
@@ -1624,7 +1624,7 @@
                 "last_commit": "2026-07-24T23:06:04Z",
                 "owner": "heitzmann",
                 "repo": "gdstk",
-                "stars": 494
+                "stars": 495
               }
             },
             {
@@ -1684,7 +1684,7 @@
                 "last_commit": "2024-08-20T08:13:41Z",
                 "owner": "trilomix",
                 "repo": "GDS3D",
-                "stars": 265
+                "stars": 266
               }
             },
             {
@@ -1814,7 +1814,7 @@
                 "archived": false,
                 "id": 201299456,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-19T22:13:57Z",
+                "last_commit": "2026-08-20T22:09:56Z",
                 "owner": "chipsalliance",
                 "repo": "sv-tests",
                 "stars": 388
@@ -1956,10 +1956,10 @@
                 "archived": false,
                 "id": 5736080,
                 "language": "C++",
-                "last_commit": "2026-08-20T12:51:28Z",
+                "last_commit": "2026-08-21T13:39:16Z",
                 "owner": "FreeCAD",
                 "repo": "FreeCAD",
-                "stars": 32970
+                "stars": 32984
               }
             },
             {
@@ -1974,7 +1974,7 @@
                 "last_commit": "2026-08-12T08:49:29Z",
                 "owner": "LibrePCB",
                 "repo": "LibrePCB",
-                "stars": 2971
+                "stars": 2970
               }
             },
             {
@@ -1986,10 +1986,10 @@
                 "archived": false,
                 "id": 14849992,
                 "language": "C++",
-                "last_commit": "2026-08-20T12:32:55Z",
+                "last_commit": "2026-08-21T14:17:26Z",
                 "owner": "KiCad",
                 "repo": "kicad-source-mirror",
-                "stars": 2891
+                "stars": 2892
               }
             },
             {
@@ -2004,7 +2004,7 @@
                 "last_commit": "2026-08-05T19:09:04Z",
                 "owner": "yaqwsx",
                 "repo": "KiKit",
-                "stars": 2009
+                "stars": 2011
               }
             },
             {
@@ -2016,10 +2016,10 @@
                 "archived": false,
                 "id": 21307203,
                 "language": "Java",
-                "last_commit": "2026-08-20T12:50:56Z",
+                "last_commit": "2026-08-21T14:04:07Z",
                 "owner": "freerouting",
                 "repo": "freerouting",
-                "stars": 1884
+                "stars": 1886
               }
             },
             {
@@ -2034,7 +2034,7 @@
                 "last_commit": "2026-04-28T17:37:55Z",
                 "owner": "theacodes",
                 "repo": "kicanvas",
-                "stars": 1123
+                "stars": 1125
               }
             },
             {
@@ -2131,7 +2131,7 @@
                 "last_commit": "2026-06-12T17:09:11Z",
                 "owner": "hneemann",
                 "repo": "Digital",
-                "stars": 5924
+                "stars": 5927
               }
             },
             {
@@ -2146,7 +2146,7 @@
                 "last_commit": "2026-08-07T15:01:49Z",
                 "owner": "TerosTechnology",
                 "repo": "vscode-terosHDL",
-                "stars": 737
+                "stars": 738
               }
             },
             {
@@ -2228,7 +2228,7 @@
                 "last_commit": "2026-06-02T12:07:58Z",
                 "owner": "alexlenail",
                 "repo": "NN-SVG",
-                "stars": 5684
+                "stars": 5685
               }
             },
             {
@@ -2273,7 +2273,7 @@
                 "last_commit": "2026-08-16T07:23:14Z",
                 "owner": "chipsalliance",
                 "repo": "verible",
-                "stars": 1910
+                "stars": 1912
               }
             },
             {
@@ -2303,7 +2303,7 @@
                 "last_commit": "2026-08-07T12:01:22Z",
                 "owner": "yaqwsx",
                 "repo": "PcbDraw",
-                "stars": 1410
+                "stars": 1411
               }
             },
             {
@@ -2318,7 +2318,7 @@
                 "last_commit": "2024-01-25T15:56:06Z",
                 "owner": "nturley",
                 "repo": "netlistsvg",
-                "stars": 816
+                "stars": 818
               }
             },
             {
@@ -2348,7 +2348,7 @@
                 "last_commit": "2026-04-20T01:09:04Z",
                 "owner": "j0ono0",
                 "repo": "pinout",
-                "stars": 431
+                "stars": 430
               }
             },
             {
@@ -2378,7 +2378,7 @@
                 "last_commit": "2024-08-20T08:13:41Z",
                 "owner": "trilomix",
                 "repo": "GDS3D",
-                "stars": 265
+                "stars": 266
               }
             },
             {
@@ -2408,7 +2408,7 @@
                 "last_commit": "2023-06-02T13:50:35Z",
                 "owner": "wallento",
                 "repo": "wavedrompy",
-                "stars": 118
+                "stars": 116
               }
             },
             {
@@ -2517,7 +2517,7 @@
                 "archived": false,
                 "id": 50597128,
                 "language": "JavaScript",
-                "last_commit": "2026-08-13T03:36:49Z",
+                "last_commit": "2026-08-21T02:28:28Z",
                 "owner": "FPGAwars",
                 "repo": "icestudio",
                 "stars": 1922
@@ -2659,10 +2659,10 @@
                 "archived": false,
                 "id": 32944298,
                 "language": "C++",
-                "last_commit": "2026-08-20T11:19:26Z",
+                "last_commit": "2026-08-21T06:48:59Z",
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12572
+                "stars": 12579
               }
             },
             {
@@ -2674,7 +2674,7 @@
                 "archived": false,
                 "id": 7040894,
                 "language": "SMT",
-                "last_commit": "2026-08-20T13:53:07Z",
+                "last_commit": "2026-08-21T14:00:13Z",
                 "owner": "cvc5",
                 "repo": "cvc5",
                 "stars": 1355
@@ -2692,7 +2692,7 @@
                 "last_commit": "2026-08-05T07:27:17Z",
                 "owner": "YosysHQ",
                 "repo": "sby",
-                "stars": 537
+                "stars": 538
               }
             },
             {
@@ -2786,10 +2786,10 @@
                 "archived": false,
                 "id": 191842184,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-20T11:09:05Z",
+                "last_commit": "2026-08-21T10:27:53Z",
                 "owner": "verilator",
                 "repo": "verilator",
-                "stars": 3859
+                "stars": 3864
               }
             },
             {
@@ -2804,7 +2804,7 @@
                 "last_commit": "2026-08-16T07:23:14Z",
                 "owner": "chipsalliance",
                 "repo": "verible",
-                "stars": 1910
+                "stars": 1912
               }
             },
             {
@@ -2980,10 +2980,10 @@
                 "archived": false,
                 "id": 286048835,
                 "language": "C",
-                "last_commit": "2026-08-20T11:52:17Z",
+                "last_commit": "2026-08-21T07:42:15Z",
                 "owner": "StefanSchippers",
                 "repo": "xschem",
-                "stars": 490
+                "stars": 488
               }
             },
             {
@@ -3062,10 +3062,10 @@
                 "archived": false,
                 "id": 5383731,
                 "language": "C",
-                "last_commit": "2026-08-20T03:59:07Z",
+                "last_commit": "2026-08-21T14:08:55Z",
                 "owner": "qemu",
                 "repo": "qemu",
-                "stars": 13596
+                "stars": 13599
               }
             },
             {
@@ -3077,10 +3077,10 @@
                 "archived": false,
                 "id": 24217298,
                 "language": "Java",
-                "last_commit": "2026-08-19T14:07:05Z",
+                "last_commit": "2026-08-21T13:33:53Z",
                 "owner": "logisim-evolution",
                 "repo": "logisim-evolution",
-                "stars": 7450
+                "stars": 7459
               }
             },
             {
@@ -3092,10 +3092,10 @@
                 "archived": false,
                 "id": 191842184,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-20T11:09:05Z",
+                "last_commit": "2026-08-21T10:27:53Z",
                 "owner": "verilator",
                 "repo": "verilator",
-                "stars": 3859
+                "stars": 3864
               }
             },
             {
@@ -3110,7 +3110,7 @@
                 "last_commit": "2026-08-17T02:32:07Z",
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3599
+                "stars": 3600
               }
             },
             {
@@ -3125,7 +3125,7 @@
                 "last_commit": "2026-08-20T07:49:30Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
-                "stars": 2866
+                "stars": 2865
               }
             },
             {
@@ -3137,10 +3137,10 @@
                 "archived": false,
                 "id": 27425638,
                 "language": "C++",
-                "last_commit": "2026-08-20T07:20:03Z",
+                "last_commit": "2026-08-21T03:52:54Z",
                 "owner": "gem5",
                 "repo": "gem5",
-                "stars": 2758
+                "stars": 2761
               }
             },
             {
@@ -3152,10 +3152,10 @@
                 "archived": false,
                 "id": 95903234,
                 "language": "RobotFramework",
-                "last_commit": "2026-08-20T11:49:52Z",
+                "last_commit": "2026-08-21T12:48:37Z",
                 "owner": "renode",
                 "repo": "renode",
-                "stars": 2752
+                "stars": 2753
               }
             },
             {
@@ -3182,10 +3182,10 @@
                 "archived": false,
                 "id": 2715244,
                 "language": "C",
-                "last_commit": "2026-08-20T08:05:24Z",
+                "last_commit": "2026-08-20T20:03:35Z",
                 "owner": "nickg",
                 "repo": "nvc",
-                "stars": 875
+                "stars": 876
               }
             },
             {
@@ -3230,7 +3230,7 @@
                 "last_commit": "2026-06-09T07:49:58Z",
                 "owner": "davidepatti",
                 "repo": "noxim",
-                "stars": 333
+                "stars": 331
               }
             },
             {
@@ -3245,7 +3245,7 @@
                 "last_commit": "2026-06-26T07:51:33Z",
                 "owner": "Xilinx",
                 "repo": "libsystemctlm-soc",
-                "stars": 303
+                "stars": 304
               }
             },
             {
@@ -3290,7 +3290,7 @@
                 "last_commit": "2026-08-11T14:14:40Z",
                 "owner": "sstsimulator",
                 "repo": "sst-core",
-                "stars": 205
+                "stars": 204
               }
             },
             {
@@ -3317,7 +3317,7 @@
                 "archived": false,
                 "id": 105790172,
                 "language": "C++",
-                "last_commit": "2026-06-02T03:29:15Z",
+                "last_commit": "2026-08-20T19:01:11Z",
                 "owner": "wrcad",
                 "repo": "xictools",
                 "stars": 184
@@ -3362,7 +3362,7 @@
                 "archived": false,
                 "id": 70353573,
                 "language": "C++",
-                "last_commit": "2026-08-20T07:15:51Z",
+                "last_commit": "2026-08-21T06:43:01Z",
                 "owner": "Minres",
                 "repo": "SystemC-Components",
                 "stars": 139
@@ -3492,7 +3492,7 @@
                 "last_commit": "2026-08-18T03:40:00Z",
                 "owner": "cocotb",
                 "repo": "cocotb",
-                "stars": 2474
+                "stars": 2479
               }
             },
             {
@@ -3507,7 +3507,7 @@
                 "last_commit": "2026-04-04T04:13:25Z",
                 "owner": "thiagoralves",
                 "repo": "OpenPLC_v3",
-                "stars": 1568
+                "stars": 1569
               }
             },
             {
@@ -3537,7 +3537,7 @@
                 "last_commit": "2024-08-13T15:11:18Z",
                 "owner": "PySpice-org",
                 "repo": "PySpice",
-                "stars": 859
+                "stars": 860
               }
             },
             {
@@ -3597,7 +3597,7 @@
                 "last_commit": "2026-08-19T04:17:13Z",
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenSTA",
-                "stars": 607
+                "stars": 608
               }
             },
             {
@@ -3747,7 +3747,7 @@
                 "last_commit": "2026-06-16T11:42:27Z",
                 "owner": "wyvernSemi",
                 "repo": "pcievhost",
-                "stars": 148
+                "stars": 149
               }
             },
             {
@@ -3804,7 +3804,7 @@
                 "archived": false,
                 "id": 281009137,
                 "language": null,
-                "last_commit": "2026-08-20T05:51:04Z",
+                "last_commit": "2026-08-21T01:56:10Z",
                 "owner": "OSVVM",
                 "repo": "OsvvmLibraries",
                 "stars": 86
@@ -3887,21 +3887,6 @@
             },
             {
               "node_type": "item",
-              "title": "frame",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 473350035,
-                "language": "Jupyter Notebook",
-                "last_commit": "2023-10-13T17:51:47Z",
-                "owner": "maestro-project",
-                "repo": "frame",
-                "stars": 40
-              }
-            },
-            {
-              "node_type": "item",
               "title": "anasysmod",
               "description": null,
               "children": [],
@@ -3912,6 +3897,21 @@
                 "last_commit": "2021-07-28T17:00:35Z",
                 "owner": "sgherbst",
                 "repo": "anasymod",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frame",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473350035,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-10-13T17:51:47Z",
+                "owner": "maestro-project",
+                "repo": "frame",
                 "stars": 39
               }
             },
@@ -4096,7 +4096,7 @@
                 "archived": false,
                 "id": 639921,
                 "language": "C++",
-                "last_commit": "2026-08-20T08:03:41Z",
+                "last_commit": "2026-08-21T04:03:48Z",
                 "owner": "Kitware",
                 "repo": "ParaView",
                 "stars": 1685
@@ -4111,10 +4111,10 @@
                 "archived": false,
                 "id": 16771087,
                 "language": "Fortran",
-                "last_commit": "2026-08-20T10:38:38Z",
+                "last_commit": "2026-08-21T13:22:31Z",
                 "owner": "ElmerCSC",
                 "repo": "elmerfem",
-                "stars": 1669
+                "stars": 1671
               }
             },
             {
@@ -4211,7 +4211,7 @@
                 "last_commit": "2026-08-15T16:23:49Z",
                 "owner": "shioyadan",
                 "repo": "Konata",
-                "stars": 563
+                "stars": 562
               }
             },
             {
@@ -4223,7 +4223,7 @@
                 "archived": false,
                 "id": 68070804,
                 "language": "C++",
-                "last_commit": "2026-08-20T12:19:21Z",
+                "last_commit": "2026-08-21T06:33:12Z",
                 "owner": "analogdevicesinc",
                 "repo": "scopy",
                 "stars": 498
@@ -4404,7 +4404,7 @@
                 "last_commit": "2024-11-08T06:00:11Z",
                 "owner": "jbush001",
                 "repo": "NyuziProcessor",
-                "stars": 2216
+                "stars": 2215
               }
             },
             {
@@ -4476,10 +4476,10 @@
                 "archived": false,
                 "id": 139168534,
                 "language": "Python",
-                "last_commit": "2026-08-20T12:10:38Z",
+                "last_commit": "2026-08-21T14:06:42Z",
                 "owner": "Xilinx",
                 "repo": "finn",
-                "stars": 1043
+                "stars": 1044
               }
             },
             {
@@ -4629,7 +4629,7 @@
                 "last_commit": "2023-04-11T15:22:03Z",
                 "owner": "opencomputeproject",
                 "repo": "Project-Zipline",
-                "stars": 295
+                "stars": 294
               }
             },
             {
@@ -4719,7 +4719,7 @@
                 "last_commit": "2025-02-27T23:53:33Z",
                 "owner": "alexforencich",
                 "repo": "verilog-lfsr",
-                "stars": 162
+                "stars": 163
               }
             },
             {
@@ -4746,7 +4746,7 @@
                 "archived": false,
                 "id": 140670939,
                 "language": "Python",
-                "last_commit": "2026-08-20T03:22:51Z",
+                "last_commit": "2026-08-21T03:51:16Z",
                 "owner": "StanfordAHA",
                 "repo": "garnet",
                 "stars": 119
@@ -4854,7 +4854,7 @@
                 "last_commit": "2026-01-17T10:42:53Z",
                 "owner": "secworks",
                 "repo": "sha512",
-                "stars": 46
+                "stars": 47
               }
             },
             {
@@ -5000,7 +5000,7 @@
                 "archived": false,
                 "id": 129229399,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-20T08:39:21Z",
+                "last_commit": "2026-08-21T09:05:20Z",
                 "owner": "pulp-platform",
                 "repo": "axi",
                 "stars": 1664
@@ -5018,7 +5018,7 @@
                 "last_commit": "2025-02-27T23:50:16Z",
                 "owner": "alexforencich",
                 "repo": "verilog-axis",
-                "stars": 912
+                "stars": 910
               }
             },
             {
@@ -5033,7 +5033,7 @@
                 "last_commit": "2026-06-02T20:47:11Z",
                 "owner": "ZipCPU",
                 "repo": "wb2axip",
-                "stars": 694
+                "stars": 696
               }
             },
             {
@@ -5197,7 +5197,7 @@
                 "last_commit": "2023-08-07T13:32:04Z",
                 "owner": "antmicro",
                 "repo": "google-coral-baseboard",
-                "stars": 81
+                "stars": 80
               }
             },
             {
@@ -5264,7 +5264,7 @@
                 "last_commit": "2025-02-27T23:50:33Z",
                 "owner": "alexforencich",
                 "repo": "verilog-ethernet",
-                "stars": 3073
+                "stars": 3074
               }
             },
             {
@@ -5294,7 +5294,7 @@
                 "last_commit": "2026-07-13T16:48:46Z",
                 "owner": "hdl-util",
                 "repo": "hdmi",
-                "stars": 1292
+                "stars": 1290
               }
             },
             {
@@ -5324,7 +5324,7 @@
                 "last_commit": "2025-02-27T23:55:14Z",
                 "owner": "alexforencich",
                 "repo": "verilog-i2c",
-                "stars": 720
+                "stars": 721
               }
             },
             {
@@ -5369,7 +5369,7 @@
                 "last_commit": "2021-10-10T16:10:37Z",
                 "owner": "ultraembedded",
                 "repo": "core_ddr3_controller",
-                "stars": 625
+                "stars": 626
               }
             },
             {
@@ -5384,7 +5384,7 @@
                 "last_commit": "2025-02-27T23:56:21Z",
                 "owner": "alexforencich",
                 "repo": "verilog-uart",
-                "stars": 576
+                "stars": 577
               }
             },
             {
@@ -5429,7 +5429,7 @@
                 "last_commit": "2026-07-02T08:50:37Z",
                 "owner": "enjoy-digital",
                 "repo": "liteeth",
-                "stars": 296
+                "stars": 295
               }
             },
             {
@@ -5441,7 +5441,7 @@
                 "archived": false,
                 "id": 518051260,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-20T12:17:20Z",
+                "last_commit": "2026-08-20T16:25:51Z",
                 "owner": "pulp-platform",
                 "repo": "iDMA",
                 "stars": 232
@@ -5474,7 +5474,7 @@
                 "last_commit": "2026-07-25T07:54:49Z",
                 "owner": "enjoy-digital",
                 "repo": "litescope",
-                "stars": 207
+                "stars": 206
               }
             },
             {
@@ -5504,7 +5504,7 @@
                 "last_commit": "2024-03-10T19:11:48Z",
                 "owner": "ulixxe",
                 "repo": "usb_cdc",
-                "stars": 194
+                "stars": 193
               }
             },
             {
@@ -5748,10 +5748,10 @@
                 "archived": false,
                 "id": 271929004,
                 "language": "Scala",
-                "last_commit": "2026-08-20T13:58:20Z",
+                "last_commit": "2026-08-21T13:47:53Z",
                 "owner": "OpenXiangShan",
                 "repo": "XiangShan",
-                "stars": 7201
+                "stars": 7203
               }
             },
             {
@@ -5766,7 +5766,7 @@
                 "last_commit": "2026-07-31T05:59:04Z",
                 "owner": "YosysHQ",
                 "repo": "picorv32",
-                "stars": 4345
+                "stars": 4348
               }
             },
             {
@@ -5793,10 +5793,10 @@
                 "archived": false,
                 "id": 118652371,
                 "language": "Assembly",
-                "last_commit": "2026-08-20T09:51:30Z",
+                "last_commit": "2026-08-21T11:18:30Z",
                 "owner": "openhwgroup",
                 "repo": "cva6",
-                "stars": 3070
+                "stars": 3072
               }
             },
             {
@@ -5808,10 +5808,10 @@
                 "archived": false,
                 "id": 274442284,
                 "language": "VHDL",
-                "last_commit": "2026-08-19T20:24:52Z",
+                "last_commit": "2026-08-21T03:01:03Z",
                 "owner": "stnolting",
                 "repo": "neorv32",
-                "stars": 2237
+                "stars": 2238
               }
             },
             {
@@ -5823,10 +5823,10 @@
                 "archived": false,
                 "id": 99689233,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-11T16:08:10Z",
+                "last_commit": "2026-08-20T21:41:31Z",
                 "owner": "lowRISC",
                 "repo": "ibex",
-                "stars": 2018
+                "stars": 2020
               }
             },
             {
@@ -5856,7 +5856,7 @@
                 "last_commit": "2026-07-16T09:42:00Z",
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EH1",
-                "stars": 961
+                "stars": 962
               }
             },
             {
@@ -5913,7 +5913,7 @@
                 "archived": false,
                 "id": 329806615,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-20T13:34:16Z",
+                "last_commit": "2026-08-21T13:33:46Z",
                 "owner": "openhwgroup",
                 "repo": "cvw",
                 "stars": 605
@@ -5931,7 +5931,7 @@
                 "last_commit": "2026-02-26T18:00:41Z",
                 "owner": "google",
                 "repo": "CFU-Playground",
-                "stars": 561
+                "stars": 560
               }
             },
             {
@@ -5973,7 +5973,7 @@
                 "archived": false,
                 "id": 232916517,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-20T09:01:26Z",
+                "last_commit": "2026-08-21T13:51:53Z",
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EL2",
                 "stars": 344
@@ -5988,7 +5988,7 @@
                 "archived": false,
                 "id": 232916517,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-20T09:01:26Z",
+                "last_commit": "2026-08-21T13:51:53Z",
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EL2",
                 "stars": 344
@@ -6026,21 +6026,6 @@
             },
             {
               "node_type": "item",
-              "title": "snitch",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 289236605,
-                "language": "SystemVerilog",
-                "last_commit": "2023-11-22T18:34:30Z",
-                "owner": "pulp-platform",
-                "repo": "snitch",
-                "stars": 230
-              }
-            },
-            {
-              "node_type": "item",
               "title": "minimax",
               "description": null,
               "children": [],
@@ -6056,6 +6041,21 @@
             },
             {
               "node_type": "item",
+              "title": "snitch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 289236605,
+                "language": "SystemVerilog",
+                "last_commit": "2023-11-22T18:34:30Z",
+                "owner": "pulp-platform",
+                "repo": "snitch",
+                "stars": 228
+              }
+            },
+            {
+              "node_type": "item",
               "title": "cv32e40s",
               "description": null,
               "children": [],
@@ -6066,7 +6066,7 @@
                 "last_commit": "2024-10-31T07:14:27Z",
                 "owner": "openhwgroup",
                 "repo": "cv32e40s",
-                "stars": 162
+                "stars": 160
               }
             },
             {
@@ -6145,7 +6145,7 @@
                 "archived": false,
                 "id": 137416811,
                 "language": "Verilog",
-                "last_commit": "2026-08-20T04:45:47Z",
+                "last_commit": "2026-08-21T08:58:01Z",
                 "owner": "lnis-uofu",
                 "repo": "OpenFPGA",
                 "stars": 1133
@@ -6178,7 +6178,7 @@
                 "last_commit": "2024-08-08T18:28:06Z",
                 "owner": "PrincetonUniversity",
                 "repo": "prga",
-                "stars": 212
+                "stars": 211
               }
             },
             {
@@ -6215,7 +6215,7 @@
                 "last_commit": "2026-03-12T08:19:20Z",
                 "owner": "pConst",
                 "repo": "basic_verilog",
-                "stars": 2011
+                "stars": 2014
               }
             },
             {
@@ -6227,10 +6227,10 @@
                 "archived": false,
                 "id": 17035121,
                 "language": "Verilog",
-                "last_commit": "2026-08-20T13:16:50Z",
+                "last_commit": "2026-08-21T13:55:02Z",
                 "owner": "analogdevicesinc",
                 "repo": "hdl",
-                "stars": 1998
+                "stars": 1999
               }
             },
             {
@@ -6257,10 +6257,10 @@
                 "archived": false,
                 "id": 770586190,
                 "language": "VHDL",
-                "last_commit": "2026-08-17T20:52:18Z",
+                "last_commit": "2026-08-20T21:17:05Z",
                 "owner": "open-logic",
                 "repo": "open-logic",
-                "stars": 1000
+                "stars": 1001
               }
             },
             {
@@ -6272,10 +6272,10 @@
                 "archived": false,
                 "id": 118764818,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-19T14:13:41Z",
+                "last_commit": "2026-08-20T15:07:23Z",
                 "owner": "pulp-platform",
                 "repo": "common_cells",
-                "stars": 786
+                "stars": 787
               }
             },
             {
@@ -6317,7 +6317,7 @@
                 "archived": false,
                 "id": 66395341,
                 "language": "VHDL",
-                "last_commit": "2026-08-19T01:29:30Z",
+                "last_commit": "2026-08-21T00:28:03Z",
                 "owner": "slaclab",
                 "repo": "surf",
                 "stars": 476
@@ -6410,7 +6410,7 @@
                 "last_commit": "2026-08-03T23:40:39Z",
                 "owner": "siliconcompiler",
                 "repo": "lambdalib",
-                "stars": 55
+                "stars": 53
               }
             },
             {
@@ -6589,7 +6589,7 @@
                 "last_commit": "2026-08-06T10:18:42Z",
                 "owner": "enjoy-digital",
                 "repo": "litex",
-                "stars": 4057
+                "stars": 4056
               }
             },
             {
@@ -6601,10 +6601,10 @@
                 "archived": false,
                 "id": 204516692,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-20T12:49:21Z",
+                "last_commit": "2026-08-21T13:13:12Z",
                 "owner": "lowRISC",
                 "repo": "opentitan",
-                "stars": 3600
+                "stars": 3602
               }
             },
             {
@@ -6634,7 +6634,7 @@
                 "last_commit": "2025-09-23T06:57:55Z",
                 "owner": "open-sdr",
                 "repo": "openwifi-hw",
-                "stars": 889
+                "stars": 890
               }
             },
             {
@@ -6664,7 +6664,7 @@
                 "last_commit": "2024-11-26T08:28:19Z",
                 "owner": "pulp-platform",
                 "repo": "pulp",
-                "stars": 566
+                "stars": 565
               }
             },
             {
@@ -6709,7 +6709,7 @@
                 "last_commit": "2026-05-08T12:42:11Z",
                 "owner": "pulp-platform",
                 "repo": "pulpissimo",
-                "stars": 494
+                "stars": 492
               }
             },
             {
@@ -6754,7 +6754,7 @@
                 "last_commit": "2023-10-13T12:50:06Z",
                 "owner": "falkenber9",
                 "repo": "falcon",
-                "stars": 359
+                "stars": 360
               }
             },
             {
@@ -6811,7 +6811,7 @@
                 "archived": false,
                 "id": 601754932,
                 "language": "SystemVerilog",
-                "last_commit": "2026-08-20T13:44:37Z",
+                "last_commit": "2026-08-21T11:50:35Z",
                 "owner": "chipsalliance",
                 "repo": "caliptra-rtl",
                 "stars": 150
@@ -6941,7 +6941,7 @@
                 "last_commit": "2023-01-10T05:15:54Z",
                 "owner": "im-tomu",
                 "repo": "fomu-hardware",
-                "stars": 234
+                "stars": 233
               }
             },
             {
@@ -7057,7 +7057,7 @@
             "last_commit": "2026-07-09T02:37:45Z",
             "owner": "drom",
             "repo": "awesome-hdl",
-            "stars": 1168
+            "stars": 1169
           }
         },
         {
@@ -7072,7 +7072,7 @@
             "last_commit": "2026-08-20T11:41:28Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1030
+            "stars": 1031
           }
         },
         {
@@ -7117,7 +7117,7 @@
             "last_commit": "2026-01-30T23:29:07Z",
             "owner": "rajesh-s",
             "repo": "comp-arch-sys-resources",
-            "stars": 626
+            "stars": 627
           }
         },
         {
@@ -7174,7 +7174,7 @@
             "archived": false,
             "id": 238078193,
             "language": "Shell",
-            "last_commit": "2026-08-14T01:14:32Z",
+            "last_commit": "2026-08-21T00:53:02Z",
             "owner": "hdl",
             "repo": "awesome",
             "stars": 176
@@ -7200,7 +7200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:22:27.982Z",
+    "last_updated": "2026-08-21T14:20:37.900Z",
     "original_repository": "aolofsson/awesome-opensource-hardware",
     "original_repository_id": 479118982,
     "original_repository_sha": "ad1e7ff5929e1a320d4d72a33c98bd49bf23a9c2",
