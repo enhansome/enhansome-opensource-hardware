@@ -69,25 +69,25 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Manufacturable PDKs
 
-* [sky130](https://github.com/google/skywater-pdk) ⭐ 3,708 | 🐛 200 | 🌐 Python | 📅 2026-07-21
+* [sky130](https://github.com/google/skywater-pdk) ⭐ 3,709 | 🐛 200 | 🌐 Python | 📅 2026-07-21
   * Skywater 130nm CMOS PDK
-* [sg13g2](https://github.com/IHP-GmbH/IHP-Open-PDK) ⭐ 821 | 🐛 317 | 🌐 HTML | 📅 2026-09-08
+* [sg13g2](https://github.com/IHP-GmbH/IHP-Open-PDK) ⭐ 822 | 🐛 318 | 🌐 HTML | 📅 2026-09-08
   * IHP 130nm BiCMOS PDK
-* [gf180](https://github.com/google/gf180mcu-pdk) ⭐ 526 | 🐛 24 | 🌐 Makefile | 📅 2023-05-31
+* [gf180](https://github.com/google/gf180mcu-pdk) ⭐ 527 | 🐛 24 | 🌐 Makefile | 📅 2023-05-31
   * GlobalFoundries 180nm CMOS PDK
 
 ## Virtual PDKs
 
-* [freepdk45](https://github.com/siliconcompiler/siliconcompiler/tree/main/third_party/pdks/virtual/freepdk45) ⭐ 1,210 | 🐛 33 | 🌐 Python | 📅 2026-09-12
+* [freepdk45](https://github.com/siliconcompiler/siliconcompiler/tree/main/third_party/pdks/virtual/freepdk45) ⭐ 1,212 | 🐛 33 | 🌐 Python | 📅 2026-09-13
   * Predictive 45nm PDK
-* [asap7](https://github.com/The-OpenROAD-Project/asap7) ⭐ 340 | 🐛 31 | 📅 2025-03-12
+* [asap7](https://github.com/The-OpenROAD-Project/asap7) ⭐ 341 | 🐛 31 | 📅 2025-03-12
   * Predictive 7nm PDK
 * [probe3.0](https://github.com/ABKGroup/PROBE3.0) ⭐ 60 | 🐛 7 | 🌐 Perl | 📅 2024-04-08
   * Process/design DTCO path finding technology
 
 # AI
 
-* [AnalogCoder](https://github.com/laiyao1/AnalogCoder) ⭐ 197 | 🐛 0 | 🌐 Python | 📅 2026-02-22
+* [AnalogCoder](https://github.com/laiyao1/AnalogCoder) ⭐ 198 | 🐛 0 | 🌐 Python | 📅 2026-09-12
 * [Masala-CHAI](https://github.com/jitendra-bhandari/Masala-CHAI) ⭐ 126 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-09
 * [hagent](https://github.com/masc-ucsc/hagent) ⭐ 33 | 🐛 10 | 🌐 Python | 📅 2026-09-10
 * Analog Circuit Design via Training-Free Code Generation
@@ -98,11 +98,11 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Build Systems
 
-* [chipyard](https://github.com/ucb-bar/chipyard) ⭐ 2,386 | 🐛 201 | 🌐 Scala | 📅 2026-09-12
+* [chipyard](https://github.com/ucb-bar/chipyard) ⭐ 2,386 | 🐛 201 | 🌐 Scala | 📅 2026-09-13
   * Agile RISC-V SoC Design Framework.
 * [fusesoc](https://github.com/olofk/fusesoc) ⭐ 1,456 | 🐛 152 | 🌐 Python | 📅 2026-09-12
   * Package manager and build abstraction tool for FPGA/ASIC development.
-* [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler) ⭐ 1,210 | 🐛 33 | 🌐 Python | 📅 2026-09-12
+* [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler) ⭐ 1,212 | 🐛 33 | 🌐 Python | 📅 2026-09-13
   * Python based build system and package manager for hardware.
 * [edalize](https://github.com/olofk/edalize) ⭐ 794 | 🐛 157 | 🌐 Python | 📅 2026-08-12
   * Abstraction library for interfacing EDA tools.
@@ -129,33 +129,33 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Circuit Compilers
 
-* [halide](https://github.com/halide/Halide) ⭐ 6,602 | 🐛 786 | 🌐 C++ | 📅 2026-09-12
+* [halide](https://github.com/halide/Halide) ⭐ 6,604 | 🐛 785 | 🌐 C++ | 📅 2026-09-13
   * Language for fast, portable data-parallel computation
-* [chisel](https://github.com/chipsalliance/chisel3) ⭐ 4,780 | 🐛 510 | 🌐 Scala | 📅 2026-09-11
+* [chisel](https://github.com/chipsalliance/chisel3) ⭐ 4,781 | 🐛 510 | 🌐 Scala | 📅 2026-09-11
   * Scala based hardware description language
-* [yosys](https://github.com/YosysHQ/yosys) ⭐ 4,748 | 🐛 549 | 🌐 C++ | 📅 2026-09-11
+* [yosys](https://github.com/YosysHQ/yosys) ⭐ 4,751 | 🐛 549 | 🌐 C++ | 📅 2026-09-11
   * Yosys Open SYnthesis Suite
-* [circt](https://github.com/llvm/circt) ⭐ 2,239 | 🐛 1,144 | 🌐 C++ | 📅 2026-09-12
+* [circt](https://github.com/llvm/circt) ⭐ 2,240 | 🐛 1,146 | 🌐 C++ | 📅 2026-09-12
   * Circuit IR Compilers and Tools
-* [amaranth](https://github.com/amaranth-lang/amaranth) ⭐ 2,081 | 🐛 130 | 🌐 Python | 📅 2026-09-10
+* [amaranth](https://github.com/amaranth-lang/amaranth) ⭐ 2,084 | 🐛 131 | 🌐 Python | 📅 2026-09-10
   * Python based hardware design framework
-* [spinalhdl](https://github.com/SpinalHDL/SpinalHDL) ⭐ 2,039 | 🐛 175 | 🌐 Scala | 📅 2026-09-08
+* [spinalhdl](https://github.com/SpinalHDL/SpinalHDL) ⭐ 2,039 | 🐛 174 | 🌐 Scala | 📅 2026-09-13
   * Scala based HDL
-* [verible](https://github.com/chipsalliance/verible) ⭐ 1,934 | 🐛 597 | 🌐 C++ | 📅 2026-09-12
+* [verible](https://github.com/chipsalliance/verible) ⭐ 1,935 | 🐛 597 | 🌐 C++ | 📅 2026-09-13
   * SystemVerilog developer tools, including a parser, style-linter, and formatter
-* [xls](https://github.com/google/xls) ⭐ 1,882 | 🐛 1,145 | 🌐 C++ | 📅 2026-09-12
+* [xls](https://github.com/google/xls) ⭐ 1,883 | 🐛 1,145 | 🌐 C++ | 📅 2026-09-12
   * Google framework for hardware synthesis
 * [skidl](https://github.com/devbisme/skidl) ⭐ 1,655 | 🐛 46 | 🌐 Python | 📅 2026-08-20
   * SKiDL is a module that extends Python with the ability to design electronic circuits
-* [clash](https://github.com/clash-lang/clash-compiler) ⭐ 1,612 | 🐛 404 | 🌐 Haskell | 📅 2026-09-09
+* [clash](https://github.com/clash-lang/clash-compiler) ⭐ 1,612 | 🐛 404 | 🌐 Haskell | 📅 2026-09-13
   * Haskell to VHDL/Verilog/SystemVerilog compiler
 * [silice](https://github.com/sylefeb/Silice) ⭐ 1,429 | 🐛 70 | 🌐 C++ | 📅 2026-09-10
   * Language that simplifies prototyping and writing algorithms on FPGA architectures
 * [abc](https://github.com/berkeley-abc/abc) ⭐ 1,220 | 🐛 228 | 🌐 C | 📅 2026-09-11
   * System for sequential logic synthesis and formal verification
-* [bsc](https://github.com/B-Lang-org/bsc) ⭐ 1,143 | 🐛 346 | 🌐 Haskell | 📅 2026-09-02
+* [bsc](https://github.com/B-Lang-org/bsc) ⭐ 1,144 | 🐛 347 | 🌐 Haskell | 📅 2026-09-02
   * Compiler, simulator, and tools for the Bluespec Hardware Description Language
-* [slang](https://github.com/MikePopoloski/slang) ⭐ 1,137 | 🐛 22 | 🌐 C++ | 📅 2026-09-11
+* [slang](https://github.com/MikePopoloski/slang) ⭐ 1,138 | 🐛 22 | 🌐 C++ | 📅 2026-09-11
   * Library for lexing, parsing, type checking, and elaborating SystemVerilog code
 * [myhdl](https://github.com/myhdl/myhdl) ⭐ 1,128 | 🐛 131 | 🌐 Python | 📅 2026-09-11
   * Python based hardware description and verification language
@@ -169,13 +169,13 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * SystemVerilog to Verilog conversion
 * [firrtl](https://github.com/chipsalliance/firrtl) ⚠️ Archived
   * Intermediate Representation for RTL
-* [pipelinec](https://github.com/JulianKemmerer/PipelineC) ⭐ 748 | 🐛 56 | 🌐 Python | 📅 2026-09-12
+* [pipelinec](https://github.com/JulianKemmerer/PipelineC) ⭐ 747 | 🐛 56 | 🌐 Python | 📅 2026-09-13
   * C-like hardware description language (HDL) with automatic pipelining
 * [systemc](https://github.com/accellera-official/systemc) ⭐ 689 | 🐛 44 | 🌐 C++ | 📅 2026-09-08
   * SystemC system design and verification language that spans hardware and software
-* [scip](https://github.com/scipopt/scip) ⭐ 650 | 🐛 27 | 🌐 C | 📅 2026-09-12
+* [scip](https://github.com/scipopt/scip) ⭐ 650 | 🐛 27 | 🌐 C | 📅 2026-09-13
   * Solving Constraint Integer Problems
-* [calyx](https://github.com/cucapra/calyx) ⭐ 613 | 🐛 178 | 🌐 Rust | 📅 2026-09-03
+* [calyx](https://github.com/cucapra/calyx) ⭐ 614 | 🐛 178 | 🌐 Rust | 📅 2026-09-13
   * Intermediate language and compilers that generate custom hardware accelerators
 * [aihwkit](https://github.com/IBM/aihwkit) ⭐ 511 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-09-11
   * IBM Analog Hardware Acceleration Kit
@@ -183,15 +183,15 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Dart based framework for describing and verifying hardware
 * [sv-parser](https://github.com/dalance/sv-parser) ⭐ 482 | 🐛 40 | 🌐 Rust | 📅 2026-06-10
   * SystemVerilog IEEE 1800-2017 parser library
-* [surelog](https://github.com/chipsalliance/Surelog) ⭐ 474 | 🐛 47 | 🌐 C++ | 📅 2026-09-11
+* [surelog](https://github.com/chipsalliance/Surelog) ⭐ 474 | 🐛 47 | 🌐 C++ | 📅 2026-09-13
   * SystemVerilog IEEE 2017 Pre-processor, Parser, Elaborator, UHDM Compiler
 * [pymtl3](https://github.com/pymtl/pymtl3) ⭐ 467 | 🐛 12 | 🌐 Python | 📅 2026-09-10
   * Python hardware generation, simulation, and verification framework
 * [llhd](https://github.com/fabianschuiki/llhd) ⭐ 437 | 🐛 39 | 🌐 Rust | 📅 2022-04-20
   * Intermediate representation for digital circuit descriptions
-* [ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin) ⭐ 367 | 🐛 39 | 🌐 VHDL | 📅 2026-09-10
+* [ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin) ⭐ 367 | 🐛 38 | 🌐 VHDL | 📅 2026-09-13
   * VHDL synthesis (based on ghdl)
-* [panda-bambu](https://github.com/ferrandi/PandA-bambu) ⭐ 351 | 🐛 35 | 🌐 C++ | 📅 2026-09-09
+* [panda-bambu](https://github.com/ferrandi/PandA-bambu) ⭐ 351 | 🐛 35 | 🌐 C++ | 📅 2026-09-13
   * High level synthesis (HLS) C/C++ framework
 * [hdlconvertor](https://github.com/Nic30/hdlConvertor) ⭐ 332 | 🐛 32 | 🌐 C++ | 📅 2025-06-30
   * Verilog/VHDL parser preprocessor and code generator for C++/Python based on ANTL4
@@ -207,11 +207,11 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python integrated design and simulation framework
 * [matchlib](https://github.com/NVlabs/matchlib) ⭐ 301 | 🐛 1 | 🌐 C++ | 📅 2026-09-02
   * Synthesizable SystemC/C++ library of commonly-used hardware functions
-* [uhdm](https://github.com/chipsalliance/UHDM) ⭐ 269 | 🐛 14 | 🌐 C++ | 📅 2026-09-10
+* [uhdm](https://github.com/chipsalliance/UHDM) ⭐ 269 | 🐛 14 | 🌐 C++ | 📅 2026-09-13
   * Universal object model for IEEE SystemVerilog designs
 * [magma](https://github.com/phanrahan/magma/) ⭐ 264 | 🐛 195 | 🌐 Python | 📅 2024-10-19
   * Python based hardware design language
-* [livehd](https://github.com/masc-ucsc/livehd) ⭐ 241 | 🐛 5 | 🌐 C++ | 📅 2026-09-12
+* [livehd](https://github.com/masc-ucsc/livehd) ⭐ 241 | 🐛 5 | 🌐 C++ | 📅 2026-09-13
   * Infrastructure for live interactive synthesis and simulation
 * [synlig](https://github.com/chipsalliance/synlig) ⭐ 237 | 🐛 87 | 🌐 Verilog | 📅 2025-03-10
   * SystemVerilog support for Yosys
@@ -231,7 +231,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Python-based IP-XACT parser
 * [circuitgraph](https://github.com/circuitgraph/circuitgraph) ⭐ 131 | 🐛 14 | 🌐 Verilog | 📅 2023-11-17
   * Tools for working with circuits as graphs in python
-* [act](https://github.com/asyncvlsi/act) ⭐ 130 | 🐛 2 | 🌐 C++ | 📅 2026-09-12
+* [act](https://github.com/asyncvlsi/act) ⭐ 130 | 🐛 2 | 🌐 C++ | 📅 2026-09-13
   * Asynchronous circuit compiler tools
 * [tapasco](https://github.com/esa-tu-darmstadt/tapasco) ⭐ 128 | 🐛 55 | 🌐 Verilog | 📅 2026-06-23
   * Heterogeneous system composer
@@ -272,9 +272,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## FPGA Compilers
 
-* [nextpnr](https://github.com/YosysHQ/nextpnr) ⭐ 1,751 | 🐛 148 | 🌐 C++ | 📅 2026-09-10
+* [nextpnr](https://github.com/YosysHQ/nextpnr) ⭐ 1,751 | 🐛 151 | 🌐 C++ | 📅 2026-09-10
   * FPGA place and route tool
-* [vtr](https://github.com/verilog-to-routing/vtr-verilog-to-routing) ⭐ 1,265 | 🐛 131 | 🌐 C++ | 📅 2026-09-12
+* [vtr](https://github.com/verilog-to-routing/vtr-verilog-to-routing) ⭐ 1,265 | 🐛 130 | 🌐 C++ | 📅 2026-09-13
   * FPGA place and route tool
 * [flowtune](https://github.com/Yu-Utah/FlowTune) ⭐ 185 | 🐛 1 | 🌐 C | 📅 2022-11-12
   * FPGA synehsis and PNR optimizer
@@ -285,9 +285,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Layout Compilers
 
-* [openroad](https://github.com/The-OpenROAD-Project/OpenROAD) ⭐ 3,093 | 🐛 219 | 🌐 Verilog | 📅 2026-09-11
+* [openroad](https://github.com/The-OpenROAD-Project/OpenROAD) ⭐ 3,098 | 🐛 208 | 🌐 Verilog | 📅 2026-09-13
   * Complete RTL2GDS platform
-* [klayout](https://github.com/KLayout/klayout) ⭐ 1,193 | 🐛 223 | 🌐 C++ | 📅 2026-09-04
+* [klayout](https://github.com/KLayout/klayout) ⭐ 1,194 | 🐛 223 | 🌐 C++ | 📅 2026-09-04
   * Layout viewer
 * [dreamplace](https://github.com/limbo018/DREAMPlace) ⭐ 1,049 | 🐛 92 | 🌐 C++ | 📅 2026-07-18
   * Deep learning toolkit-enabled VLSI placement
@@ -295,7 +295,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Platform for chip design and layout
 * [magic](https://github.com/RTimothyEdwards/magic) ⭐ 701 | 🐛 194 | 🌐 C | 📅 2026-09-02
   * Magic VLSI layout tool
-* [ieda](https://github.com/OSCC-Project/iEDA) ⭐ 545 | 🐛 8 | 🌐 C++ | 📅 2026-07-09
+* [ieda](https://github.com/OSCC-Project/iEDA) ⭐ 547 | 🐛 8 | 🌐 C++ | 📅 2026-07-09
   * RTL2GDS infrastructure
 * [gdstk](https://github.com/heitzmann/gdstk) ⭐ 498 | 🐛 52 | 🌐 C++ | 📅 2026-07-24
   * C++/Python library for creation and manipulation of GDSII and OASIS files.
@@ -303,7 +303,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Automatic layout generator for analog circuits
 * [gdspy](https://github.com/heitzmann/gdspy) ⚠️ Archived
   * Python module for creating GDSII stream files, usually CAD layouts.
-* [magical](https://github.com/magical-eda/MAGICAL) ⭐ 294 | 🐛 17 | 🌐 C++ | 📅 2024-04-24
+* [magical](https://github.com/magical-eda/MAGICAL) ⭐ 295 | 🐛 17 | 🌐 C++ | 📅 2024-04-24
   * Machine Generated Analog IC Layout
 * [gds3d](https://github.com/trilomix/GDS3D) ⭐ 268 | 🐛 17 | 🌐 C++ | 📅 2024-08-20
   * Render GDS files in 3D
@@ -330,7 +330,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 * [verilog-eval](https://github.com/NVlabs/verilog-eval) ⭐ 470 | 🐛 21 | 🌐 SystemVerilog | 📅 2025-07-14
   * Verilog evaluation benchmark for large language model
-* [sv-tests](https://github.com/chipsalliance/sv-tests) ⭐ 393 | 🐛 84 | 🌐 SystemVerilog | 📅 2026-09-11
+* [sv-tests](https://github.com/chipsalliance/sv-tests) ⭐ 394 | 🐛 84 | 🌐 SystemVerilog | 📅 2026-09-11
   * SystemVerilog compliance test suite
 * [epfl-benchmarks](https://github.com/lsils/benchmarks) ⭐ 266 | 🐛 3 | 🌐 Verilog | 📅 2026-08-13
   * Combinational Benchmark Suite for logic synthesis
@@ -351,19 +351,19 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Board Design
 
-* [freecad](https://github.com/FreeCAD/FreeCAD) ⭐ 33,453 | 🐛 4,065 | 🌐 C++ | 📅 2026-09-12
+* [freecad](https://github.com/FreeCAD/FreeCAD) ⭐ 33,478 | 🐛 4,057 | 🌐 C++ | 📅 2026-09-13
   * 3D parametric CAD system
-* [librepcb](https://github.com/LibrePCB/LibrePCB) ⭐ 2,985 | 🐛 220 | 🌐 C++ | 📅 2026-09-07
+* [librepcb](https://github.com/LibrePCB/LibrePCB) ⭐ 2,986 | 🐛 220 | 🌐 C++ | 📅 2026-09-07
   * Board design framework
-* [kicad](https://github.com/KiCad/kicad-source-mirror) ⭐ 2,960 | 🐛 0 | 🌐 C++ | 📅 2026-09-12
+* [kicad](https://github.com/KiCad/kicad-source-mirror) ⭐ 2,962 | 🐛 0 | 🌐 C++ | 📅 2026-09-13
   * Board design framework
-* [kikit](https://github.com/yaqwsx/KiKit) ⭐ 2,024 | 🐛 98 | 🌐 Python | 📅 2026-08-05
+* [kikit](https://github.com/yaqwsx/KiKit) ⭐ 2,025 | 🐛 98 | 🌐 Python | 📅 2026-08-05
   * Automation tools for kicad
-* [freerouting](https://github.com/freerouting/freerouting) ⭐ 1,974 | 🐛 42 | 🌐 Java | 📅 2026-09-12
+* [freerouting](https://github.com/freerouting/freerouting) ⭐ 1,976 | 🐛 44 | 🌐 Java | 📅 2026-09-13
   * PCB auto-router
-* [kicanvas](https://github.com/theacodes/kicanvas) ⭐ 1,131 | 🐛 57 | 🌐 TypeScript | 📅 2026-04-28
+* [kicanvas](https://github.com/theacodes/kicanvas) ⭐ 1,131 | 🐛 56 | 🌐 TypeScript | 📅 2026-04-28
   * KiCAD web viewer
-* [cuflow](https://github.com/jamesbowman/cuflow) ⭐ 285 | 🐛 6 | 🌐 Python | 📅 2026-09-11
+* [cuflow](https://github.com/jamesbowman/cuflow) ⭐ 285 | 🐛 6 | 🌐 Python | 📅 2026-09-12
   * Experimental procedural PCB layout program
 * [kicad-skip](https://github.com/psychogenic/kicad-skip) ⭐ 229 | 🐛 28 | 🌐 Python | 📅 2024-05-26
   * kicad s-expression schematic/layout file manipulation
@@ -380,7 +380,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Digital Design
 
-* [digital](https://github.com/hneemann/Digital) ⭐ 5,998 | 🐛 197 | 🌐 Java | 📅 2026-09-07
+* [digital](https://github.com/hneemann/Digital) ⭐ 6,001 | 🐛 197 | 🌐 Java | 📅 2026-09-07
   * Digital logic designer and circuit simulator
 * [vscode-teroshdl](https://github.com/TerosTechnology/vscode-terosHDL) ⭐ 738 | 🐛 232 | 🌐 VHDL | 📅 2026-08-07
   * Full IDE for RTL development in VS Code
@@ -395,23 +395,23 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Documentation
 
-* [sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 8,009 | 🐛 1,430 | 🌐 Python | 📅 2026-09-07
+* [sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 8,010 | 🐛 1,436 | 🌐 Python | 📅 2026-09-07
   * Document builder
 * [nn-svg](https://github.com/alexlenail/NN-SVG) ⭐ 5,687 | 🐛 27 | 🌐 JavaScript | 📅 2026-06-02
   * Publication-ready NN-architecture schematics
-* [wireviz](https://github.com/wireviz/WireViz) ⭐ 5,249 | 🐛 195 | 🌐 Python | 📅 2026-06-06
+* [wireviz](https://github.com/wireviz/WireViz) ⭐ 5,250 | 🐛 195 | 🌐 Python | 📅 2026-06-06
   * Docuyment cables and wiring harnesses
 * [wavedrom](https://github.com/wavedrom/wavedrom) ⭐ 3,491 | 🐛 205 | 🌐 JavaScript | 📅 2026-08-31
   * Digital timing diagram rendering engine
-* [kythe](https://github.com/chipsalliance/verible/blob/master/verilog/tools/kythe) ⭐ 1,934 | 🐛 597 | 🌐 C++ | 📅 2026-09-12
+* [kythe](https://github.com/chipsalliance/verible/blob/master/verilog/tools/kythe) ⭐ 1,935 | 🐛 597 | 🌐 C++ | 📅 2026-09-13
   * Verible based SystemVerilog source file indexer
 * [graphviz](https://github.com/xflr6/graphviz) ⭐ 1,809 | 🐛 10 | 🌐 Python | 📅 2026-07-11
   * Python library for graph cration and rendering in DOT language
 * [pcbdraw](https://github.com/yaqwsx/PcbDraw) ⭐ 1,429 | 🐛 10 | 🌐 Python | 📅 2026-08-07
   * Convert KiCAD board into 2D drawing suitable for pinout diagrams
-* [netlistsvg](https://github.com/nturley/netlistsvg) ⭐ 826 | 🐛 55 | 🌐 JavaScript | 📅 2024-01-25
+* [netlistsvg](https://github.com/nturley/netlistsvg) ⭐ 828 | 🐛 55 | 🌐 JavaScript | 📅 2024-01-25
   * Draws an SVG schematic from a JSON netlist
-* [pinion](https://github.com/yaqwsx/Pinion) ⭐ 504 | 🐛 0 | 🌐 Python | 📅 2026-09-06
+* [pinion](https://github.com/yaqwsx/Pinion) ⭐ 504 | 🐛 0 | 🌐 Python | 📅 2026-09-13
   * Generate interactive Diagrams for your PCBs
 * [pinout](https://github.com/j0ono0/pinout) ⭐ 432 | 🐛 10 | 🌐 Python | 📅 2026-04-20
   * Python package that generates hardware pinout diagrams as SVG images
@@ -459,7 +459,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Formal Verification
 
-* [z3](https://github.com/Z3Prover/z3) ⭐ 12,657 | 🐛 50 | 🌐 C++ | 📅 2026-09-12
+* [z3](https://github.com/Z3Prover/z3) ⭐ 12,659 | 🐛 46 | 🌐 C++ | 📅 2026-09-13
   * Microsoft research theorem prover
 * [cvc5](https://github.com/cvc5/cvc5) ⭐ 1,360 | 🐛 224 | 🌐 SMT | 📅 2026-09-11
   * SMT automatic theorem prover
@@ -478,9 +478,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Linters
 
-* [verilator](https://github.com/verilator/verilator) ⭐ 3,921 | 🐛 297 | 🌐 SystemVerilog | 📅 2026-09-12
+* [verilator](https://github.com/verilator/verilator) ⭐ 3,928 | 🐛 292 | 🌐 SystemVerilog | 📅 2026-09-13
   * SystemVerilog simulator and lint system
-* [verible](https://github.com/chipsalliance/verible) ⭐ 1,934 | 🐛 597 | 🌐 C++ | 📅 2026-09-12
+* [verible](https://github.com/chipsalliance/verible) ⭐ 1,935 | 🐛 597 | 🌐 C++ | 📅 2026-09-13
   * SystemVerilog developer tools, including a parser, style-linter, and formatter
 * [svlint](https://github.com/dalance/svlint) ⭐ 392 | 🐛 24 | 🌐 Rust | 📅 2025-11-06
   * SystemVerilog linter
@@ -504,11 +504,11 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Schematics
 
-* [qucs\_s](https://github.com/ra3xdh/qucs_s) ⭐ 1,372 | 🐛 36 | 🌐 C++ | 📅 2026-09-11
+* [qucs\_s](https://github.com/ra3xdh/qucs_s) ⭐ 1,372 | 🐛 32 | 🌐 C++ | 📅 2026-09-13
   * Integrated circuit simulator with Graphical User Interface
 * [openplc\_editor](https://github.com/thiagoralves/OpenPLC_Editor) ⚠️ Archived
   * IDE capable of creating programs for the OpenPLC Runtime
-* [xschem](https://github.com/StefanSchippers/xschem) ⭐ 491 | 🐛 36 | 🌐 C | 📅 2026-09-12
+* [xschem](https://github.com/StefanSchippers/xschem) ⭐ 492 | 🐛 35 | 🌐 C | 📅 2026-09-12
   * Schematic editor for VLSI/Asic/Analog custom designs
 * [kaktus2dev](https://github.com/kactus2/kactus2dev) ⭐ 263 | 🐛 34 | 🌐 C++ | 📅 2026-09-09
   * Graphical EDA tool based on the IP-XACT standard
@@ -521,31 +521,31 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Electronics Simulators
 
-* [qemu](https://github.com/qemu/qemu) ⭐ 13,714 | 🐛 0 | 🌐 C | 📅 2026-09-11
+* [qemu](https://github.com/qemu/qemu) ⭐ 13,715 | 🐛 0 | 🌐 C | 📅 2026-09-11
   * Generic and open source machine & userspace emulator and virtualizer
-* [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,557 | 🐛 106 | 🌐 Java | 📅 2026-09-12
+* [logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,561 | 🐛 106 | 🌐 Java | 📅 2026-09-12
   * Digital logic design tool and simulator
-* [verilator](https://github.com/verilator/verilator) ⭐ 3,921 | 🐛 297 | 🌐 SystemVerilog | 📅 2026-09-12
+* [verilator](https://github.com/verilator/verilator) ⭐ 3,928 | 🐛 292 | 🌐 SystemVerilog | 📅 2026-09-13
   * SystemVerilog simulator and lint system
-* [icarus](https://github.com/steveicarus/iverilog.git) ⭐ 3,632 | 🐛 186 | 🌐 C++ | 📅 2026-09-10
+* [icarus](https://github.com/steveicarus/iverilog.git) ⭐ 3,632 | 🐛 186 | 🌐 C++ | 📅 2026-09-13
   * Verilog IEEE-1364 simulator
-* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,889 | 🐛 337 | 🌐 VHDL | 📅 2026-09-05
+* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,889 | 🐛 337 | 🌐 VHDL | 📅 2026-09-13
   * VHDL 2008/93/87 simulator
-* [renode](https://github.com/renode/renode) ⭐ 2,874 | 🐛 443 | 🌐 RobotFramework | 📅 2026-09-11
+* [renode](https://github.com/renode/renode) ⭐ 2,877 | 🐛 443 | 🌐 RobotFramework | 📅 2026-09-11
   * Generic and open source machine emulator
-* [gem5](https://github.com/gem5/gem5) ⭐ 2,805 | 🐛 199 | 🌐 C++ | 📅 2026-09-11
+* [gem5](https://github.com/gem5/gem5) ⭐ 2,808 | 🐛 199 | 🌐 C++ | 📅 2026-09-11
   * Modular simulator platform for computer-system architecture research
 * [firesim](https://github.com/firesim/firesim) ⭐ 1,040 | 🐛 239 | 🌐 Scala | 📅 2026-09-10
   * FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
-* [nvc](https://github.com/nickg/nvc) ⭐ 878 | 🐛 105 | 🌐 C | 📅 2026-09-11
+* [nvc](https://github.com/nickg/nvc) ⭐ 877 | 🐛 105 | 🌐 C | 📅 2026-09-13
   * VHDL compiler and simulator
-* [champsim](https://github.com/ChampSim/ChampSim) ⭐ 752 | 🐛 60 | 🌐 C++ | 📅 2026-09-04
+* [champsim](https://github.com/ChampSim/ChampSim) ⭐ 752 | 🐛 60 | 🌐 C++ | 📅 2026-09-13
   * Trace-based simulator for a microarchitecture study
-* [ramulator2](https://github.com/CMU-SAFARI/ramulator2) ⭐ 638 | 🐛 3 | 🌐 C++ | 📅 2026-09-02
+* [ramulator2](https://github.com/CMU-SAFARI/ramulator2) ⭐ 639 | 🐛 3 | 🌐 C++ | 📅 2026-09-02
   * Cycle accurate DRAM simulator
 * [noxim](https://github.com/davidepatti/noxim) ⭐ 336 | 🐛 9 | 🌐 C++ | 📅 2026-06-09
   * Network on Chip Simulator
-* [simulide](https://github.com/SimulIDE/SimulIDE) ⭐ 308 | 🐛 23 | 🌐 C++ | 📅 2021-11-04
+* [simulide](https://github.com/SimulIDE/SimulIDE) ⭐ 309 | 🐛 23 | 🌐 C++ | 📅 2021-11-04
   * SimulIDE is a simple real-time electronic circuit simulator
 * [libsystemctlm-soc](https://github.com/Xilinx/libsystemctlm-soc) ⭐ 307 | 🐛 16 | 🌐 Verilog | 📅 2026-06-26
   * SystemC/TLM-2.0 Co-simulation framework
@@ -582,7 +582,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Verification Frameworks
 
-* [cocotb](https://github.com/cocotb/cocotb) ⭐ 2,500 | 🐛 414 | 🌐 Python | 📅 2026-09-12
+* [cocotb](https://github.com/cocotb/cocotb) ⭐ 2,501 | 🐛 414 | 🌐 Python | 📅 2026-09-12
   * Python based cosimulation library for VHDL and Verilog testbenches
 * [openplc\_v3](https://github.com/thiagoralves/OpenPLC_v3) ⚠️ Archived
   * OpenPLC Runtime version 3
@@ -590,9 +590,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Random instruction generator for RISC-V processor verification
 * [pyspice](https://github.com/PySpice-org/PySpice) ⭐ 866 | 🐛 205 | 🌐 Python | 📅 2026-09-03
   * Python interface for ngspice and xyce
-* [vunit](https://github.com/VUnit/vunit) ⭐ 845 | 🐛 272 | 🌐 VHDL | 📅 2026-09-11
+* [vunit](https://github.com/VUnit/vunit) ⭐ 845 | 🐛 273 | 🌐 VHDL | 📅 2026-09-11
   * Unit testing framework for VHDL/SystemVerilog
-* [core-v-verif](https://github.com/openhwgroup/core-v-verif) ⭐ 719 | 🐛 159 | 🌐 Assembly | 📅 2026-09-10
+* [core-v-verif](https://github.com/openhwgroup/core-v-verif) ⭐ 720 | 🐛 159 | 🌐 Assembly | 📅 2026-09-10
   * Functional verification project for the CORE-V family of RISC-V cores
 * [opentimer](https://github.com/OpenTimer/OpenTimer) ⭐ 716 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26
   * High performance static timing analysis
@@ -612,7 +612,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Analytical cost model evaluating DNN mappings (dataflows and tiling)
 * [cocotbext-pcie](https://github.com/alexforencich/cocotbext-pcie) ⭐ 210 | 🐛 17 | 🌐 Python | 📅 2026-08-25
   * PCI express simulation framework for Cocotb
-* [openvaf](https://github.com/pascalkuthe/OpenVAF) ⭐ 196 | 🐛 69 | 🌐 Rust | 📅 2024-08-20
+* [openvaf](https://github.com/pascalkuthe/OpenVAF) ⭐ 197 | 🐛 69 | 🌐 Rust | 📅 2024-08-20
   * Next generation Verilog-A compiler
 * [systemctlm-cosim-demo](https://github.com/Xilinx/systemctlm-cosim-demo) ⭐ 169 | 🐛 24 | 🌐 C++ | 📅 2026-06-25
   * Demo system for libsystemctlm-soc library
@@ -665,13 +665,13 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Physics
 
-* [meep](https://github.com/NanoComp/meep) ⭐ 1,762 | 🐛 393 | 🌐 C++ | 📅 2026-09-11
+* [meep](https://github.com/NanoComp/meep) ⭐ 1,763 | 🐛 394 | 🌐 C++ | 📅 2026-09-11
   * Finite-difference-time-domain (FDTD) electromagneic simulation
-* [elmer](https://github.com/ElmerCSC/elmerfem) ⭐ 1,702 | 🐛 86 | 🌐 Fortran | 📅 2026-09-11
+* [elmer](https://github.com/ElmerCSC/elmerfem) ⭐ 1,703 | 🐛 87 | 🌐 Fortran | 📅 2026-09-13
   * Finite Element Solver
-* [paraview](https://github.com/Kitware/ParaView) ⭐ 1,696 | 🐛 8 | 🌐 C++ | 📅 2026-09-12
+* [paraview](https://github.com/Kitware/ParaView) ⭐ 1,697 | 🐛 8 | 🌐 C++ | 📅 2026-09-13
   * Data Analysis and Visualization Application
-* [scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 936 | 🐛 56 | 🌐 Python | 📅 2026-09-08
+* [scikit-rf](https://github.com/scikit-rf/scikit-rf) ⭐ 937 | 🐛 55 | 🌐 Python | 📅 2026-09-12
   * RF and Microwave Engineering Scikit
 * [femwell](https://github.com/HelgeGehring/femwell) ⭐ 179 | 🐛 66 | 🌐 Python | 📅 2026-05-04
   * Finite element based simulation tool for integrated circuits, electric and photonic
@@ -684,9 +684,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Waveform Viewers
 
-* [gtkwave](https://github.com/gtkwave/gtkwave) ⭐ 1,016 | 🐛 208 | 🌐 C | 📅 2026-09-03
+* [gtkwave](https://github.com/gtkwave/gtkwave) ⭐ 1,017 | 🐛 208 | 🌐 C | 📅 2026-09-03
   * GTK+ based VCD waveform viewer
-* [konata](https://github.com/shioyadan/Konata) ⭐ 569 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-12
+* [konata](https://github.com/shioyadan/Konata) ⭐ 569 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-13
   * Instruction pipeline visualizer for Gem5
 * [scopy](https://github.com/analogdevicesinc/scopy) ⭐ 500 | 🐛 78 | 🌐 C++ | 📅 2026-09-11
   * Software oscilloscope and signal analysis toolset
@@ -717,13 +717,13 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Accelerators
 
-* [vortex](https://github.com/vortexgpgpu/vortex) ⭐ 2,244 | 🐛 11 | 🌐 Verilog | 📅 2026-09-10
+* [vortex](https://github.com/vortexgpgpu/vortex) ⭐ 2,246 | 🐛 11 | 🌐 Verilog | 📅 2026-09-10
   * Full-system RISCV-based GPGPU processor
 * [nyuziprocessor](https://github.com/jbush001/NyuziProcessor) ⭐ 2,222 | 🐛 91 | 🌐 C | 📅 2024-11-08
   * GPGPU microprocessor architecture
-* [nvdla](https://github.com/nvdla/hw) ⭐ 2,151 | 🐛 202 | 🌐 Verilog | 📅 2022-03-02
+* [nvdla](https://github.com/nvdla/hw) ⭐ 2,152 | 🐛 202 | 🌐 Verilog | 📅 2022-03-02
   * NVIDIA Deep Learning Accelerator (NVDLA)
-* [gemmini](https://github.com/ucb-bar/gemmini) ⭐ 1,459 | 🐛 107 | 🌐 Scala | 📅 2026-09-11
+* [gemmini](https://github.com/ucb-bar/gemmini) ⭐ 1,460 | 🐛 107 | 🌐 Scala | 📅 2026-09-11
   * Berkeley Spatial Array Generator
 * [verigpu](https://github.com/hughperkins/VeriGPU) ⭐ 1,372 | 🐛 11 | 🌐 SystemVerilog | 📅 2024-11-22
   * OpenSource GPU, loosely based on RISC-V ISA
@@ -731,11 +731,11 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Quantized NN to FPGA dataflow accelerator generator
 * [fpu](https://github.com/dawsonjon/fpu) ⭐ 756 | 🐛 13 | 🌐 Verilog | 📅 2023-03-13
   * Synthesizable ieee 754 floating point library in verilog
-* [pyfda](https://github.com/chipmuenk/pyFDA) ⭐ 733 | 🐛 39 | 🌐 Python | 📅 2026-09-12
+* [pyfda](https://github.com/chipmuenk/pyFDA) ⭐ 733 | 🐛 39 | 🌐 Python | 📅 2026-09-13
   * Python Filter Design Analysis Tool
 * [gplgpu](https://github.com/asicguy/gplgpu) ⭐ 703 | 🐛 7 | 🌐 VHDL | 📅 2014-08-31
   * GPL v3 2D/3D graphics engine in verilog
-* [ara](https://github.com/pulp-platform/ara) ⭐ 547 | 🐛 136 | 🌐 C | 📅 2026-08-19
+* [ara](https://github.com/pulp-platform/ara) ⭐ 548 | 🐛 136 | 🌐 C | 📅 2026-08-19
   * Vector Unit, compatible with the RISC-V Vector Extension
 * [openofdm](https://github.com/jhshi/openofdm) ⭐ 481 | 🐛 17 | 🌐 Verilog | 📅 2023-01-29
   * 802.11 OFDM PHY decoder
@@ -751,7 +751,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Zipline lossless compression implementation
 * [h265-encoder-rtl](https://github.com/openasic-org/h265-encoder-rtl) ⭐ 287 | 🐛 4 | 🌐 Verilog | 📅 2023-04-09
   * H.265 Video Encoder IP Core
-* [core\_jpeg](https://github.com/ultraembedded/core_jpeg) ⭐ 279 | 🐛 7 | 🌐 Verilog | 📅 2022-03-05
+* [core\_jpeg](https://github.com/ultraembedded/core_jpeg) ⭐ 278 | 🐛 7 | 🌐 Verilog | 📅 2022-03-05
   * High throughput JPEG decoder in Verilog for FPGA
 * [spiral](https://github.com/spiral-software/spiral-software) ⭐ 243 | 🐛 11 | 🌐 Shell | 📅 2026-09-01
   * Spiral based FFT generator
@@ -818,7 +818,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Analog Circuits
 
-* [openfasoc](https://github.com/idea-fasoc/OpenFASOC) ⭐ 355 | 🐛 41 | 🌐 Python | 📅 2025-10-22
+* [openfasoc](https://github.com/idea-fasoc/OpenFASOC) ⭐ 356 | 🐛 41 | 🌐 Python | 📅 2025-10-22
   * Automated Mixed Signal SoC Synthesis Framework
 * [ams\_kgd](https://github.com/USCPOSH/AMS_KGD) ⭐ 42 | 🐛 1 | 🌐 MATLAB | 📅 2021-06-10
   * Repository for Known Good Analog Designs (KGDs)
@@ -834,7 +834,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Boards
 
-* [parallella-hw](https://github.com/parallella/parallella-hw) ⭐ 421 | 🐛 6 | 🌐 VHDL | 📅 2022-02-12
+* [parallella-hw](https://github.com/parallella/parallella-hw) ⭐ 422 | 🐛 6 | 🌐 VHDL | 📅 2022-02-12
   * Collection of open source boards from Adapteva
 * [google-coral-baseboard](https://github.com/antmicro/google-coral-baseboard) ⭐ 80 | 🐛 3 | 📅 2023-08-07
   * Open hardware baseboard for the Google Coral i.MX8 + Edge TPU SoM
@@ -853,19 +853,19 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Verilog PCI express components
 * [hdmi](https://github.com/hdl-util/hdmi) ⭐ 1,292 | 🐛 17 | 🌐 SystemVerilog | 📅 2026-07-13
   * Send video/audio over HDMI on an FPGA
-* [usb3\_camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,153 | 🐛 0 | 🌐 Verilog | 📅 2026-08-27
+* [usb3\_camera](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3) ⭐ 1,153 | 🐛 0 | 🌐 Verilog | 📅 2026-09-13
   * USB C Industrial Camera Project
 * [verilog-i2c](https://github.com/alexforencich/verilog-i2c) ⭐ 727 | 🐛 11 | 🌐 Verilog | 📅 2025-02-27
   * Verilog I2C interface for FPGA implementation
 * [litepice](https://github.com/enjoy-digital/litepcie) ⭐ 726 | 🐛 31 | 🌐 Python | 📅 2026-09-11
   * Small footprint and configurable PCIe core
-* [vivado-library](https://github.com/Digilent/vivado-library) ⭐ 697 | 🐛 26 | 🌐 C | 📅 2025-12-31
+* [vivado-library](https://github.com/Digilent/vivado-library) ⭐ 696 | 🐛 26 | 🌐 C | 📅 2025-12-31
   * IP cores and interface definitions compatible with Xilinx Vivado IP Catalog
 * [core\_ddr3\_controller](https://github.com/ultraembedded/core_ddr3_controller) ⭐ 630 | 🐛 4 | 🌐 Verilog | 📅 2021-10-10
   * DDR3 memory controller in Verilog for various FPGAs
 * [verilog-uart](https://github.com/alexforencich/verilog-uart) ⭐ 583 | 🐛 10 | 🌐 Verilog | 📅 2025-02-27
   * Verilog UART
-* [litedram](https://github.com/enjoy-digital/litedram) ⭐ 545 | 🐛 49 | 🌐 Python | 📅 2026-09-10
+* [litedram](https://github.com/enjoy-digital/litedram) ⭐ 546 | 🐛 49 | 🌐 Python | 📅 2026-09-10
   * Small footprint and configurable DRAM (litex)
 * [openserdes](https://github.com/SparcLab/OpenSERDES) ⭐ 301 | 🐛 8 | 🌐 Verilog | 📅 2022-03-26
   * Digitally synthesizable architecture for SerDes using Skywater130
@@ -918,17 +918,17 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## CPUs
 
-* [openxiangshan](https://github.com/OpenXiangShan/XiangShan) ⭐ 7,252 | 🐛 291 | 🌐 Scala | 📅 2026-09-12
+* [openxiangshan](https://github.com/OpenXiangShan/XiangShan) ⭐ 7,253 | 🐛 291 | 🌐 Scala | 📅 2026-09-13
   * Open-source high-performance RISC-V processor
 * [picorv32](https://github.com/YosysHQ/picorv32) ⚠️ Archived
   * Size-Optimized RISC-V CPU
-* [rocket-chip](https://github.com/chipsalliance/rocket-chip) ⭐ 3,864 | 🐛 348 | 🌐 Scala | 📅 2026-06-02
+* [rocket-chip](https://github.com/chipsalliance/rocket-chip) ⭐ 3,864 | 🐛 347 | 🌐 Scala | 📅 2026-09-13
   * Linux capable RISC-V Rocket Chip Generator
 * [cva6](https://github.com/openhwgroup/cva6) ⭐ 3,106 | 🐛 247 | 🌐 Assembly | 📅 2026-09-12
   * Linux capable RISC-V CPU
-* [neorv32](https://github.com/stnolting/neorv32) ⭐ 2,260 | 🐛 9 | 🌐 VHDL | 📅 2026-09-12
+* [neorv32](https://github.com/stnolting/neorv32) ⭐ 2,262 | 🐛 8 | 🌐 VHDL | 📅 2026-09-13
   * Customizable and highly extensible MCU-class 32-bit RISC-V (VHDL)
-* [ibex](https://github.com/lowRISC/ibex) ⭐ 2,050 | 🐛 255 | 🌐 SystemVerilog | 📅 2026-09-08
+* [ibex](https://github.com/lowRISC/ibex) ⭐ 2,051 | 🐛 256 | 🌐 SystemVerilog | 📅 2026-09-08
   * Small 32 bit RISC-V CPU core
 * [serv](https://github.com/olofk/serv) ⭐ 1,882 | 🐛 36 | 🌐 Verilog | 📅 2026-08-25
   * SErial RISC-V CPU
@@ -938,13 +938,13 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Linux-capable RISC-V multicore
 * [microwatt](https://github.com/antonblanchard/microwatt) ⭐ 725 | 🐛 49 | 🌐 Verilog | 📅 2026-08-12
   * Open POWER ISA softcore written in VHDL 2008
-* [core-v-verif](https://github.com/openhwgroup/core-v-verif) ⭐ 719 | 🐛 159 | 🌐 Assembly | 📅 2026-09-10
+* [core-v-verif](https://github.com/openhwgroup/core-v-verif) ⭐ 720 | 🐛 159 | 🌐 Assembly | 📅 2026-09-10
   * Functional verification project for the CORE-V family of RISC-V cores
-* [cvw](https://github.com/openhwgroup/cvw) ⭐ 620 | 🐛 37 | 🌐 SystemVerilog | 📅 2026-09-11
+* [cvw](https://github.com/openhwgroup/cvw) ⭐ 621 | 🐛 42 | 🌐 SystemVerilog | 📅 2026-09-11
   * Configurable RISC-V Processor for RISC-V System-on-Chip Design textbook.
 * [cfu-playground](https://github.com/google/CFU-Playground/) ⭐ 565 | 🐛 142 | 🌐 Verilog | 📅 2026-02-26
   * Famework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers
-* [ara](https://github.com/pulp-platform/ara) ⭐ 547 | 🐛 136 | 🌐 C | 📅 2026-08-19
+* [ara](https://github.com/pulp-platform/ara) ⭐ 548 | 🐛 136 | 🌐 C | 📅 2026-08-19
   * 64-bit Vector unit coprocessor to Ccva6
 * [vroom](https://github.com/MoonbaseOtago/vroom) ⭐ 522 | 🐛 8 | 🌐 Verilog | 📅 2024-09-02
   * High performance RISC-V CPU
@@ -973,18 +973,18 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## FPGA Architectures
 
-* [openfpga](https://github.com/lnis-uofu/OpenFPGA) ⭐ 1,148 | 🐛 149 | 🌐 Verilog | 📅 2026-09-11
+* [openfpga](https://github.com/lnis-uofu/OpenFPGA) ⭐ 1,150 | 🐛 149 | 🌐 Verilog | 📅 2026-09-11
   * FPGA IP Generator
 * [fabulous](https://github.com/FPGA-Research-Manchester/FABulous) ⭐ 299 | 🐛 88 | 🌐 Python | 📅 2026-09-11
   * Fabric generator and CAD tools
-* [prga](https://github.com/PrincetonUniversity/prga) ⭐ 211 | 🐛 8 | 🌐 SCSS | 📅 2024-08-08
+* [prga](https://github.com/PrincetonUniversity/prga) ⭐ 212 | 🐛 8 | 🌐 SCSS | 📅 2024-08-08
   * Open-source FPGA research and prototyping framework
 * [fabric\_team](https://github.com/ucb-cs250/fabric_team) ⭐ 5 | 🐛 1 | 🌐 Verilog | 📅 2021-06-15
   * Simple Berkeley FPGA generator class project
 
 ## Libraries
 
-* [basic\_verilog](https://github.com/pConst/basic_verilog) ⭐ 2,019 | 🐛 0 | 🌐 Verilog | 📅 2026-03-12
+* [basic\_verilog](https://github.com/pConst/basic_verilog) ⭐ 2,020 | 🐛 0 | 🌐 Verilog | 📅 2026-03-12
   * Library of SystemVerilog components
 * [hdl](https://github.com/analogdevicesinc/hdl) ⭐ 2,014 | 🐛 64 | 🌐 Verilog | 📅 2026-09-11
   * Library of Analog Deveices specific components
@@ -1004,7 +1004,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Giant VHDL library for FPGA development
 * [berkeley-hardfloat](https://github.com/ucb-bar/berkeley-hardfloat) ⭐ 393 | 🐛 23 | 🌐 Scala | 📅 2026-08-19
   * Berkeley hardware floating point units
-* [lambdapdk](https://github.com/siliconcompiler/lambdapdk) ⭐ 131 | 🐛 3 | 🌐 SourcePawn | 📅 2026-09-12
+* [lambdapdk](https://github.com/siliconcompiler/lambdapdk) ⭐ 131 | 🐛 4 | 🌐 SourcePawn | 📅 2026-09-12
   * Library of open source Process Design Kits (PDKs)
 * [vlsiffra](https://github.com/antonblanchard/vlsiffra) ⭐ 124 | 🐛 17 | 🌐 Python | 📅 2023-09-20
   * Fast and efficient standard cell based adders and multipliers
@@ -1023,9 +1023,9 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Memory
 
-* [openram](https://github.com/VLSIDA/OpenRAM) ⭐ 1,134 | 🐛 68 | 🌐 Python | 📅 2026-08-16
+* [openram](https://github.com/VLSIDA/OpenRAM) ⭐ 1,135 | 🐛 68 | 🌐 Python | 📅 2026-08-16
   * Static random access memory (SRAM) compiler.
-* [cv-hpdcache](https://github.com/openhwgroup/cv-hpdcache) ⭐ 114 | 🐛 7 | 🌐 SystemVerilog | 📅 2026-09-12
+* [cv-hpdcache](https://github.com/openhwgroup/cv-hpdcache) ⭐ 115 | 🐛 7 | 🌐 SystemVerilog | 📅 2026-09-12
   * High-Performance L1 Dcache
 * [huancun](https://github.com/OpenXiangShan/HuanCun) ⭐ 101 | 🐛 3 | 🌐 Scala | 📅 2026-06-17
   * Open-source high-performance non-blocking cache
@@ -1038,15 +1038,15 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Systems
 
-* [litex](https://github.com/enjoy-digital/litex) ⭐ 4,088 | 🐛 113 | 🌐 Python | 📅 2026-09-12
+* [litex](https://github.com/enjoy-digital/litex) ⭐ 4,097 | 🐛 113 | 🌐 Python | 📅 2026-09-12
   * SoC builder framework
-* [opentitan](https://github.com/lowRISC/opentitan) ⭐ 3,640 | 🐛 2,054 | 🌐 SystemVerilog | 📅 2026-09-12
+* [opentitan](https://github.com/lowRISC/opentitan) ⭐ 3,641 | 🐛 2,057 | 🌐 SystemVerilog | 📅 2026-09-12
   * Open source silicon root of trust
 * [metroboy](https://github.com/aappleby/metroboy) ⭐ 1,170 | 🐛 4 | 🌐 C++ | 📅 2025-02-23
   * Gate-level simulators and tools for the original Game Boy
 * [openwifi-hw](https://github.com/open-sdr/openwifi-hw) ⭐ 895 | 🐛 19 | 🌐 Verilog | 📅 2025-09-23
   * IEEE 802.11 WiFi baseband FPGA (chip) design
-* [openpiton](https://github.com/PrincetonUniversity/openpiton) ⭐ 824 | 🐛 61 | 🌐 Assembly | 📅 2026-02-25
+* [openpiton](https://github.com/PrincetonUniversity/openpiton) ⭐ 825 | 🐛 61 | 🌐 Assembly | 📅 2026-02-25
   * General purpose, multithreaded manycore processor
 * [pulp](https://github.com/pulp-platform/pulp) ⭐ 568 | 🐛 40 | 🌐 SystemVerilog | 📅 2024-11-26
   * Multicore RISC-V based SoC
@@ -1062,13 +1062,13 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Heterogeneous SoC architecture and IP design platform
 * [falcon](https://github.com/falkenber9/falcon) ⭐ 361 | 🐛 16 | 🌐 C++ | 📅 2023-10-13
   * Fast Analysis of LTE Control channels
-* [openfasoc](https://github.com/idea-fasoc/OpenFASOC) ⭐ 355 | 🐛 41 | 🌐 Python | 📅 2025-10-22
+* [openfasoc](https://github.com/idea-fasoc/OpenFASOC) ⭐ 356 | 🐛 41 | 🌐 Python | 📅 2025-10-22
   * Open Source FASOC generators
-* [bsg\_manycore](https://github.com/bespoke-silicon-group/bsg_manycore) ⭐ 302 | 🐛 76 | 🌐 SystemVerilog | 📅 2026-09-11
+* [bsg\_manycore](https://github.com/bespoke-silicon-group/bsg_manycore) ⭐ 302 | 🐛 75 | 🌐 SystemVerilog | 📅 2026-09-12
   * Tile based architecture designed for efficiency & scalability
 * [x-heep](https://github.com/esl-epfl/x-heep) ⭐ 300 | 🐛 138 | 🌐 C | 📅 2026-09-11
   * Extendable and configurable RISC-V SoC
-* [caliptra-rtl](https://github.com/chipsalliance/caliptra-rtl) ⭐ 155 | 🐛 153 | 🌐 SystemVerilog | 📅 2026-09-12
+* [caliptra-rtl](https://github.com/chipsalliance/caliptra-rtl) ⭐ 155 | 🐛 153 | 🌐 SystemVerilog | 📅 2026-09-13
   * Caliptra Root of Trust (RTL)
 * [wulpus](https://github.com/pulp-bio/wulpus) ⭐ 121 | 🐛 5 | 🌐 C | 📅 2026-09-04
   * Wearable low-power ultrasound probe
@@ -1087,7 +1087,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Low cost FPGA development board
 * [PicoEVB](https://github.com/RHSResearchLLC/PicoEVB) ⭐ 270 | 🐛 5 | 🌐 C | 📅 2025-12-03
   * M.2 80mm Artix FPGA evaluation board
-* [fomu](https://github.com/im-tomu/fomu-hardware) ⭐ 234 | 🐛 4 | 📅 2023-01-10
+* [fomu](https://github.com/im-tomu/fomu-hardware) ⭐ 235 | 🐛 4 | 📅 2023-01-10
   * Tiny USB FPGA board
 * [scalenode-cm4-baseboard](https://github.com/antmicro/scalenode-cm4-baseboard) ⭐ 151 | 🐛 3 | 📅 2024-04-03
   * Antmicro basedboard for RPI CM4
@@ -1130,7 +1130,7 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 # Other Awesome Lists
 
-* [drom](https://github.com/drom/awesome-hdl) ⭐ 1,170 | 🐛 2 | 📅 2026-07-09
+* [drom](https://github.com/drom/awesome-hdl) ⭐ 1,171 | 🐛 2 | 📅 2026-07-09
   * HDL languages
 * [delftopenhardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,061 | 🐛 3 | 📅 2026-08-31
   * Open hardware materials
@@ -1140,10 +1140,10 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Semiconductor startups
 * [computer-engineering-resources](https://github.com/rajesh-s/computer-engineering-resources) ⭐ 629 | 🐛 1 | 📅 2026-01-30
   * A curated list of Computer Engineering/Architecture resources
+* [joamateb](https://github.com/joamatab/awesome_photonics) ⭐ 627 | 🐛 7 | 🌐 Makefile | 📅 2026-01-05
+  * Photonics
 * [ben-marshall](https://github.com/ben-marshall/awesome-open-hardware-verification) ⭐ 625 | 🐛 3 | 📅 2026-01-03
   * Hardware verification
-* [joamateb](https://github.com/joamatab/awesome_photonics) ⭐ 625 | 🐛 7 | 🌐 Makefile | 📅 2026-01-05
-  * Photonics
 * [mattvenn](https://github.com/mattvenn/awesome-opensource-asic-resources) ⭐ 413 | 🐛 1 | 📅 2023-04-13
   * ASIC resources
 * [hdl](https://github.com/hdl/awesome) ⭐ 177 | 🐛 18 | 🌐 Shell | 📅 2026-09-11
@@ -1153,4 +1153,4 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
