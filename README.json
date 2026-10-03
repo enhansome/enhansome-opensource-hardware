@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "sky130",
-              "description": null,
+              "description": "google/skywater-pdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -38,7 +38,7 @@
             {
               "node_type": "item",
               "title": "sg13g2",
-              "description": null,
+              "description": "IHP-GmbH/IHP-Open-PDK",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -48,7 +48,7 @@
                 "language": "HTML",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T14:56:42Z",
-                "open_issues": 330,
+                "open_issues": 331,
                 "owner": "IHP-GmbH",
                 "repo": "IHP-Open-PDK",
                 "stars": 836,
@@ -63,7 +63,7 @@
             {
               "node_type": "item",
               "title": "gf180",
-              "description": null,
+              "description": "google/gf180mcu-pdk",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -99,7 +99,7 @@
             {
               "node_type": "item",
               "title": "freepdk45",
-              "description": null,
+              "description": "siliconcompiler/siliconcompiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -108,11 +108,11 @@
                 "id": 320398696,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T18:17:11Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-03T00:52:23Z",
+                "open_issues": 36,
                 "owner": "siliconcompiler",
                 "repo": "siliconcompiler",
-                "stars": 1222,
+                "stars": 1223,
                 "topics": [
                   "asic",
                   "cmos",
@@ -131,7 +131,7 @@
             {
               "node_type": "item",
               "title": "asap7",
-              "description": null,
+              "description": "The-OpenROAD-Project/asap7",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -152,7 +152,7 @@
             {
               "node_type": "item",
               "title": "probe3.0",
-              "description": null,
+              "description": "ABKGroup/PROBE3.0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -184,7 +184,7 @@
         {
           "node_type": "item",
           "title": "AnalogCoder",
-          "description": null,
+          "description": "laiyao1/AnalogCoder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -205,7 +205,7 @@
         {
           "node_type": "item",
           "title": "Masala-CHAI",
-          "description": null,
+          "description": "jitendra-bhandari/Masala-CHAI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -226,7 +226,7 @@
         {
           "node_type": "item",
           "title": "hagent",
-          "description": null,
+          "description": "masc-ucsc/hagent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -255,7 +255,7 @@
             {
               "node_type": "item",
               "title": "chipyard",
-              "description": null,
+              "description": "ucb-bar/chipyard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -293,7 +293,7 @@
             {
               "node_type": "item",
               "title": "fusesoc",
-              "description": null,
+              "description": "olofk/fusesoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -322,7 +322,7 @@
             {
               "node_type": "item",
               "title": "siliconcompiler",
-              "description": null,
+              "description": "siliconcompiler/siliconcompiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -331,11 +331,11 @@
                 "id": 320398696,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T18:17:11Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-03T00:52:23Z",
+                "open_issues": 36,
                 "owner": "siliconcompiler",
                 "repo": "siliconcompiler",
-                "stars": 1222,
+                "stars": 1223,
                 "topics": [
                   "asic",
                   "cmos",
@@ -354,7 +354,7 @@
             {
               "node_type": "item",
               "title": "edalize",
-              "description": null,
+              "description": "olofk/edalize",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -396,7 +396,7 @@
             {
               "node_type": "item",
               "title": "bender",
-              "description": null,
+              "description": "pulp-platform/bender",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -417,7 +417,7 @@
             {
               "node_type": "item",
               "title": "hammer",
-              "description": null,
+              "description": "ucb-bar/hammer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -438,7 +438,7 @@
             {
               "node_type": "item",
               "title": "mflowgen",
-              "description": null,
+              "description": "mflowgen/mflowgen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -459,7 +459,7 @@
             {
               "node_type": "item",
               "title": "bazelhdl",
-              "description": null,
+              "description": "hdl/bazel_rules_hdl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -480,7 +480,7 @@
             {
               "node_type": "item",
               "title": "orbit",
-              "description": null,
+              "description": "chaseruskin/orbit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -514,7 +514,7 @@
             {
               "node_type": "item",
               "title": "SoCMake",
-              "description": null,
+              "description": "HEP-SoC/SoCMake",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -549,7 +549,7 @@
             {
               "node_type": "item",
               "title": "cocoon",
-              "description": null,
+              "description": "pku-dasys/cocoon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -570,7 +570,7 @@
             {
               "node_type": "item",
               "title": "flgen",
-              "description": null,
+              "description": "pezy-computing/flgen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -591,7 +591,7 @@
             {
               "node_type": "item",
               "title": "hbs",
-              "description": null,
+              "description": "m-kru/hbs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -612,7 +612,7 @@
             {
               "node_type": "item",
               "title": "hwtbuildsystem",
-              "description": null,
+              "description": "Nic30/hwtBuildsystem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -640,7 +640,7 @@
             {
               "node_type": "item",
               "title": "halide",
-              "description": null,
+              "description": "halide/Halide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -649,8 +649,8 @@
                 "id": 5241312,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T17:36:43Z",
-                "open_issues": 793,
+                "last_commit": "2026-10-02T20:18:46Z",
+                "open_issues": 792,
                 "owner": "halide",
                 "repo": "Halide",
                 "stars": 6615,
@@ -669,7 +669,7 @@
             {
               "node_type": "item",
               "title": "chisel",
-              "description": null,
+              "description": "chipsalliance/chisel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -678,11 +678,11 @@
                 "id": 34695562,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T11:19:55Z",
+                "last_commit": "2026-10-02T20:56:14Z",
                 "open_issues": 508,
                 "owner": "chipsalliance",
                 "repo": "chisel",
-                "stars": 4801,
+                "stars": 4802,
                 "topics": [
                   "chip-generator",
                   "chisel",
@@ -698,7 +698,7 @@
             {
               "node_type": "item",
               "title": "yosys",
-              "description": null,
+              "description": "YosysHQ/yosys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -707,11 +707,11 @@
                 "id": 7454197,
                 "language": "C++",
                 "license": "ISC",
-                "last_commit": "2026-10-02T18:16:02Z",
+                "last_commit": "2026-10-02T19:47:05Z",
                 "open_issues": 562,
                 "owner": "YosysHQ",
                 "repo": "yosys",
-                "stars": 4784,
+                "stars": 4785,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:35.323Z"
@@ -719,7 +719,7 @@
             {
               "node_type": "item",
               "title": "circt",
-              "description": null,
+              "description": "llvm/circt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -728,8 +728,8 @@
                 "id": 245072514,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T17:31:07Z",
-                "open_issues": 1172,
+                "last_commit": "2026-10-03T03:43:39Z",
+                "open_issues": 1165,
                 "owner": "llvm",
                 "repo": "circt",
                 "stars": 2250,
@@ -744,7 +744,7 @@
             {
               "node_type": "item",
               "title": "amaranth",
-              "description": null,
+              "description": "amaranth-lang/amaranth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -769,7 +769,7 @@
             {
               "node_type": "item",
               "title": "spinalhdl",
-              "description": null,
+              "description": "SpinalHDL/SpinalHDL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -796,7 +796,7 @@
             {
               "node_type": "item",
               "title": "verible",
-              "description": null,
+              "description": "chipsalliance/verible",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -835,7 +835,7 @@
             {
               "node_type": "item",
               "title": "xls",
-              "description": null,
+              "description": "google/xls",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -844,11 +844,11 @@
                 "id": 262163993,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T18:38:07Z",
-                "open_issues": 1158,
+                "last_commit": "2026-10-02T22:00:30Z",
+                "open_issues": 1157,
                 "owner": "google",
                 "repo": "xls",
-                "stars": 1928,
+                "stars": 1927,
                 "topics": [
                   "compiler",
                   "high-level-synthesis",
@@ -864,7 +864,7 @@
             {
               "node_type": "item",
               "title": "skidl",
-              "description": null,
+              "description": "devbisme/skidl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -877,7 +877,7 @@
                 "open_issues": 46,
                 "owner": "devbisme",
                 "repo": "skidl",
-                "stars": 1680,
+                "stars": 1681,
                 "topics": [
                   "eda",
                   "electronics",
@@ -891,7 +891,7 @@
             {
               "node_type": "item",
               "title": "clash",
-              "description": null,
+              "description": "clash-lang/clash-compiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -920,7 +920,7 @@
             {
               "node_type": "item",
               "title": "silice",
-              "description": null,
+              "description": "sylefeb/Silice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -945,7 +945,7 @@
             {
               "node_type": "item",
               "title": "abc",
-              "description": null,
+              "description": "berkeley-abc/abc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -958,7 +958,7 @@
                 "open_issues": 227,
                 "owner": "berkeley-abc",
                 "repo": "abc",
-                "stars": 1231,
+                "stars": 1232,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:35.323Z"
@@ -966,7 +966,7 @@
             {
               "node_type": "item",
               "title": "slang",
-              "description": null,
+              "description": "MikePopoloski/slang",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -976,7 +976,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-30T12:26:23Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "MikePopoloski",
                 "repo": "slang",
                 "stars": 1154,
@@ -994,7 +994,7 @@
             {
               "node_type": "item",
               "title": "bsc",
-              "description": null,
+              "description": "B-Lang-org/bsc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1015,7 +1015,7 @@
             {
               "node_type": "item",
               "title": "myhdl",
-              "description": null,
+              "description": "myhdl/myhdl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1036,7 +1036,7 @@
             {
               "node_type": "item",
               "title": "finn",
-              "description": null,
+              "description": "Xilinx/finn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1046,7 +1046,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T09:33:15Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "Xilinx",
                 "repo": "finn",
                 "stars": 1077,
@@ -1063,7 +1063,7 @@
             {
               "node_type": "item",
               "title": "veryl",
-              "description": null,
+              "description": "veryl-lang/veryl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1090,7 +1090,7 @@
             {
               "node_type": "item",
               "title": "pyverilog",
-              "description": null,
+              "description": "PyHDI/Pyverilog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1120,7 +1120,7 @@
             {
               "node_type": "item",
               "title": "sv2v",
-              "description": null,
+              "description": "zachjs/sv2v",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1146,7 +1146,7 @@
             {
               "node_type": "item",
               "title": "pipelinec",
-              "description": null,
+              "description": "JulianKemmerer/PipelineC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1155,8 +1155,8 @@
                 "id": 131925641,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T17:18:27Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-03T03:04:10Z",
+                "open_issues": 31,
                 "owner": "JulianKemmerer",
                 "repo": "PipelineC",
                 "stars": 750,
@@ -1182,7 +1182,7 @@
             {
               "node_type": "item",
               "title": "firrtl",
-              "description": null,
+              "description": "chipsalliance/firrtl",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1210,7 +1210,7 @@
             {
               "node_type": "item",
               "title": "systemc",
-              "description": null,
+              "description": "accellera-official/systemc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1235,7 +1235,7 @@
             {
               "node_type": "item",
               "title": "scip",
-              "description": null,
+              "description": "scipopt/scip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1245,7 +1245,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T10:14:25Z",
-                "open_issues": 31,
+                "open_issues": 33,
                 "owner": "scipopt",
                 "repo": "scip",
                 "stars": 661,
@@ -1264,7 +1264,7 @@
             {
               "node_type": "item",
               "title": "calyx",
-              "description": null,
+              "description": "calyxir/calyx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1291,7 +1291,7 @@
             {
               "node_type": "item",
               "title": "aihwkit",
-              "description": null,
+              "description": "IBM/aihwkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1301,10 +1301,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-01T12:03:11Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "IBM",
                 "repo": "aihwkit",
-                "stars": 513,
+                "stars": 514,
                 "topics": [
                   "ai",
                   "analog-devices",
@@ -1318,7 +1318,7 @@
             {
               "node_type": "item",
               "title": "rohd",
-              "description": null,
+              "description": "intel/rohd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1328,7 +1328,7 @@
                 "language": "Dart",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-29T18:04:02Z",
-                "open_issues": 143,
+                "open_issues": 144,
                 "owner": "intel",
                 "repo": "rohd",
                 "stars": 492,
@@ -1348,7 +1348,7 @@
             {
               "node_type": "item",
               "title": "sv-parser",
-              "description": null,
+              "description": "dalance/sv-parser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1375,7 +1375,7 @@
             {
               "node_type": "item",
               "title": "surelog",
-              "description": null,
+              "description": "chipsalliance/Surelog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1384,8 +1384,8 @@
                 "id": 218417034,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T21:11:39Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-02T23:13:48Z",
+                "open_issues": 48,
                 "owner": "chipsalliance",
                 "repo": "Surelog",
                 "stars": 475,
@@ -1411,7 +1411,7 @@
             {
               "node_type": "item",
               "title": "pymtl3",
-              "description": null,
+              "description": "pymtl/pymtl3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1444,7 +1444,7 @@
             {
               "node_type": "item",
               "title": "llhd",
-              "description": null,
+              "description": "fabianschuiki/llhd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1465,7 +1465,7 @@
             {
               "node_type": "item",
               "title": "ghdl-yosys-plugin",
-              "description": null,
+              "description": "ghdl/ghdl-yosys-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1486,7 +1486,7 @@
             {
               "node_type": "item",
               "title": "panda-bambu",
-              "description": null,
+              "description": "ferrandi/PandA-bambu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1513,7 +1513,7 @@
             {
               "node_type": "item",
               "title": "hdlconvertor",
-              "description": null,
+              "description": "Nic30/hdlConvertor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1545,7 +1545,7 @@
             {
               "node_type": "item",
               "title": "veriloggen",
-              "description": null,
+              "description": "PyHDI/veriloggen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1574,7 +1574,7 @@
             {
               "node_type": "item",
               "title": "hastlayer",
-              "description": null,
+              "description": "Lombiq/Hastlayer-SDK",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1601,7 +1601,7 @@
             {
               "node_type": "item",
               "title": "systemc-compiler",
-              "description": null,
+              "description": "intel/systemc-compiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1629,7 +1629,7 @@
             {
               "node_type": "item",
               "title": "mockturtle",
-              "description": null,
+              "description": "lsils/mockturtle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1650,7 +1650,7 @@
             {
               "node_type": "item",
               "title": "pyrtl",
-              "description": null,
+              "description": "UCSBarchlab/PyRTL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1676,7 +1676,7 @@
             {
               "node_type": "item",
               "title": "matchlib",
-              "description": null,
+              "description": "NVlabs/matchlib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1697,7 +1697,7 @@
             {
               "node_type": "item",
               "title": "uhdm",
-              "description": null,
+              "description": "chipsalliance/UHDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1706,8 +1706,8 @@
                 "id": 227755581,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T01:09:31Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-02T22:41:02Z",
+                "open_issues": 14,
                 "owner": "chipsalliance",
                 "repo": "UHDM",
                 "stars": 269,
@@ -1725,7 +1725,7 @@
             {
               "node_type": "item",
               "title": "magma",
-              "description": null,
+              "description": "phanrahan/magma",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1746,7 +1746,7 @@
             {
               "node_type": "item",
               "title": "livehd",
-              "description": null,
+              "description": "masc-ucsc/livehd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1755,7 +1755,7 @@
                 "id": 130754579,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T16:25:30Z",
+                "last_commit": "2026-10-03T04:53:38Z",
                 "open_issues": 3,
                 "owner": "masc-ucsc",
                 "repo": "livehd",
@@ -1775,7 +1775,7 @@
             {
               "node_type": "item",
               "title": "synlig",
-              "description": null,
+              "description": "chipsalliance/synlig",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1796,7 +1796,7 @@
             {
               "node_type": "item",
               "title": "lstools",
-              "description": null,
+              "description": "lsils/lstools-showcase",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1820,7 +1820,7 @@
             {
               "node_type": "item",
               "title": "fault",
-              "description": null,
+              "description": "AUCOHL/Fault",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1853,7 +1853,7 @@
             {
               "node_type": "item",
               "title": "tce",
-              "description": null,
+              "description": "cpc/openasip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1879,7 +1879,7 @@
             {
               "node_type": "item",
               "title": "kami",
-              "description": null,
+              "description": "mit-plv/kami",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1906,7 +1906,7 @@
             {
               "node_type": "item",
               "title": "naja",
-              "description": null,
+              "description": "najaeda/naja",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1935,7 +1935,7 @@
             {
               "node_type": "item",
               "title": "pygears",
-              "description": null,
+              "description": "bogdanvuk/pygears",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1965,7 +1965,7 @@
             {
               "node_type": "item",
               "title": "ipyxact",
-              "description": null,
+              "description": "olofk/ipyxact",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1988,7 +1988,7 @@
             {
               "node_type": "item",
               "title": "circuitgraph",
-              "description": null,
+              "description": "circuitgraph/circuitgraph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2016,7 +2016,7 @@
             {
               "node_type": "item",
               "title": "act",
-              "description": null,
+              "description": "asyncvlsi/act",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2055,7 +2055,7 @@
             {
               "node_type": "item",
               "title": "tapasco",
-              "description": null,
+              "description": "esa-tu-darmstadt/tapasco",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2081,7 +2081,7 @@
             {
               "node_type": "item",
               "title": "spydrnet",
-              "description": null,
+              "description": "byuccl/spydrnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2122,7 +2122,7 @@
             {
               "node_type": "item",
               "title": "lsoracle",
-              "description": null,
+              "description": "lnis-uofu/LSOracle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2145,7 +2145,7 @@
             {
               "node_type": "item",
               "title": "coreir",
-              "description": null,
+              "description": "rdaly525/coreir",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2173,7 +2173,7 @@
             {
               "node_type": "item",
               "title": "circuitops",
-              "description": null,
+              "description": "NVlabs/CircuitOps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2194,7 +2194,7 @@
             {
               "node_type": "item",
               "title": "dfiant",
-              "description": null,
+              "description": "DFiantHDL/DFHDL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2221,7 +2221,7 @@
             {
               "node_type": "item",
               "title": "hdl21",
-              "description": null,
+              "description": "dan-fritchman/Hdl21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2242,7 +2242,7 @@
             {
               "node_type": "item",
               "title": "hs-to-coq",
-              "description": null,
+              "description": "plclub/hs-to-rocq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2266,7 +2266,7 @@
             {
               "node_type": "item",
               "title": "sodaopt",
-              "description": null,
+              "description": "pnnl/soda-opt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2287,7 +2287,7 @@
             {
               "node_type": "item",
               "title": "gamora",
-              "description": null,
+              "description": "Yu-Maryland/Gamora",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2308,7 +2308,7 @@
             {
               "node_type": "item",
               "title": "pysysc",
-              "description": null,
+              "description": "accellera-official/PySysC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2329,7 +2329,7 @@
             {
               "node_type": "item",
               "title": "verik",
-              "description": null,
+              "description": "frwang96/verik",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2350,7 +2350,7 @@
             {
               "node_type": "item",
               "title": "gamma",
-              "description": null,
+              "description": "maestro-project/gamma",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2371,7 +2371,7 @@
             {
               "node_type": "item",
               "title": "matchclib_connections",
-              "description": null,
+              "description": "hlslibs/matchlib_connections",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2392,7 +2392,7 @@
             {
               "node_type": "item",
               "title": "vlsir",
-              "description": null,
+              "description": "Vlsir/Vlsir",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2413,7 +2413,7 @@
             {
               "node_type": "item",
               "title": "bigspicy",
-              "description": null,
+              "description": "google/bigspicy",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2434,7 +2434,7 @@
             {
               "node_type": "item",
               "title": "netlist-paths",
-              "description": null,
+              "description": "jameshanlon/netlist-paths",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2459,7 +2459,7 @@
             {
               "node_type": "item",
               "title": "halide-to-hardware",
-              "description": null,
+              "description": "StanfordAHA/Halide-to-Hardware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2487,7 +2487,7 @@
             {
               "node_type": "item",
               "title": "nextpnr",
-              "description": null,
+              "description": "YosysHQ/nextpnr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2497,7 +2497,7 @@
                 "language": "C++",
                 "license": "ISC",
                 "last_commit": "2026-10-02T07:11:29Z",
-                "open_issues": 137,
+                "open_issues": 139,
                 "owner": "YosysHQ",
                 "repo": "nextpnr",
                 "stars": 1763,
@@ -2508,7 +2508,7 @@
             {
               "node_type": "item",
               "title": "vtr",
-              "description": null,
+              "description": "verilog-to-routing/vtr-verilog-to-routing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2517,7 +2517,7 @@
                 "id": 38118370,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T16:01:20Z",
+                "last_commit": "2026-10-02T23:10:36Z",
                 "open_issues": 131,
                 "owner": "verilog-to-routing",
                 "repo": "vtr-verilog-to-routing",
@@ -2539,7 +2539,7 @@
             {
               "node_type": "item",
               "title": "flowtune",
-              "description": null,
+              "description": "Yu-Maryland/FlowTune",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2560,7 +2560,7 @@
             {
               "node_type": "item",
               "title": "amf-placer",
-              "description": null,
+              "description": "zslwyuan/AMF-Placer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2589,7 +2589,7 @@
             {
               "node_type": "item",
               "title": "dreamplacefpga",
-              "description": null,
+              "description": "rachelselinar/DREAMPlaceFPGA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2617,7 +2617,7 @@
             {
               "node_type": "item",
               "title": "openroad",
-              "description": null,
+              "description": "The-OpenROAD-Project/OpenROAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2626,11 +2626,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T16:03:11Z",
-                "open_issues": 198,
+                "last_commit": "2026-10-03T03:25:16Z",
+                "open_issues": 193,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3147,
+                "stars": 3148,
                 "topics": [
                   "cpp",
                   "def",
@@ -2650,7 +2650,7 @@
             {
               "node_type": "item",
               "title": "klayout",
-              "description": null,
+              "description": "KLayout/klayout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2659,11 +2659,11 @@
                 "id": 81722454,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T05:57:41Z",
+                "last_commit": "2026-10-02T21:53:10Z",
                 "open_issues": 241,
                 "owner": "KLayout",
                 "repo": "klayout",
-                "stars": 1216,
+                "stars": 1217,
                 "topics": [
                   "eda",
                   "gds2",
@@ -2676,7 +2676,7 @@
             {
               "node_type": "item",
               "title": "dreamplace",
-              "description": null,
+              "description": "limbo018/DREAMPlace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2704,7 +2704,7 @@
             {
               "node_type": "item",
               "title": "gdsfactory",
-              "description": null,
+              "description": "gdsfactory/gdsfactory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2738,7 +2738,7 @@
             {
               "node_type": "item",
               "title": "magic",
-              "description": null,
+              "description": "RTimothyEdwards/magic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2748,7 +2748,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T07:00:03Z",
-                "open_issues": 195,
+                "open_issues": 196,
                 "owner": "RTimothyEdwards",
                 "repo": "magic",
                 "stars": 715,
@@ -2759,7 +2759,7 @@
             {
               "node_type": "item",
               "title": "ieda",
-              "description": null,
+              "description": "OSCC-Project/iEDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2784,7 +2784,7 @@
             {
               "node_type": "item",
               "title": "gdstk",
-              "description": null,
+              "description": "heitzmann/gdstk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2815,7 +2815,7 @@
             {
               "node_type": "item",
               "title": "align",
-              "description": null,
+              "description": "ALIGN-analoglayout/ALIGN-public",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2836,7 +2836,7 @@
             {
               "node_type": "item",
               "title": "gdspy",
-              "description": null,
+              "description": "heitzmann/gdspy",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2862,7 +2862,7 @@
             {
               "node_type": "item",
               "title": "magical",
-              "description": null,
+              "description": "magical-eda/MAGICAL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2883,7 +2883,7 @@
             {
               "node_type": "item",
               "title": "gds3d",
-              "description": null,
+              "description": "trilomix/GDS3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2912,7 +2912,7 @@
             {
               "node_type": "item",
               "title": "phidl",
-              "description": null,
+              "description": "amccaugh/phidl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2941,7 +2941,7 @@
             {
               "node_type": "item",
               "title": "bag",
-              "description": null,
+              "description": "ucb-art/BAG_framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2962,7 +2962,7 @@
             {
               "node_type": "item",
               "title": "autodmp",
-              "description": null,
+              "description": "NVlabs/AutoDMP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2983,7 +2983,7 @@
             {
               "node_type": "item",
               "title": "layout21",
-              "description": null,
+              "description": "dan-fritchman/Layout21",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3004,7 +3004,7 @@
             {
               "node_type": "item",
               "title": "gdsiistl",
-              "description": null,
+              "description": "dteal/gdsiistl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3027,7 +3027,7 @@
             {
               "node_type": "item",
               "title": "kweb",
-              "description": null,
+              "description": "gdsfactory/kweb",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3061,7 +3061,7 @@
             {
               "node_type": "item",
               "title": "verilog-eval",
-              "description": null,
+              "description": "NVlabs/verilog-eval",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3082,7 +3082,7 @@
             {
               "node_type": "item",
               "title": "sv-tests",
-              "description": null,
+              "description": "chipsalliance/sv-tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3091,7 +3091,7 @@
                 "id": 201299456,
                 "language": "SystemVerilog",
                 "license": "ISC",
-                "last_commit": "2026-10-01T22:08:36Z",
+                "last_commit": "2026-10-02T22:09:23Z",
                 "open_issues": 86,
                 "owner": "chipsalliance",
                 "repo": "sv-tests",
@@ -3110,7 +3110,7 @@
             {
               "node_type": "item",
               "title": "epfl-benchmarks",
-              "description": null,
+              "description": "lsils/benchmarks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3131,7 +3131,7 @@
             {
               "node_type": "item",
               "title": "bringup-bench",
-              "description": null,
+              "description": "toddmaustin/bringup-bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3152,7 +3152,7 @@
             {
               "node_type": "item",
               "title": "corescore",
-              "description": null,
+              "description": "olofk/corescore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3173,7 +3173,7 @@
             {
               "node_type": "item",
               "title": "fpga-tool-perf",
-              "description": null,
+              "description": "chipsalliance/fpga-tool-perf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3206,7 +3206,7 @@
             {
               "node_type": "item",
               "title": "opdb",
-              "description": null,
+              "description": "PrincetonUniversity/OPDB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3227,7 +3227,7 @@
             {
               "node_type": "item",
               "title": "rdf-2020",
-              "description": null,
+              "description": "ieee-ceda-datc/RDF-2020",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3248,7 +3248,7 @@
             {
               "node_type": "item",
               "title": "bsg_pipeclean_suite",
-              "description": null,
+              "description": "bespoke-silicon-group/bsg_pipeclean_suite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3269,7 +3269,7 @@
             {
               "node_type": "item",
               "title": "big-doe-openroad",
-              "description": null,
+              "description": "msaligane/Big-DoE-OpenROAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3297,7 +3297,7 @@
             {
               "node_type": "item",
               "title": "freecad",
-              "description": null,
+              "description": "FreeCAD/FreeCAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3306,11 +3306,11 @@
                 "id": 5736080,
                 "language": "C++",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-02T18:26:52Z",
-                "open_issues": 3935,
+                "last_commit": "2026-10-03T03:55:18Z",
+                "open_issues": 3942,
                 "owner": "FreeCAD",
                 "repo": "FreeCAD",
-                "stars": 33897,
+                "stars": 33903,
                 "topics": [
                   "3d",
                   "3d-printing",
@@ -3335,7 +3335,7 @@
             {
               "node_type": "item",
               "title": "librepcb",
-              "description": null,
+              "description": "LibrePCB/LibrePCB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3345,7 +3345,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-29T07:56:33Z",
-                "open_issues": 227,
+                "open_issues": 230,
                 "owner": "LibrePCB",
                 "repo": "LibrePCB",
                 "stars": 3005,
@@ -3368,7 +3368,7 @@
             {
               "node_type": "item",
               "title": "kicad",
-              "description": null,
+              "description": "KiCad/kicad-source-mirror",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3377,7 +3377,7 @@
                 "id": 14849992,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T16:17:55Z",
+                "last_commit": "2026-10-03T02:49:44Z",
                 "open_issues": 0,
                 "owner": "KiCad",
                 "repo": "kicad-source-mirror",
@@ -3401,7 +3401,7 @@
             {
               "node_type": "item",
               "title": "freerouting",
-              "description": null,
+              "description": "freerouting/freerouting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3414,7 +3414,7 @@
                 "open_issues": 25,
                 "owner": "freerouting",
                 "repo": "freerouting",
-                "stars": 2054,
+                "stars": 2056,
                 "topics": [
                   "auto-route",
                   "auto-router",
@@ -3437,7 +3437,7 @@
             {
               "node_type": "item",
               "title": "kikit",
-              "description": null,
+              "description": "yaqwsx/KiKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3463,7 +3463,7 @@
             {
               "node_type": "item",
               "title": "kicanvas",
-              "description": null,
+              "description": "theacodes/kicanvas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3490,7 +3490,7 @@
             {
               "node_type": "item",
               "title": "cuflow",
-              "description": null,
+              "description": "jamesbowman/cuflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3511,7 +3511,7 @@
             {
               "node_type": "item",
               "title": "kicad-skip",
-              "description": null,
+              "description": "psychogenic/kicad-skip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3532,7 +3532,7 @@
             {
               "node_type": "item",
               "title": "pcbflow",
-              "description": null,
+              "description": "michaelgale/pcbflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3563,7 +3563,7 @@
             {
               "node_type": "item",
               "title": "boardview",
-              "description": null,
+              "description": "whitequark/kicad-boardview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3588,7 +3588,7 @@
             {
               "node_type": "item",
               "title": "datasheet-scrubber",
-              "description": null,
+              "description": "idea-fasoc/datasheet-scrubber",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3616,7 +3616,7 @@
             {
               "node_type": "item",
               "title": "digital",
-              "description": null,
+              "description": "hneemann/Digital",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3645,7 +3645,7 @@
             {
               "node_type": "item",
               "title": "vscode-teroshdl",
-              "description": null,
+              "description": "TerosTechnology/vscode-terosHDL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3671,7 +3671,7 @@
             {
               "node_type": "item",
               "title": "vscode-systemverilog",
-              "description": null,
+              "description": "eirikpre/VSCode-SystemVerilog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3692,7 +3692,7 @@
             {
               "node_type": "item",
               "title": "vsrtl",
-              "description": null,
+              "description": "mortbopet/VSRTL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3713,7 +3713,7 @@
             {
               "node_type": "item",
               "title": "DigSim",
-              "description": null,
+              "description": "freand76/digsim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3750,7 +3750,7 @@
             {
               "node_type": "item",
               "title": "sphinx",
-              "description": null,
+              "description": "sphinx-doc/sphinx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3760,7 +3760,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T00:27:06Z",
-                "open_issues": 1467,
+                "open_issues": 1469,
                 "owner": "sphinx-doc",
                 "repo": "sphinx",
                 "stars": 8047,
@@ -3779,7 +3779,7 @@
             {
               "node_type": "item",
               "title": "nn-svg",
-              "description": null,
+              "description": "alexlenail/NN-SVG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3809,7 +3809,7 @@
             {
               "node_type": "item",
               "title": "wireviz",
-              "description": null,
+              "description": "wireviz/WireViz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3836,7 +3836,7 @@
             {
               "node_type": "item",
               "title": "wavedrom",
-              "description": null,
+              "description": "wavedrom/wavedrom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3861,7 +3861,7 @@
             {
               "node_type": "item",
               "title": "kythe",
-              "description": null,
+              "description": "chipsalliance/verible",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3900,7 +3900,7 @@
             {
               "node_type": "item",
               "title": "graphviz",
-              "description": null,
+              "description": "xflr6/graphviz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3921,7 +3921,7 @@
             {
               "node_type": "item",
               "title": "pcbdraw",
-              "description": null,
+              "description": "yaqwsx/PcbDraw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3946,7 +3946,7 @@
             {
               "node_type": "item",
               "title": "netlistsvg",
-              "description": null,
+              "description": "nturley/netlistsvg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3974,7 +3974,7 @@
             {
               "node_type": "item",
               "title": "pinion",
-              "description": null,
+              "description": "yaqwsx/Pinion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3999,7 +3999,7 @@
             {
               "node_type": "item",
               "title": "pinout",
-              "description": null,
+              "description": "j0ono0/pinout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4026,7 +4026,7 @@
             {
               "node_type": "item",
               "title": "elk",
-              "description": null,
+              "description": "eclipse-elk/elk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4051,7 +4051,7 @@
             {
               "node_type": "item",
               "title": "gds3d",
-              "description": null,
+              "description": "trilomix/GDS3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4080,7 +4080,7 @@
             {
               "node_type": "item",
               "title": "symbolator",
-              "description": null,
+              "description": "kevinpt/symbolator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4106,7 +4106,7 @@
             {
               "node_type": "item",
               "title": "wavedrompy",
-              "description": null,
+              "description": "wallento/wavedrompy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4127,7 +4127,7 @@
             {
               "node_type": "item",
               "title": "netlist-viewer",
-              "description": null,
+              "description": "f18m/netlist-viewer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4155,7 +4155,7 @@
             {
               "node_type": "item",
               "title": "hdelk",
-              "description": null,
+              "description": "davidthings/hdelk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4187,7 +4187,7 @@
             {
               "node_type": "item",
               "title": "sphinxcontrib-hdl-diagrams",
-              "description": null,
+              "description": "SymbiFlow/sphinxcontrib-hdl-diagrams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4220,7 +4220,7 @@
             {
               "node_type": "item",
               "title": "memory-layout-diagram",
-              "description": null,
+              "description": "gerph/memory-layout-diagram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4245,7 +4245,7 @@
             {
               "node_type": "item",
               "title": "undulate",
-              "description": null,
+              "description": "LudwigCRON/undulate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4276,7 +4276,7 @@
             {
               "node_type": "item",
               "title": "sphinx-verilog-domain",
-              "description": null,
+              "description": "SymbiFlow/sphinx-verilog-domain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4313,7 +4313,7 @@
             {
               "node_type": "item",
               "title": "icestudio",
-              "description": null,
+              "description": "FPGAwars/icestudio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4344,7 +4344,7 @@
             {
               "node_type": "item",
               "title": "openfpgaloader",
-              "description": null,
+              "description": "trabucayre/openFPGALoader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4375,7 +4375,7 @@
             {
               "node_type": "item",
               "title": "f4fpga",
-              "description": null,
+              "description": "chipsalliance/f4pga",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4400,7 +4400,7 @@
             {
               "node_type": "item",
               "title": "f4pga/f4pga-arch-defs",
-              "description": null,
+              "description": "f4pga/f4pga-arch-defs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4442,7 +4442,7 @@
             {
               "node_type": "item",
               "title": "pyfpga",
-              "description": null,
+              "description": "PyFPGA/pyfpga",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4478,7 +4478,7 @@
             {
               "node_type": "item",
               "title": "foedag",
-              "description": null,
+              "description": "os-fpga/FOEDAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4502,7 +4502,7 @@
             {
               "node_type": "item",
               "title": "logik",
-              "description": null,
+              "description": "siliconcompiler/logik",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4523,7 +4523,7 @@
             {
               "node_type": "item",
               "title": "byteman",
-              "description": null,
+              "description": "FPGA-Research/byteman",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4544,7 +4544,7 @@
             {
               "node_type": "item",
               "title": "rphax",
-              "description": null,
+              "description": "shariethernet/RPHAX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4572,7 +4572,7 @@
             {
               "node_type": "item",
               "title": "z3",
-              "description": null,
+              "description": "Z3Prover/z3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4581,11 +4581,11 @@
                 "id": 32944298,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T18:41:22Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-03T03:52:05Z",
+                "open_issues": 51,
                 "owner": "Z3Prover",
                 "repo": "z3",
-                "stars": 12742,
+                "stars": 12744,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:35.323Z"
@@ -4593,7 +4593,7 @@
             {
               "node_type": "item",
               "title": "cvc5",
-              "description": null,
+              "description": "cvc5/cvc5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4603,7 +4603,7 @@
                 "language": "SMT",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T14:32:36Z",
-                "open_issues": 186,
+                "open_issues": 189,
                 "owner": "cvc5",
                 "repo": "cvc5",
                 "stars": 1367,
@@ -4614,7 +4614,7 @@
             {
               "node_type": "item",
               "title": "sby",
-              "description": null,
+              "description": "YosysHQ/sby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4635,7 +4635,7 @@
             {
               "node_type": "item",
               "title": "boolector",
-              "description": null,
+              "description": "Boolector/boolector",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4656,7 +4656,7 @@
             {
               "node_type": "item",
               "title": "pono",
-              "description": null,
+              "description": "stanford-centaur/pono",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4677,7 +4677,7 @@
             {
               "node_type": "item",
               "title": "autosva",
-              "description": null,
+              "description": "PrincetonUniversity/AutoSVA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4706,7 +4706,7 @@
             {
               "node_type": "item",
               "title": "ilang",
-              "description": null,
+              "description": "PrincetonUniversity/ILAng",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4736,7 +4736,7 @@
             {
               "node_type": "item",
               "title": "autocc",
-              "description": null,
+              "description": "morenes/AutoCC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4770,7 +4770,7 @@
             {
               "node_type": "item",
               "title": "verilator",
-              "description": null,
+              "description": "verilator/verilator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4779,11 +4779,11 @@
                 "id": 191842184,
                 "language": "SystemVerilog",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T18:05:22Z",
-                "open_issues": 326,
+                "last_commit": "2026-10-02T19:19:11Z",
+                "open_issues": 332,
                 "owner": "verilator",
                 "repo": "verilator",
-                "stars": 3979,
+                "stars": 3980,
                 "topics": [
                   "compilers",
                   "cpp",
@@ -4800,7 +4800,7 @@
             {
               "node_type": "item",
               "title": "verible",
-              "description": null,
+              "description": "chipsalliance/verible",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4839,7 +4839,7 @@
             {
               "node_type": "item",
               "title": "svlint",
-              "description": null,
+              "description": "dalance/svlint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4866,7 +4866,7 @@
             {
               "node_type": "item",
               "title": "svlint-action",
-              "description": null,
+              "description": "dalance/svlint-action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4897,7 +4897,7 @@
             {
               "node_type": "item",
               "title": "rggen",
-              "description": null,
+              "description": "rggen/rggen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4939,7 +4939,7 @@
             {
               "node_type": "item",
               "title": "systemrdl",
-              "description": null,
+              "description": "SystemRDL/systemrdl-compiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4972,7 +4972,7 @@
             {
               "node_type": "item",
               "title": "peakrdl",
-              "description": null,
+              "description": "SystemRDL/PeakRDL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5010,7 +5010,7 @@
             {
               "node_type": "item",
               "title": "open-register-design-tool",
-              "description": null,
+              "description": "Juniper/open-register-design-tool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5042,7 +5042,7 @@
             {
               "node_type": "item",
               "title": "hdl-registers",
-              "description": null,
+              "description": "hdl-registers/hdl-registers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5079,7 +5079,7 @@
             {
               "node_type": "item",
               "title": "gen_registers",
-              "description": null,
+              "description": "lsteveol/gen_registers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5107,7 +5107,7 @@
             {
               "node_type": "item",
               "title": "qucs_s",
-              "description": null,
+              "description": "ra3xdh/qucs_s",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5120,7 +5120,7 @@
                 "open_issues": 33,
                 "owner": "ra3xdh",
                 "repo": "qucs_s",
-                "stars": 1396,
+                "stars": 1397,
                 "topics": [
                   "circuit",
                   "electronics",
@@ -5138,7 +5138,7 @@
             {
               "node_type": "item",
               "title": "openplc_editor",
-              "description": null,
+              "description": "thiagoralves/OpenPLC_Editor",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5159,7 +5159,7 @@
             {
               "node_type": "item",
               "title": "xschem",
-              "description": null,
+              "description": "StefanSchippers/xschem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5180,7 +5180,7 @@
             {
               "node_type": "item",
               "title": "kaktus2dev",
-              "description": null,
+              "description": "kactus2/kactus2dev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5211,7 +5211,7 @@
             {
               "node_type": "item",
               "title": "oregano",
-              "description": null,
+              "description": "drahnr/oregano",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5240,7 +5240,7 @@
             {
               "node_type": "item",
               "title": "d3-hwschematics",
-              "description": null,
+              "description": "Nic30/d3-hwschematic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5264,7 +5264,7 @@
             {
               "node_type": "item",
               "title": "hdl21schematics",
-              "description": null,
+              "description": "Vlsir/Hdl21Schematics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5292,7 +5292,7 @@
             {
               "node_type": "item",
               "title": "qemu",
-              "description": null,
+              "description": "qemu/qemu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5305,7 +5305,7 @@
                 "open_issues": 0,
                 "owner": "qemu",
                 "repo": "qemu",
-                "stars": 13812,
+                "stars": 13811,
                 "topics": [
                   "emulation",
                   "qemu",
@@ -5317,7 +5317,7 @@
             {
               "node_type": "item",
               "title": "logisim-evolution",
-              "description": null,
+              "description": "logisim-evolution/logisim-evolution",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5327,10 +5327,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-02T08:41:56Z",
-                "open_issues": 109,
+                "open_issues": 119,
                 "owner": "logisim-evolution",
                 "repo": "logisim-evolution",
-                "stars": 7691,
+                "stars": 7693,
                 "topics": [
                   "circuit",
                   "circuits",
@@ -5354,7 +5354,7 @@
             {
               "node_type": "item",
               "title": "verilator",
-              "description": null,
+              "description": "verilator/verilator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5363,11 +5363,11 @@
                 "id": 191842184,
                 "language": "SystemVerilog",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T18:05:22Z",
-                "open_issues": 326,
+                "last_commit": "2026-10-02T19:19:11Z",
+                "open_issues": 332,
                 "owner": "verilator",
                 "repo": "verilator",
-                "stars": 3979,
+                "stars": 3980,
                 "topics": [
                   "compilers",
                   "cpp",
@@ -5384,7 +5384,7 @@
             {
               "node_type": "item",
               "title": "icarus",
-              "description": null,
+              "description": "steveicarus/iverilog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5393,11 +5393,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-28T00:15:21Z",
-                "open_issues": 188,
+                "last_commit": "2026-10-03T03:08:27Z",
+                "open_issues": 187,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3665,
+                "stars": 3666,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:35.323Z"
@@ -5405,7 +5405,7 @@
             {
               "node_type": "item",
               "title": "renode",
-              "description": null,
+              "description": "renode/renode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5415,10 +5415,10 @@
                 "language": "RobotFramework",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T15:23:08Z",
-                "open_issues": 466,
+                "open_issues": 467,
                 "owner": "renode",
                 "repo": "renode",
-                "stars": 2969,
+                "stars": 2970,
                 "topics": [
                   "arm",
                   "embedded-systems",
@@ -5434,7 +5434,7 @@
             {
               "node_type": "item",
               "title": "ghdl",
-              "description": null,
+              "description": "ghdl/ghdl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5443,11 +5443,11 @@
                 "id": 46439446,
                 "language": "VHDL",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-20T17:22:57Z",
-                "open_issues": 341,
+                "last_commit": "2026-10-02T20:06:25Z",
+                "open_issues": 340,
                 "owner": "ghdl",
                 "repo": "ghdl",
-                "stars": 2899,
+                "stars": 2898,
                 "topics": [
                   "compiler",
                   "gcc",
@@ -5465,7 +5465,7 @@
             {
               "node_type": "item",
               "title": "gem5",
-              "description": null,
+              "description": "gem5/gem5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5474,8 +5474,8 @@
                 "id": 27425638,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-01T23:01:00Z",
-                "open_issues": 198,
+                "last_commit": "2026-10-02T22:24:09Z",
+                "open_issues": 199,
                 "owner": "gem5",
                 "repo": "gem5",
                 "stars": 2846,
@@ -5495,7 +5495,7 @@
             {
               "node_type": "item",
               "title": "firesim",
-              "description": null,
+              "description": "firesim/firesim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5527,7 +5527,7 @@
             {
               "node_type": "item",
               "title": "nvc",
-              "description": null,
+              "description": "nickg/nvc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5540,7 +5540,7 @@
                 "open_issues": 112,
                 "owner": "nickg",
                 "repo": "nvc",
-                "stars": 888,
+                "stars": 889,
                 "topics": [
                   "compiler",
                   "fpga",
@@ -5554,7 +5554,7 @@
             {
               "node_type": "item",
               "title": "champsim",
-              "description": null,
+              "description": "ChampSim/ChampSim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5578,7 +5578,7 @@
             {
               "node_type": "item",
               "title": "ramulator2",
-              "description": null,
+              "description": "CMU-SAFARI/ramulator2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5603,7 +5603,7 @@
             {
               "node_type": "item",
               "title": "noxim",
-              "description": null,
+              "description": "davidepatti/noxim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5631,7 +5631,7 @@
             {
               "node_type": "item",
               "title": "simulide",
-              "description": null,
+              "description": "SimulIDE/SimulIDE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5656,7 +5656,7 @@
             {
               "node_type": "item",
               "title": "libsystemctlm-soc",
-              "description": null,
+              "description": "Xilinx/libsystemctlm-soc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5682,7 +5682,7 @@
             {
               "node_type": "item",
               "title": "dromajo",
-              "description": null,
+              "description": "chipsalliance/dromajo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5703,7 +5703,7 @@
             {
               "node_type": "item",
               "title": "SST",
-              "description": null,
+              "description": "sstsimulator/sst-core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5733,7 +5733,7 @@
             {
               "node_type": "item",
               "title": "essent",
-              "description": null,
+              "description": "ucsc-vama/essent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5759,7 +5759,7 @@
             {
               "node_type": "item",
               "title": "eesim",
-              "description": null,
+              "description": "eelab-dev/EEcircuit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5793,7 +5793,7 @@
             {
               "node_type": "item",
               "title": "xictools",
-              "description": null,
+              "description": "wrcad/xictools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5819,7 +5819,7 @@
             {
               "node_type": "item",
               "title": "xyce",
-              "description": null,
+              "description": "Xyce/Xyce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5848,7 +5848,7 @@
             {
               "node_type": "item",
               "title": "systemc-components",
-              "description": null,
+              "description": "Minres/SystemC-Components",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5873,7 +5873,7 @@
             {
               "node_type": "item",
               "title": "sax",
-              "description": null,
+              "description": "gdsfactory/sax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5910,7 +5910,7 @@
             {
               "node_type": "item",
               "title": "SimEng",
-              "description": null,
+              "description": "UoB-HPC/SimEng",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5931,7 +5931,7 @@
             {
               "node_type": "item",
               "title": "muchisim",
-              "description": null,
+              "description": "PrincetonUniversity/muchiSim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5966,7 +5966,7 @@
             {
               "node_type": "item",
               "title": "tiny-five",
-              "description": null,
+              "description": "OpenMachine-ai/tinyfive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6004,7 +6004,7 @@
             {
               "node_type": "item",
               "title": "pysysc",
-              "description": null,
+              "description": "accellera-official/PySysC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6025,7 +6025,7 @@
             {
               "node_type": "item",
               "title": "irsim",
-              "description": null,
+              "description": "RTimothyEdwards/irsim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6046,7 +6046,7 @@
             {
               "node_type": "item",
               "title": "lwtr4sc",
-              "description": null,
+              "description": "Minres/LWTR4SC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6074,7 +6074,7 @@
             {
               "node_type": "item",
               "title": "cocotb",
-              "description": null,
+              "description": "cocotb/cocotb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6102,7 +6102,7 @@
             {
               "node_type": "item",
               "title": "openplc_v3",
-              "description": null,
+              "description": "thiagoralves/OpenPLC_v3",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6123,7 +6123,7 @@
             {
               "node_type": "item",
               "title": "riscv-dv",
-              "description": null,
+              "description": "chipsalliance/riscv-dv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6144,7 +6144,7 @@
             {
               "node_type": "item",
               "title": "pyspice",
-              "description": null,
+              "description": "PySpice-org/PySpice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6174,7 +6174,7 @@
             {
               "node_type": "item",
               "title": "vunit",
-              "description": null,
+              "description": "VUnit/vunit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6205,7 +6205,7 @@
             {
               "node_type": "item",
               "title": "core-v-verif",
-              "description": null,
+              "description": "openhwfoundation/core-v-verif",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6231,7 +6231,7 @@
             {
               "node_type": "item",
               "title": "opentimer",
-              "description": null,
+              "description": "OpenTimer/OpenTimer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6268,7 +6268,7 @@
             {
               "node_type": "item",
               "title": "opensta",
-              "description": null,
+              "description": "The-OpenROAD-Project/OpenSTA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6289,7 +6289,7 @@
             {
               "node_type": "item",
               "title": "pyuvm",
-              "description": null,
+              "description": "pyuvm/pyuvm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6310,7 +6310,7 @@
             {
               "node_type": "item",
               "title": "uvvm",
-              "description": null,
+              "description": "UVVM/UVVM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6331,7 +6331,7 @@
             {
               "node_type": "item",
               "title": "cocotbext-axi",
-              "description": null,
+              "description": "alexforencich/cocotbext-axi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6352,7 +6352,7 @@
             {
               "node_type": "item",
               "title": "switchboard",
-              "description": null,
+              "description": "zeroasiccorp/switchboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6373,7 +6373,7 @@
             {
               "node_type": "item",
               "title": "force-riscv",
-              "description": null,
+              "description": "openhwfoundation/force-riscv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6394,7 +6394,7 @@
             {
               "node_type": "item",
               "title": "maestro",
-              "description": null,
+              "description": "maestro-project/maestro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6419,7 +6419,7 @@
             {
               "node_type": "item",
               "title": "cocotbext-pcie",
-              "description": null,
+              "description": "alexforencich/cocotbext-pcie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6440,7 +6440,7 @@
             {
               "node_type": "item",
               "title": "openvaf",
-              "description": null,
+              "description": "pascalkuthe/OpenVAF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6453,7 +6453,7 @@
                 "open_issues": 69,
                 "owner": "pascalkuthe",
                 "repo": "OpenVAF",
-                "stars": 198,
+                "stars": 199,
                 "topics": [
                   "compiler",
                   "eda",
@@ -6466,7 +6466,7 @@
             {
               "node_type": "item",
               "title": "systemctlm-cosim-demo",
-              "description": null,
+              "description": "Xilinx/systemctlm-cosim-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6492,7 +6492,7 @@
             {
               "node_type": "item",
               "title": "pcievhost",
-              "description": null,
+              "description": "wyvernSemi/pcievhost",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6530,7 +6530,7 @@
             {
               "node_type": "item",
               "title": "pyvsc",
-              "description": null,
+              "description": "fvutils/pyvsc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6561,7 +6561,7 @@
             {
               "node_type": "item",
               "title": "netgen",
-              "description": null,
+              "description": "RTimothyEdwards/netgen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6582,7 +6582,7 @@
             {
               "node_type": "item",
               "title": "ddr5_phy",
-              "description": null,
+              "description": "Shehab-Naga/ddr5_phy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6607,7 +6607,7 @@
             {
               "node_type": "item",
               "title": "osvvm",
-              "description": null,
+              "description": "OSVVM/OsvvmLibraries",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6616,7 +6616,7 @@
                 "id": 281009137,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:58:22Z",
+                "last_commit": "2026-10-03T04:20:20Z",
                 "open_issues": 5,
                 "owner": "OSVVM",
                 "repo": "OsvvmLibraries",
@@ -6632,7 +6632,7 @@
             {
               "node_type": "item",
               "title": "vidbo",
-              "description": null,
+              "description": "olofk/vidbo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6653,7 +6653,7 @@
             {
               "node_type": "item",
               "title": "svreal",
-              "description": null,
+              "description": "sgherbst/svreal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6692,7 +6692,7 @@
             {
               "node_type": "item",
               "title": "msdsl",
-              "description": null,
+              "description": "sgherbst/msdsl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6726,7 +6726,7 @@
             {
               "node_type": "item",
               "title": "fault",
-              "description": null,
+              "description": "leonardt/fault",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6747,7 +6747,7 @@
             {
               "node_type": "item",
               "title": "rohd-vf",
-              "description": null,
+              "description": "intel/rohd-vf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6773,7 +6773,7 @@
             {
               "node_type": "item",
               "title": "pyucis",
-              "description": null,
+              "description": "fvutils/pyucis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6799,7 +6799,7 @@
             {
               "node_type": "item",
               "title": "anasysmod",
-              "description": null,
+              "description": "sgherbst/anasymod",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6820,7 +6820,7 @@
             {
               "node_type": "item",
               "title": "frame",
-              "description": null,
+              "description": "maestro-project/frame",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6846,7 +6846,7 @@
             {
               "node_type": "item",
               "title": "cvc",
-              "description": null,
+              "description": "d-m-bailey/cvc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6867,7 +6867,7 @@
             {
               "node_type": "item",
               "title": "raft",
-              "description": null,
+              "description": "Xilinx/RAFT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6888,7 +6888,7 @@
             {
               "node_type": "item",
               "title": "rohd-cosim",
-              "description": null,
+              "description": "intel/rohd-cosim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6924,7 +6924,7 @@
             {
               "node_type": "item",
               "title": "fstdumper",
-              "description": null,
+              "description": "semify-eda/fstdumper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6951,7 +6951,7 @@
             {
               "node_type": "item",
               "title": "adc-eval",
-              "description": null,
+              "description": "esynr3z/adc-eval",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6972,7 +6972,7 @@
             {
               "node_type": "item",
               "title": "awsteria_infra",
-              "description": null,
+              "description": "bluespec/AWSteria_Infra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6993,7 +6993,7 @@
             {
               "node_type": "item",
               "title": "constrainedrandom",
-              "description": null,
+              "description": "imaginationtech/constrainedrandom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7021,7 +7021,7 @@
             {
               "node_type": "item",
               "title": "sv_waveterm",
-              "description": null,
+              "description": "PeterMonsson/sv_waveterm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7042,7 +7042,7 @@
             {
               "node_type": "item",
               "title": "v2k-top",
-              "description": null,
+              "description": "kev-cam/v2k-top",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7070,7 +7070,7 @@
             {
               "node_type": "item",
               "title": "meep",
-              "description": null,
+              "description": "NanoComp/meep",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7091,7 +7091,7 @@
             {
               "node_type": "item",
               "title": "elmer",
-              "description": null,
+              "description": "ElmerCSC/elmerfem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7128,7 +7128,7 @@
             {
               "node_type": "item",
               "title": "paraview",
-              "description": null,
+              "description": "Kitware/ParaView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7137,7 +7137,7 @@
                 "id": 639921,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T15:13:13Z",
+                "last_commit": "2026-10-03T04:03:14Z",
                 "open_issues": 8,
                 "owner": "Kitware",
                 "repo": "ParaView",
@@ -7149,7 +7149,7 @@
             {
               "node_type": "item",
               "title": "scikit-rf",
-              "description": null,
+              "description": "scikit-rf/scikit-rf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7176,7 +7176,7 @@
             {
               "node_type": "item",
               "title": "femwell",
-              "description": null,
+              "description": "HelgeGehring/femwell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7204,7 +7204,7 @@
             {
               "node_type": "item",
               "title": "hotspot",
-              "description": null,
+              "description": "uvahotspot/HotSpot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7225,7 +7225,7 @@
             {
               "node_type": "item",
               "title": "pact",
-              "description": null,
+              "description": "peaclab/PACT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7259,7 +7259,7 @@
             {
               "node_type": "item",
               "title": "gtkwave",
-              "description": null,
+              "description": "gtkwave/gtkwave",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7286,7 +7286,7 @@
             {
               "node_type": "item",
               "title": "konata",
-              "description": null,
+              "description": "shioyadan/Konata",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7307,7 +7307,7 @@
             {
               "node_type": "item",
               "title": "scopy",
-              "description": null,
+              "description": "analogdevicesinc/scopy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7334,7 +7334,7 @@
             {
               "node_type": "item",
               "title": "iio-oscilloscope",
-              "description": null,
+              "description": "analogdevicesinc/iio-oscilloscope",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7363,7 +7363,7 @@
             {
               "node_type": "item",
               "title": "npTDMS",
-              "description": null,
+              "description": "adamreeve/npTDMS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7392,7 +7392,7 @@
             {
               "node_type": "item",
               "title": "verilog-vcd-parser",
-              "description": null,
+              "description": "ben-marshall/verilog-vcd-parser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7421,7 +7421,7 @@
             {
               "node_type": "item",
               "title": "simview",
-              "description": null,
+              "description": "pieter3d/simview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7442,7 +7442,7 @@
             {
               "node_type": "item",
               "title": "waveforms-live",
-              "description": null,
+              "description": "Digilent/waveforms-live",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7463,7 +7463,7 @@
             {
               "node_type": "item",
               "title": "wavebin",
-              "description": null,
+              "description": "sam210723/wavebin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7498,7 +7498,7 @@
             {
               "node_type": "item",
               "title": "sootty",
-              "description": null,
+              "description": "Ben1152000/sootty",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7519,7 +7519,7 @@
             {
               "node_type": "item",
               "title": "d3wave",
-              "description": null,
+              "description": "Nic30/d3-wave",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7540,7 +7540,7 @@
             {
               "node_type": "item",
               "title": "spyci",
-              "description": null,
+              "description": "gmagno/spyci",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7568,7 +7568,7 @@
             {
               "node_type": "item",
               "title": "scviewer",
-              "description": null,
+              "description": "Minres/SCViewer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7602,7 +7602,7 @@
             {
               "node_type": "item",
               "title": "vortex",
-              "description": null,
+              "description": "vortexgpgpu/vortex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7623,7 +7623,7 @@
             {
               "node_type": "item",
               "title": "nyuziprocessor",
-              "description": null,
+              "description": "jbush001/NyuziProcessor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7653,7 +7653,7 @@
             {
               "node_type": "item",
               "title": "nvdla",
-              "description": null,
+              "description": "nvdla/hw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7674,7 +7674,7 @@
             {
               "node_type": "item",
               "title": "gemmini",
-              "description": null,
+              "description": "ucb-bar/gemmini",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7699,7 +7699,7 @@
             {
               "node_type": "item",
               "title": "verigpu",
-              "description": null,
+              "description": "hughperkins/VeriGPU",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7730,7 +7730,7 @@
             {
               "node_type": "item",
               "title": "finn",
-              "description": null,
+              "description": "Xilinx/finn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7740,7 +7740,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T09:33:15Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "Xilinx",
                 "repo": "finn",
                 "stars": 1077,
@@ -7757,7 +7757,7 @@
             {
               "node_type": "item",
               "title": "fpu",
-              "description": null,
+              "description": "dawsonjon/fpu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7778,7 +7778,7 @@
             {
               "node_type": "item",
               "title": "pyfda",
-              "description": null,
+              "description": "chipmuenk/pyfda",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7799,7 +7799,7 @@
             {
               "node_type": "item",
               "title": "gplgpu",
-              "description": null,
+              "description": "asicguy/gplgpu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7820,7 +7820,7 @@
             {
               "node_type": "item",
               "title": "ara",
-              "description": null,
+              "description": "pulp-platform/ara",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7849,7 +7849,7 @@
             {
               "node_type": "item",
               "title": "openofdm",
-              "description": null,
+              "description": "jhshi/openofdm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7874,7 +7874,7 @@
             {
               "node_type": "item",
               "title": "aes",
-              "description": null,
+              "description": "secworks/aes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7901,7 +7901,7 @@
             {
               "node_type": "item",
               "title": "sha256",
-              "description": null,
+              "description": "secworks/sha256",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7922,7 +7922,7 @@
             {
               "node_type": "item",
               "title": "nngen",
-              "description": null,
+              "description": "NNgen/nngen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7954,7 +7954,7 @@
             {
               "node_type": "item",
               "title": "tvm-vta",
-              "description": null,
+              "description": "apache/tvm-vta",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7981,7 +7981,7 @@
             {
               "node_type": "item",
               "title": "project-zipline",
-              "description": null,
+              "description": "opencomputeproject/Project-Zipline",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8004,7 +8004,7 @@
             {
               "node_type": "item",
               "title": "h265-encoder-rtl",
-              "description": null,
+              "description": "openasic-org/xk265",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8031,7 +8031,7 @@
             {
               "node_type": "item",
               "title": "core_jpeg",
-              "description": null,
+              "description": "ultraembedded/core_jpeg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8060,7 +8060,7 @@
             {
               "node_type": "item",
               "title": "spiral",
-              "description": null,
+              "description": "spiral-software/spiral-software",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8081,7 +8081,7 @@
             {
               "node_type": "item",
               "title": "opencgra",
-              "description": null,
+              "description": "pnnl/OpenCGRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8105,7 +8105,7 @@
             {
               "node_type": "item",
               "title": "openspike",
-              "description": null,
+              "description": "sfmth/OpenSpike",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8126,7 +8126,7 @@
             {
               "node_type": "item",
               "title": "verilog-lfsr",
-              "description": null,
+              "description": "alexforencich/verilog-lfsr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8147,7 +8147,7 @@
             {
               "node_type": "item",
               "title": "bismp",
-              "description": null,
+              "description": "EECS-NTNU/bismo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8168,7 +8168,7 @@
             {
               "node_type": "item",
               "title": "logicnets",
-              "description": null,
+              "description": "Xilinx/logicnets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8189,7 +8189,7 @@
             {
               "node_type": "item",
               "title": "garnet",
-              "description": null,
+              "description": "StanfordAHA/garnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8210,7 +8210,7 @@
             {
               "node_type": "item",
               "title": "sextans",
-              "description": null,
+              "description": "linghaosong/Sextans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8231,7 +8231,7 @@
             {
               "node_type": "item",
               "title": "sha3",
-              "description": null,
+              "description": "ucb-bar/sha3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8252,7 +8252,7 @@
             {
               "node_type": "item",
               "title": "verigood-ml",
-              "description": null,
+              "description": "VeriGOOD-ML/public",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8273,7 +8273,7 @@
             {
               "node_type": "item",
               "title": "Viterbi",
-              "description": null,
+              "description": "jfoshea/Viterbi-Decoder-in-Verilog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8300,7 +8300,7 @@
             {
               "node_type": "item",
               "title": "ranc",
-              "description": null,
+              "description": "UA-RCL/RANC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8321,7 +8321,7 @@
             {
               "node_type": "item",
               "title": "sha512",
-              "description": null,
+              "description": "secworks/sha512",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8342,7 +8342,7 @@
             {
               "node_type": "item",
               "title": "bfg",
-              "description": null,
+              "description": "growly/bfg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8363,7 +8363,7 @@
             {
               "node_type": "item",
               "title": "serpens",
-              "description": null,
+              "description": "linghaosong/Serpens",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8384,7 +8384,7 @@
             {
               "node_type": "item",
               "title": "fftgenerator",
-              "description": null,
+              "description": "ucb-bar/FFTGenerator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8405,7 +8405,7 @@
             {
               "node_type": "item",
               "title": "fftgenerator",
-              "description": null,
+              "description": "ucb-bar/FFTGenerator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8426,7 +8426,7 @@
             {
               "node_type": "item",
               "title": "Viterbi",
-              "description": null,
+              "description": "Archit-halder/Viterbi-Algorithm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8454,7 +8454,7 @@
             {
               "node_type": "item",
               "title": "aib",
-              "description": null,
+              "description": "chipsalliance/aib-phy-hardware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8475,7 +8475,7 @@
             {
               "node_type": "item",
               "title": "aib-protocols",
-              "description": null,
+              "description": "chipsalliance/aib-protocols",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8496,7 +8496,7 @@
             {
               "node_type": "item",
               "title": "axi4_aib_bridge",
-              "description": null,
+              "description": "lmco/axi4_aib_bridge",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8524,7 +8524,7 @@
             {
               "node_type": "item",
               "title": "axi",
-              "description": null,
+              "description": "pulp-platform/axi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8537,7 +8537,7 @@
                 "open_issues": 62,
                 "owner": "pulp-platform",
                 "repo": "axi",
-                "stars": 1712,
+                "stars": 1713,
                 "topics": [
                   "asic",
                   "axi",
@@ -8556,7 +8556,7 @@
             {
               "node_type": "item",
               "title": "verilog-axis",
-              "description": null,
+              "description": "alexforencich/verilog-axis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8577,7 +8577,7 @@
             {
               "node_type": "item",
               "title": "wb2axip",
-              "description": null,
+              "description": "ZipCPU/wb2axip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8606,7 +8606,7 @@
             {
               "node_type": "item",
               "title": "tvip-axi",
-              "description": null,
+              "description": "taichi-ishitani/tvip-axi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8635,7 +8635,7 @@
             {
               "node_type": "item",
               "title": "cocotbext-axi",
-              "description": null,
+              "description": "alexforencich/cocotbext-axi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8656,7 +8656,7 @@
             {
               "node_type": "item",
               "title": "axi-crossbar",
-              "description": null,
+              "description": "dpretet/axi-crossbar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8697,7 +8697,7 @@
             {
               "node_type": "item",
               "title": "tvip-apb",
-              "description": null,
+              "description": "taichi-ishitani/tvip-apb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8731,7 +8731,7 @@
             {
               "node_type": "item",
               "title": "openfasoc",
-              "description": null,
+              "description": "idea-fasoc/OpenFASOC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8752,7 +8752,7 @@
             {
               "node_type": "item",
               "title": "ams_kgd",
-              "description": null,
+              "description": "USCPOSH/AMS_KGD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8773,7 +8773,7 @@
             {
               "node_type": "item",
               "title": "open-pmic",
-              "description": null,
+              "description": "westonb/open-pmic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8794,7 +8794,7 @@
             {
               "node_type": "item",
               "title": "analog_blocks",
-              "description": null,
+              "description": "mabrains/Analog_blocks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8822,7 +8822,7 @@
             {
               "node_type": "item",
               "title": "bsg_packaging",
-              "description": null,
+              "description": "bespoke-silicon-group/bsg_packaging",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8850,7 +8850,7 @@
             {
               "node_type": "item",
               "title": "parallella-hw",
-              "description": null,
+              "description": "parallella/parallella-hw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8871,7 +8871,7 @@
             {
               "node_type": "item",
               "title": "google-coral-baseboard",
-              "description": null,
+              "description": "antmicro/google-coral-baseboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8892,7 +8892,7 @@
             {
               "node_type": "item",
               "title": "hardware-components",
-              "description": null,
+              "description": "antmicro/hardware-components",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8913,7 +8913,7 @@
             {
               "node_type": "item",
               "title": "gmm7550",
-              "description": null,
+              "description": "GMM-7550/gmm7550-hardware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8934,7 +8934,7 @@
             {
               "node_type": "item",
               "title": "bsg_motherboards",
-              "description": null,
+              "description": "bespoke-silicon-group/bsg_motherboards",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8962,7 +8962,7 @@
             {
               "node_type": "item",
               "title": "verilog-ethernet",
-              "description": null,
+              "description": "alexforencich/verilog-ethernet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8975,7 +8975,7 @@
                 "open_issues": 142,
                 "owner": "alexforencich",
                 "repo": "verilog-ethernet",
-                "stars": 3111,
+                "stars": 3112,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:35.323Z"
@@ -8983,7 +8983,7 @@
             {
               "node_type": "item",
               "title": "verilog-pcie",
-              "description": null,
+              "description": "alexforencich/verilog-pcie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9004,7 +9004,7 @@
             {
               "node_type": "item",
               "title": "hdmi",
-              "description": null,
+              "description": "hdl-util/hdmi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9017,7 +9017,7 @@
                 "open_issues": 17,
                 "owner": "hdl-util",
                 "repo": "hdmi",
-                "stars": 1299,
+                "stars": 1300,
                 "topics": [
                   "altera",
                   "audio",
@@ -9038,7 +9038,7 @@
             {
               "node_type": "item",
               "title": "usb3_camera",
-              "description": null,
+              "description": "circuitvalley/USB_C_Industrial_Camera_FPGA_USB3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9069,7 +9069,7 @@
             {
               "node_type": "item",
               "title": "litepice",
-              "description": null,
+              "description": "enjoy-digital/litepcie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9090,7 +9090,7 @@
             {
               "node_type": "item",
               "title": "verilog-i2c",
-              "description": null,
+              "description": "alexforencich/verilog-i2c",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9111,7 +9111,7 @@
             {
               "node_type": "item",
               "title": "vivado-library",
-              "description": null,
+              "description": "Digilent/vivado-library",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9132,7 +9132,7 @@
             {
               "node_type": "item",
               "title": "core_ddr3_controller",
-              "description": null,
+              "description": "ultraembedded/core_ddr3_controller",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9145,7 +9145,7 @@
                 "open_issues": 4,
                 "owner": "ultraembedded",
                 "repo": "core_ddr3_controller",
-                "stars": 638,
+                "stars": 639,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:35.323Z"
@@ -9153,7 +9153,7 @@
             {
               "node_type": "item",
               "title": "verilog-uart",
-              "description": null,
+              "description": "alexforencich/verilog-uart",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9174,7 +9174,7 @@
             {
               "node_type": "item",
               "title": "litedram",
-              "description": null,
+              "description": "enjoy-digital/litedram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9187,7 +9187,7 @@
                 "open_issues": 50,
                 "owner": "enjoy-digital",
                 "repo": "litedram",
-                "stars": 558,
+                "stars": 556,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:35.323Z"
@@ -9195,7 +9195,7 @@
             {
               "node_type": "item",
               "title": "liteeth",
-              "description": null,
+              "description": "enjoy-digital/liteeth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9216,7 +9216,7 @@
             {
               "node_type": "item",
               "title": "openserdes",
-              "description": null,
+              "description": "SparcLab/OpenSERDES",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9243,7 +9243,7 @@
             {
               "node_type": "item",
               "title": "idma",
-              "description": null,
+              "description": "pulp-platform/iDMA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9264,7 +9264,7 @@
             {
               "node_type": "item",
               "title": "tnoc",
-              "description": null,
+              "description": "taichi-ishitani/tnoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9294,7 +9294,7 @@
             {
               "node_type": "item",
               "title": "litescope",
-              "description": null,
+              "description": "enjoy-digital/litescope",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9315,7 +9315,7 @@
             {
               "node_type": "item",
               "title": "ravenoc",
-              "description": null,
+              "description": "aignacio/ravenoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9344,7 +9344,7 @@
             {
               "node_type": "item",
               "title": "usb_cdc",
-              "description": null,
+              "description": "ulixxe/usb_cdc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9377,7 +9377,7 @@
             {
               "node_type": "item",
               "title": "umi",
-              "description": null,
+              "description": "zeroasiccorp/umi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9398,7 +9398,7 @@
             {
               "node_type": "item",
               "title": "nocrouter",
-              "description": null,
+              "description": "agalimberti/NoCRouter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9424,7 +9424,7 @@
             {
               "node_type": "item",
               "title": "wav-lpddr-hw",
-              "description": null,
+              "description": "waviousllc/wav-lpddr-hw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9445,7 +9445,7 @@
             {
               "node_type": "item",
               "title": "verilog-wishbone",
-              "description": null,
+              "description": "alexforencich/verilog-wishbone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9466,7 +9466,7 @@
             {
               "node_type": "item",
               "title": "opencapi_accel",
-              "description": null,
+              "description": "OpenCAPI/oc-accel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9487,7 +9487,7 @@
             {
               "node_type": "item",
               "title": "pymtl3-net",
-              "description": null,
+              "description": "cornell-brg/pymtl3-net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9508,7 +9508,7 @@
             {
               "node_type": "item",
               "title": "i2c",
-              "description": null,
+              "description": "hdl-util/i2c",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9529,7 +9529,7 @@
             {
               "node_type": "item",
               "title": "wav-slink-hw",
-              "description": null,
+              "description": "waviousllc/wav-slink-hw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9550,7 +9550,7 @@
             {
               "node_type": "item",
               "title": "usb_dfu",
-              "description": null,
+              "description": "ulixxe/usb_dfu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9584,7 +9584,7 @@
             {
               "node_type": "item",
               "title": "vis4mesh",
-              "description": null,
+              "description": "ueqri/vis4mesh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9612,7 +9612,7 @@
             {
               "node_type": "item",
               "title": "opencapi_client",
-              "description": null,
+              "description": "OpenCAPI/OpenCAPI3.0_Client_RefDesign",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9633,7 +9633,7 @@
             {
               "node_type": "item",
               "title": "wav-wlink-hw",
-              "description": null,
+              "description": "waviousllc/wav-wlink-hw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9654,7 +9654,7 @@
             {
               "node_type": "item",
               "title": "wav-d2d-hw",
-              "description": null,
+              "description": "waviousllc/wav-d2d-hw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9675,7 +9675,7 @@
             {
               "node_type": "item",
               "title": "bsg_ddr3_io",
-              "description": null,
+              "description": "bespoke-silicon-group/bsg_ddr3_io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9696,7 +9696,7 @@
             {
               "node_type": "item",
               "title": "io-gen",
-              "description": null,
+              "description": "GT-CHIPS/IO-Gen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9724,7 +9724,7 @@
             {
               "node_type": "item",
               "title": "openxiangshan",
-              "description": null,
+              "description": "OpenXiangShan/XiangShan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9733,11 +9733,11 @@
                 "id": 271929004,
                 "language": "Scala",
                 "license": "MulanPSL-2.0",
-                "last_commit": "2026-10-02T14:52:12Z",
-                "open_issues": 300,
+                "last_commit": "2026-10-03T01:49:49Z",
+                "open_issues": 304,
                 "owner": "OpenXiangShan",
                 "repo": "XiangShan",
-                "stars": 7288,
+                "stars": 7289,
                 "topics": [
                   "chisel",
                   "microarchitecture",
@@ -9749,7 +9749,7 @@
             {
               "node_type": "item",
               "title": "picorv32",
-              "description": null,
+              "description": "YosysHQ/picorv32",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9770,7 +9770,7 @@
             {
               "node_type": "item",
               "title": "rocket-chip",
-              "description": null,
+              "description": "chipsalliance/rocket-chip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9798,7 +9798,7 @@
             {
               "node_type": "item",
               "title": "cva6",
-              "description": null,
+              "description": "openhwfoundation/cva6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9807,7 +9807,7 @@
                 "id": 118652371,
                 "language": "Assembly",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T06:10:13Z",
+                "last_commit": "2026-10-02T23:06:04Z",
                 "open_issues": 270,
                 "owner": "openhwfoundation",
                 "repo": "cva6",
@@ -9827,7 +9827,7 @@
             {
               "node_type": "item",
               "title": "neorv32",
-              "description": null,
+              "description": "stnolting/neorv32",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9836,8 +9836,8 @@
                 "id": 274442284,
                 "language": "VHDL",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T18:26:00Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-03T04:09:29Z",
+                "open_issues": 12,
                 "owner": "stnolting",
                 "repo": "neorv32",
                 "stars": 2284,
@@ -9859,7 +9859,7 @@
             {
               "node_type": "item",
               "title": "ibex",
-              "description": null,
+              "description": "lowRISC/ibex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9869,7 +9869,7 @@
                 "language": "SystemVerilog",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T09:05:27Z",
-                "open_issues": 269,
+                "open_issues": 270,
                 "owner": "lowRISC",
                 "repo": "ibex",
                 "stars": 2078,
@@ -9887,7 +9887,7 @@
             {
               "node_type": "item",
               "title": "serv",
-              "description": null,
+              "description": "olofk/serv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9913,7 +9913,7 @@
             {
               "node_type": "item",
               "title": "cores-swerv",
-              "description": null,
+              "description": "chipsalliance/Cores-VeeR-EH1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9950,7 +9950,7 @@
             {
               "node_type": "item",
               "title": "black-parrot",
-              "description": null,
+              "description": "black-parrot/black-parrot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9971,7 +9971,7 @@
             {
               "node_type": "item",
               "title": "microwatt",
-              "description": null,
+              "description": "antonblanchard/microwatt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9997,7 +9997,7 @@
             {
               "node_type": "item",
               "title": "core-v-verif",
-              "description": null,
+              "description": "openhwfoundation/core-v-verif",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10023,7 +10023,7 @@
             {
               "node_type": "item",
               "title": "cvw",
-              "description": null,
+              "description": "openhwfoundation/cvw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10033,7 +10033,7 @@
                 "language": "SystemVerilog",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:35:08Z",
-                "open_issues": 39,
+                "open_issues": 41,
                 "owner": "openhwfoundation",
                 "repo": "cvw",
                 "stars": 640,
@@ -10044,7 +10044,7 @@
             {
               "node_type": "item",
               "title": "cfu-playground",
-              "description": null,
+              "description": "google/CFU-Playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10069,7 +10069,7 @@
             {
               "node_type": "item",
               "title": "ara",
-              "description": null,
+              "description": "pulp-platform/ara",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10098,7 +10098,7 @@
             {
               "node_type": "item",
               "title": "vroom",
-              "description": null,
+              "description": "MoonbaseOtago/vroom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10119,7 +10119,7 @@
             {
               "node_type": "item",
               "title": "cores-swerv-el2",
-              "description": null,
+              "description": "chipsalliance/Cores-VeeR-EL2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10128,7 +10128,7 @@
                 "id": 232916517,
                 "language": "SystemVerilog",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:40:39Z",
+                "last_commit": "2026-10-02T20:37:23Z",
                 "open_issues": 56,
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EL2",
@@ -10155,7 +10155,7 @@
             {
               "node_type": "item",
               "title": "veer",
-              "description": null,
+              "description": "chipsalliance/Cores-VeeR-EL2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10164,7 +10164,7 @@
                 "id": 232916517,
                 "language": "SystemVerilog",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:40:39Z",
+                "last_commit": "2026-10-02T20:37:23Z",
                 "open_issues": 56,
                 "owner": "chipsalliance",
                 "repo": "Cores-VeeR-EL2",
@@ -10191,7 +10191,7 @@
             {
               "node_type": "item",
               "title": "cv32e40x",
-              "description": null,
+              "description": "openhwfoundation/cv32e40x",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10212,7 +10212,7 @@
             {
               "node_type": "item",
               "title": "a2i",
-              "description": null,
+              "description": "openpower-cores/a2i",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10233,7 +10233,7 @@
             {
               "node_type": "item",
               "title": "minimax",
-              "description": null,
+              "description": "gsmecher/minimax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10254,7 +10254,7 @@
             {
               "node_type": "item",
               "title": "snitch",
-              "description": null,
+              "description": "pulp-platform/snitch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10275,7 +10275,7 @@
             {
               "node_type": "item",
               "title": "cv32e40s",
-              "description": null,
+              "description": "openhwfoundation/cv32e40s",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10296,7 +10296,7 @@
             {
               "node_type": "item",
               "title": "muntjac",
-              "description": null,
+              "description": "lowRISC/muntjac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10317,7 +10317,7 @@
             {
               "node_type": "item",
               "title": "lizard",
-              "description": null,
+              "description": "cornell-brg/lizard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10338,7 +10338,7 @@
             {
               "node_type": "item",
               "title": "cve2",
-              "description": null,
+              "description": "openhwfoundation/cve2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10359,7 +10359,7 @@
             {
               "node_type": "item",
               "title": "rioschip",
-              "description": null,
+              "description": "b224hisl/rioschip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10387,7 +10387,7 @@
             {
               "node_type": "item",
               "title": "openfpga",
-              "description": null,
+              "description": "lnis-uofu/OpenFPGA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10396,8 +10396,8 @@
                 "id": 137416811,
                 "language": "Verilog",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:34:59Z",
-                "open_issues": 150,
+                "last_commit": "2026-10-02T22:33:50Z",
+                "open_issues": 149,
                 "owner": "lnis-uofu",
                 "repo": "OpenFPGA",
                 "stars": 1159,
@@ -10411,7 +10411,7 @@
             {
               "node_type": "item",
               "title": "fabulous",
-              "description": null,
+              "description": "FPGA-Research/FABulous",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10439,7 +10439,7 @@
             {
               "node_type": "item",
               "title": "prga",
-              "description": null,
+              "description": "PrincetonUniversity/prga",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10460,7 +10460,7 @@
             {
               "node_type": "item",
               "title": "fabric_team",
-              "description": null,
+              "description": "ucb-cs250/fabric_team",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10488,7 +10488,7 @@
             {
               "node_type": "item",
               "title": "basic_verilog",
-              "description": null,
+              "description": "pConst/basic_verilog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10501,7 +10501,7 @@
                 "open_issues": 0,
                 "owner": "pConst",
                 "repo": "basic_verilog",
-                "stars": 2023,
+                "stars": 2024,
                 "topics": [
                   "altera",
                   "debounce",
@@ -10530,7 +10530,7 @@
             {
               "node_type": "item",
               "title": "hdl",
-              "description": null,
+              "description": "analogdevicesinc/hdl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10540,7 +10540,7 @@
                 "language": "Tcl",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T18:42:52Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "analogdevicesinc",
                 "repo": "hdl",
                 "stars": 2022,
@@ -10558,7 +10558,7 @@
             {
               "node_type": "item",
               "title": "oh",
-              "description": null,
+              "description": "aolofsson/oh",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10579,7 +10579,7 @@
             {
               "node_type": "item",
               "title": "Open Logic",
-              "description": null,
+              "description": "open-logic/open-logic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10600,7 +10600,7 @@
             {
               "node_type": "item",
               "title": "common_cells",
-              "description": null,
+              "description": "pulp-platform/common_cells",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10621,7 +10621,7 @@
             {
               "node_type": "item",
               "title": "basejump_stl",
-              "description": null,
+              "description": "bespoke-silicon-group/basejump_stl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10642,7 +10642,7 @@
             {
               "node_type": "item",
               "title": "cvfpu",
-              "description": null,
+              "description": "openhwfoundation/cvfpu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10663,7 +10663,7 @@
             {
               "node_type": "item",
               "title": "async_fifo",
-              "description": null,
+              "description": "dpretet/async_fifo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10701,7 +10701,7 @@
             {
               "node_type": "item",
               "title": "surf",
-              "description": null,
+              "description": "slaclab/surf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10729,7 +10729,7 @@
             {
               "node_type": "item",
               "title": "berkeley-hardfloat",
-              "description": null,
+              "description": "ucb-bar/berkeley-hardfloat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10750,7 +10750,7 @@
             {
               "node_type": "item",
               "title": "lambdapdk",
-              "description": null,
+              "description": "siliconcompiler/lambdapdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10771,7 +10771,7 @@
             {
               "node_type": "item",
               "title": "vlsiffra",
-              "description": null,
+              "description": "antonblanchard/vlsiffra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10801,7 +10801,7 @@
             {
               "node_type": "item",
               "title": "rohd-hcl",
-              "description": null,
+              "description": "intel/rohd-hcl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10830,7 +10830,7 @@
             {
               "node_type": "item",
               "title": "lambdalib",
-              "description": null,
+              "description": "siliconcompiler/lambdalib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10851,7 +10851,7 @@
             {
               "node_type": "item",
               "title": "pzbcm",
-              "description": null,
+              "description": "pezy-computing/pzbcm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10875,7 +10875,7 @@
             {
               "node_type": "item",
               "title": "libsv",
-              "description": null,
+              "description": "bensampson5/libsv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10909,7 +10909,7 @@
             {
               "node_type": "item",
               "title": "mathlib",
-              "description": null,
+              "description": "AsFigo/MathLib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10930,7 +10930,7 @@
             {
               "node_type": "item",
               "title": "pztb-core",
-              "description": null,
+              "description": "pezy-computing/pztb-core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10958,7 +10958,7 @@
             {
               "node_type": "item",
               "title": "openram",
-              "description": null,
+              "description": "VLSIDA/OpenRAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10987,7 +10987,7 @@
             {
               "node_type": "item",
               "title": "cv-hpdcache",
-              "description": null,
+              "description": "openhwfoundation/cv-hpdcache",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11008,7 +11008,7 @@
             {
               "node_type": "item",
               "title": "huancun",
-              "description": null,
+              "description": "OpenXiangShan/HuanCun",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11029,7 +11029,7 @@
             {
               "node_type": "item",
               "title": "core_axi_cache",
-              "description": null,
+              "description": "ultraembedded/core_axi_cache",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11050,7 +11050,7 @@
             {
               "node_type": "item",
               "title": "bsg_fakeram",
-              "description": null,
+              "description": "bespoke-silicon-group/bsg_fakeram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11071,7 +11071,7 @@
             {
               "node_type": "item",
               "title": "lake",
-              "description": null,
+              "description": "StanfordAHA/lake",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11099,7 +11099,7 @@
             {
               "node_type": "item",
               "title": "litex",
-              "description": null,
+              "description": "enjoy-digital/litex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11109,10 +11109,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T06:14:24Z",
-                "open_issues": 120,
+                "open_issues": 119,
                 "owner": "enjoy-digital",
                 "repo": "litex",
-                "stars": 4139,
+                "stars": 4141,
                 "topics": [
                   "fpga",
                   "hardware",
@@ -11124,7 +11124,7 @@
             {
               "node_type": "item",
               "title": "opentitan",
-              "description": null,
+              "description": "lowRISC/opentitan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11133,11 +11133,11 @@
                 "id": 204516692,
                 "language": "SystemVerilog",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T18:44:25Z",
-                "open_issues": 2115,
+                "last_commit": "2026-10-02T22:59:55Z",
+                "open_issues": 2113,
                 "owner": "lowRISC",
                 "repo": "opentitan",
-                "stars": 3672,
+                "stars": 3673,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:35.323Z"
@@ -11145,7 +11145,7 @@
             {
               "node_type": "item",
               "title": "metroboy",
-              "description": null,
+              "description": "aappleby/metroboy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11173,7 +11173,7 @@
             {
               "node_type": "item",
               "title": "openwifi-hw",
-              "description": null,
+              "description": "open-sdr/openwifi-hw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11214,7 +11214,7 @@
             {
               "node_type": "item",
               "title": "openpiton",
-              "description": null,
+              "description": "PrincetonUniversity/openpiton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11241,7 +11241,7 @@
             {
               "node_type": "item",
               "title": "pulp",
-              "description": null,
+              "description": "pulp-platform/pulp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11262,7 +11262,7 @@
             {
               "node_type": "item",
               "title": "verilogboy",
-              "description": null,
+              "description": "zephray/VerilogBoy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11283,7 +11283,7 @@
             {
               "node_type": "item",
               "title": "beagle_sdr_gps",
-              "description": null,
+              "description": "jks-prv/Beagle_SDR_GPS",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -11318,7 +11318,7 @@
             {
               "node_type": "item",
               "title": "pulpissimo",
-              "description": null,
+              "description": "pulp-platform/pulpissimo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11339,7 +11339,7 @@
             {
               "node_type": "item",
               "title": "caliptra",
-              "description": null,
+              "description": "chipsalliance/Caliptra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11360,7 +11360,7 @@
             {
               "node_type": "item",
               "title": "esp",
-              "description": null,
+              "description": "sld-columbia/esp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11369,8 +11369,8 @@
                 "id": 190284572,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:42:28Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-03T01:29:53Z",
+                "open_issues": 28,
                 "owner": "sld-columbia",
                 "repo": "esp",
                 "stars": 427,
@@ -11389,7 +11389,7 @@
             {
               "node_type": "item",
               "title": "falcon",
-              "description": null,
+              "description": "falkenber9/falcon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11416,7 +11416,7 @@
             {
               "node_type": "item",
               "title": "openfasoc",
-              "description": null,
+              "description": "idea-fasoc/OpenFASOC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11437,7 +11437,7 @@
             {
               "node_type": "item",
               "title": "x-heep",
-              "description": null,
+              "description": "x-heep/x-heep",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11460,7 +11460,7 @@
             {
               "node_type": "item",
               "title": "bsg_manycore",
-              "description": null,
+              "description": "bespoke-silicon-group/bsg_manycore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11481,7 +11481,7 @@
             {
               "node_type": "item",
               "title": "caliptra-rtl",
-              "description": null,
+              "description": "chipsalliance/caliptra-rtl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11490,7 +11490,7 @@
                 "id": 601754932,
                 "language": "SystemVerilog",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T18:04:18Z",
+                "last_commit": "2026-10-03T01:03:45Z",
                 "open_issues": 159,
                 "owner": "chipsalliance",
                 "repo": "caliptra-rtl",
@@ -11502,7 +11502,7 @@
             {
               "node_type": "item",
               "title": "wulpus",
-              "description": null,
+              "description": "pulp-bio/wulpus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11523,7 +11523,7 @@
             {
               "node_type": "item",
               "title": "hero",
-              "description": null,
+              "description": "pulp-platform/hero",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -11556,7 +11556,7 @@
             {
               "node_type": "item",
               "title": "rose",
-              "description": null,
+              "description": "ucb-bar/RoSE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11577,7 +11577,7 @@
             {
               "node_type": "item",
               "title": "senseq",
-              "description": null,
+              "description": "EMIL-YORKU/SensSeq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11598,7 +11598,7 @@
             {
               "node_type": "item",
               "title": "cep",
-              "description": null,
+              "description": "CommonEvaluationPlatform/CEP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11626,7 +11626,7 @@
             {
               "node_type": "item",
               "title": "icebreaker",
-              "description": null,
+              "description": "icebreaker-fpga/icebreaker",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -11647,7 +11647,7 @@
             {
               "node_type": "item",
               "title": "PicoEVB",
-              "description": null,
+              "description": "RHSResearchLLC/PicoEVB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11668,7 +11668,7 @@
             {
               "node_type": "item",
               "title": "fomu",
-              "description": null,
+              "description": "im-tomu/fomu-hardware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11689,7 +11689,7 @@
             {
               "node_type": "item",
               "title": "scalenode-cm4-baseboard",
-              "description": null,
+              "description": "antmicro/scalenode-cm4-baseboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11710,7 +11710,7 @@
             {
               "node_type": "item",
               "title": "artix-dc-scm",
-              "description": null,
+              "description": "antmicro/artix-dc-scm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11731,7 +11731,7 @@
             {
               "node_type": "item",
               "title": "qomu-dev-board",
-              "description": null,
+              "description": "QuickLogic-Corp/qomu-dev-board",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11752,7 +11752,7 @@
             {
               "node_type": "item",
               "title": "sodimm-ddr5-tester",
-              "description": null,
+              "description": "antmicro/sodimm-ddr5-tester",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11773,7 +11773,7 @@
             {
               "node_type": "item",
               "title": "lpddr5-testbed",
-              "description": null,
+              "description": "antmicro/lpddr5-testbed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11794,7 +11794,7 @@
             {
               "node_type": "item",
               "title": "arty-mpw-tester",
-              "description": null,
+              "description": "antmicro/arty-mpw-tester",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11826,7 +11826,7 @@
         {
           "node_type": "item",
           "title": "drom",
-          "description": null,
+          "description": "drom/awesome-hdl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11855,7 +11855,7 @@
         {
           "node_type": "item",
           "title": "delftopenhardware",
-          "description": null,
+          "description": "delftopenhardware/awesome-open-hardware",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11868,7 +11868,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1079,
+            "stars": 1080,
             "topics": [
               "awesome",
               "awesome-list",
@@ -11882,7 +11882,7 @@
         {
           "node_type": "item",
           "title": "kicad-3rd-party-tools",
-          "description": null,
+          "description": "devbisme/kicad-3rd-party-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11911,7 +11911,7 @@
         {
           "node_type": "item",
           "title": "semiconduoctor-startups",
-          "description": null,
+          "description": "aolofsson/awesome-semiconductor-startups",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11932,7 +11932,7 @@
         {
           "node_type": "item",
           "title": "joamateb",
-          "description": null,
+          "description": "joamatab/awesome_photonics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11958,7 +11958,7 @@
         {
           "node_type": "item",
           "title": "computer-engineering-resources",
-          "description": null,
+          "description": "rajesh-s/comp-arch-sys-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11985,7 +11985,7 @@
         {
           "node_type": "item",
           "title": "ben-marshall",
-          "description": null,
+          "description": "ben-marshall/awesome-open-hardware-verification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12017,7 +12017,7 @@
         {
           "node_type": "item",
           "title": "mattvenn",
-          "description": null,
+          "description": "mattvenn/awesome-opensource-asic-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12038,7 +12038,7 @@
         {
           "node_type": "item",
           "title": "hdl",
-          "description": null,
+          "description": "hdl/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12064,7 +12064,7 @@
         {
           "node_type": "item",
           "title": "pkuzjx",
-          "description": null,
+          "description": "pkuzjx/eda-collection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -12087,7 +12087,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:44:22.275Z",
+    "last_updated": "2026-10-03T04:59:46.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome open source hardware tools, generators, and reusable designs",
